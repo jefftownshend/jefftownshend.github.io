@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450207951746">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4052585179" ref="index:tr330:audio"/>
+    <file name="index.css" crc="3798797224" ref="index"/>
+    <file name="tr330.css" crc="515962581" ref="tr330"/>
+    <file name="audio.css" crc="116993853" ref="audio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:audio:tr330"/>
+    <file name="museutils.js" crc="275725342" ref="index:audio:tr330"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:audio:tr330"/>
+  </folder>
+  <folder name="images">
+    <file name="aaa-layer 7c.png" crc="3934648970" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 6c.png" crc="3768845847" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 4c.png" crc="4109038700" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 9c.png" crc="4147013062" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 10c.png" crc="234072588" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 0c.png" crc="3940574866" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 8c.png" crc="360345737" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 5c.png" crc="3785731761" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 12c.png" crc="138858356" seo="true" ref="index:audio:tr330"/>
+    <file name="aaa-layer 11c.png" crc="3858818610" seo="true" ref="index:audio:tr330"/>
+    <file name="siteinf.png" crc="323253901" seo="true" ref="index"/>
+    <file name="listeners.png" crc="4021965669" seo="true" ref="audio"/>
+    <file name="circle.png" crc="245911990" seo="true" ref="audio"/>
+    <file name="330-u336.png" crc="4176576815" ref="tr330"/>
+    <file name="aaa-u106.png" crc="4258268889" ref="index:audio:tr330"/>
+    <file name="aaa-u86.png" crc="3811250878" ref="index:audio:tr330"/>
+    <file name="aaa-u81.png" crc="330309200" ref="index:audio:tr330"/>
+  </folder>
+  <file name="index.html" crc="20869570" seo="true" mt="1450207922561" redirect="true"/>
+  <file name="audio.html" crc="3901212632" seo="true" mt="1450207922561" redirect="true"/>
+  <file name="tr330.html" crc="3955925128" seo="true" mt="1450207922561" redirect="true"/>
+</manifest>
