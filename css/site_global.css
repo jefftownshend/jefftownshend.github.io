@@ -87,25 +87,25 @@ body
 
 a:link
 {
-	color: #0000FF;
+	color: #851E22;
 	text-decoration: underline;
 }
 
 a:visited
 {
-	color: #800080;
+	color: #AD7028;
 	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #0000FF;
+	color: #851E22;
 	text-decoration: underline;
 }
 
 a:active
 {
-	color: #EE0000;
+	color: #851E22;
 	text-decoration: underline;
 }
 

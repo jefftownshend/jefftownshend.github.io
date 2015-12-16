@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #6D0BA8;
+	color: #00000A;
+	background-color: #624CB5;
 }
 
 .html
@@ -13,404 +13,90 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.8598043782015px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -20px;
-	padding-bottom: 207px;
+	margin-top: -1px;
+	padding-bottom: 62px;
 	width: 0.01px;
 }
 
-#pu106
+#pu376
 {
 	width: 0.01px;
-	margin-left: 45px;
+	margin-left: -1px;
 }
 
-#u106
+#u376
 {
 	z-index: 2;
-	margin-right: -10000px;
-	margin-top: 44px;
-	left: 56px;
-}
-
-#u86
-{
-	z-index: 4;
-	margin-right: -10000px;
-	margin-top: 3px;
-	left: 160px;
-}
-
-#u81
-{
-	z-index: 6;
-	margin-right: -10000px;
-}
-
-#u293
-{
-	z-index: 33;
-	width: 255px;
-	height: 91px;
-	margin-right: -10000px;
-}
-
-.ie #u293
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
-}
-
-#buttonu238
-{
-	z-index: 23;
-	width: 152px;
-	padding-bottom: 1px;
-	margin-left: 17px;
-	margin-top: 7px;
-}
-
-#buttonu238:hover
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 7px 0px 0px 17px;
-}
-
-#buttonu238.ButtonSelected
-{
-	width: 152px;
-	min-height: 0px;
-	margin: 7px 0px 0px 17px;
-}
-
-#u197
-{
-	z-index: 24;
-	width: 17px;
-	margin-right: -10000px;
-}
-
-#buttonu238:hover #u197
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u192
-{
-	z-index: 26;
-	width: 143px;
+	width: 359px;
 	margin-right: -10000px;
 	margin-top: 4px;
-	left: 9px;
 }
 
-#buttonu238:hover #u192
-{
-	width: 143px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#buttonu238.ButtonSelected #u192
-{
-	width: 143px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#buttonu228
-{
-	z-index: 8;
-	width: 94px;
-	padding-bottom: 3px;
-	margin-left: 19px;
-}
-
-#buttonu228:hover
-{
-	width: 94px;
-	min-height: 0px;
-	margin: 0px 0px 0px 19px;
-}
-
-#buttonu228.ButtonSelected
-{
-	width: 94px;
-	min-height: 0px;
-	margin: 0px 0px 0px 19px;
-}
-
-#u182
-{
-	z-index: 9;
-	width: 87px;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 6px;
-}
-
-#buttonu228:hover #u182
-{
-	width: 87px;
-	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
-}
-
-#u207
-{
-	z-index: 11;
-	width: 18px;
-	margin-right: -10000px;
-}
-
-#buttonu228:hover #u207
-{
-	width: 18px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#ppbuttonu235
+#ppu382
 {
 	width: 0.01px;
-	margin-left: 15px;
-	margin-top: -5px;
-}
-
-#pbuttonu235
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 10px;
-}
-
-#buttonu235
-{
-	z-index: 18;
-	width: 102px;
-	padding-bottom: 3px;
-	margin-left: 1px;
-}
-
-#buttonu235:hover
-{
-	width: 102px;
-	min-height: 0px;
-	margin: 0px 0px 0px 1px;
-}
-
-#buttonu235.ButtonSelected
-{
-	width: 102px;
-	min-height: 0px;
-	margin: 0px 0px 0px 1px;
-}
-
-#u212
-{
-	z-index: 19;
-	width: 86px;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 10px;
-}
-
-#buttonu235:hover #u212
-{
-	width: 86px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#buttonu235.ButtonSelected #u212
-{
-	width: 86px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#u177
-{
-	z-index: 21;
-	width: 18px;
-	margin-right: -10000px;
-	left: 1px;
-}
-
-#buttonu228.ButtonSelected #u207,#buttonu235:hover #u177
-{
-	width: 18px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu235.ButtonSelected #u177
-{
-	width: 18px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu232
-{
-	z-index: 13;
-	width: 98px;
-	padding-bottom: 3px;
-	margin-left: 1px;
-	margin-top: 3px;
-}
-
-#buttonu232:hover
-{
-	width: 98px;
-	min-height: 0px;
-	margin: 3px 0px 0px 1px;
-}
-
-#buttonu232.ButtonSelected
-{
-	width: 98px;
-	min-height: 0px;
-	margin: 3px 0px 0px 1px;
-}
-
-#u202
-{
-	z-index: 14;
-	width: 87px;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 7px;
-}
-
-#buttonu228.ButtonSelected #u182,#buttonu232:hover #u202
-{
-	width: 87px;
-	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
-}
-
-#buttonu232.ButtonSelected #u202
-{
-	width: 87px;
-	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
-}
-
-#u187
-{
-	z-index: 16;
-	width: 17px;
-	margin-right: -10000px;
-}
-
-#buttonu238.ButtonSelected #u197,#buttonu232:hover #u187
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu232.ButtonSelected #u187
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#buttonu241
-{
-	z-index: 28;
-	width: 86px;
-	padding-bottom: 5px;
-	margin-top: 5px;
-}
-
-#buttonu241:hover
-{
-	width: 86px;
-	min-height: 0px;
-	margin: 5px 0px 0px;
-}
-
-#buttonu241.ButtonSelected
-{
-	width: 86px;
-	min-height: 0px;
-	margin: 5px 0px 0px;
-}
-
-#u172
-{
-	z-index: 29;
-	width: 71px;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 10px;
-}
-
-#buttonu241:hover #u172
-{
-	width: 71px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#buttonu241.ButtonSelected #u172
-{
-	width: 71px;
-	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#u167
-{
-	z-index: 31;
-	width: 19px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 1px;
+	margin-left: 390px;
 }
 
-#buttonu241:hover #u167
+#u382
 {
-	width: 19px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	z-index: 11;
+	height: 25px;
+	width: 90px;
 }
 
-#buttonu241.ButtonSelected #u167
+#u387
 {
-	width: 19px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	z-index: 8;
+	height: 25px;
+	width: 87px;
+	margin-top: 7px;
 }
 
-#u330
+#ppu392
 {
-	z-index: 34;
-	width: 350px;
-	background-color: transparent;
-	position: relative;
+	width: 0.01px;
 	margin-right: -10000px;
-	left: 162px;
+	margin-left: 498px;
+}
+
+#u392
+{
+	z-index: 5;
+	height: 26px;
+	width: 91px;
+}
+
+#u413
+{
+	z-index: 14;
+	height: 25px;
+	width: 72px;
+	margin-left: 3px;
+	margin-top: 6px;
+}
+
+#u736
+{
+	z-index: 16;
+	width: 510px;
+	background-color: transparent;
+	margin-left: 45px;
+	margin-top: 28px;
+	position: relative;
 }
 
 body
