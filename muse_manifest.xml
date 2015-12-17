@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450328164386">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450328399639">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3914850655"/>
     <file name="master_a-master.css" crc="3824267653" ref="index:tr330:audio:video:image:blog"/>
-    <file name="index.css" crc="164914344" ref="index"/>
+    <file name="index.css" crc="215218163" ref="index"/>
     <file name="tr330.css" crc="62578649" ref="tr330"/>
     <file name="audio.css" crc="4241944408" ref="audio"/>
     <file name="video.css" crc="3825367582" ref="video"/>
@@ -31,7 +31,7 @@
     <file name="listeners.png" crc="303108272" seo="true" ref="audio"/>
     <file name="alisten.png" crc="3959855247" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="37595758" seo="true" mt="1450328151790" redirect="true"/>
+  <file name="index.html" crc="3804681752" seo="true" mt="1450328389898" redirect="true"/>
   <file name="audio.html" crc="3777977579" seo="true" mt="1450259605732" redirect="true"/>
   <file name="tr330.html" crc="530510342" seo="true" mt="1450259186714" redirect="true"/>
   <file name="image.html" crc="349803206" seo="true" mt="1450249142895" redirect="true"/>
