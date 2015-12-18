@@ -1,7 +1,7 @@
 .version.interactive /* version checker */
 {
-	color: #000009;
-	background-color: #4ED28E;
+	color: #00001E;
+	background-color: #442D4B;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 481px;
+	min-height: 486px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 19px;
+	padding-bottom: 14px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -66,8 +66,8 @@
 #u916
 {
 	z-index: 22;
-	height: 30px;
-	width: 62px;
+	height: 29px;
+	width: 61px;
 	margin-right: -10000px;
 	margin-top: 19px;
 	left: 429px;
@@ -76,8 +76,8 @@
 #u910
 {
 	z-index: 19;
-	height: 28px;
-	width: 77px;
+	height: 27px;
+	width: 76px;
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 500px;
@@ -86,8 +86,9 @@
 #pu376
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 480px;
+	margin-top: 486px;
 	margin-left: 20px;
 }
 
@@ -108,7 +109,7 @@
 #pu837
 {
 	width: 0.01px;
-	margin-top: -1px;
+	padding-bottom: 2px;
 }
 
 #u837
@@ -116,6 +117,7 @@
 	z-index: 4;
 	width: 270px;
 	margin-right: -10000px;
+	margin-top: 2px;
 }
 
 #u922
@@ -123,7 +125,8 @@
 	z-index: 24;
 	width: 249px;
 	margin-right: -10000px;
-	left: 309px;
+	margin-top: 2px;
+	left: 311px;
 }
 
 body
@@ -137,6 +140,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -480px;
+	margin-bottom: -486px;
 }
 

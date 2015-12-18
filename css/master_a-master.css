@@ -76,9 +76,21 @@
 	position: relative;
 }
 
-#u837,#u922
+#u837
 {
 	background-color: transparent;
+	-webkit-transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
+	-ms-transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
+	transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
+	position: relative;
+}
+
+#u922
+{
+	background-color: transparent;
+	-webkit-transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
+	-ms-transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
+	transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
 	position: relative;
 }
 
