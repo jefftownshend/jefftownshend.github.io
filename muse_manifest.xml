@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450475908773">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450476069228">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="64419742"/>
     <file name="master_a-master.css" crc="3896733012" ref="index:tr330:audio:video:image:blog:about:interactive"/>
     <file name="index.css" crc="4286891786" ref="index"/>
-    <file name="tr330.css" crc="3818631860" ref="tr330"/>
+    <file name="tr330.css" crc="524147912" ref="tr330"/>
     <file name="audio.css" crc="4126971665" ref="audio"/>
     <file name="video.css" crc="4030526987" ref="video"/>
     <file name="image.css" crc="4030526987" ref="image"/>
@@ -18,7 +18,6 @@
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="museutils.js" crc="275725342" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="pie.js" crc="3827607177" ref="tr330"/>
   </folder>
   <folder name="images">
     <file name="330.gif" crc="67735050" seo="true" ref="tr330:index"/>
@@ -29,7 +28,7 @@
   </folder>
   <file name="index.html" crc="4269021769" seo="true" mt="1450475887169" redirect="true"/>
   <file name="audio.html" crc="4049239343" seo="true" mt="1450475803825" redirect="true"/>
-  <file name="tr330.html" crc="347369685" seo="true" mt="1450475803825" redirect="true"/>
+  <file name="tr330.html" crc="534530109" seo="true" mt="1450476056685" redirect="true"/>
   <file name="image.html" crc="230352417" seo="true" mt="1450475803825" redirect="true"/>
   <file name="video.html" crc="469643005" seo="true" mt="1450475803825" redirect="true"/>
   <file name="blog.html" crc="3806583136" seo="true" mt="1450475803825" redirect="true"/>

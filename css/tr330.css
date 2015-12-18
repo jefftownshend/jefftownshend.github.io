@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000E3;
-	background-color: #9BB2B4;
+	color: #00001F;
+	background-color: #3DDCC8;
 }
 
 .html
@@ -14,8 +14,6 @@
 	z-index: 1;
 	width: 600px;
 	min-height: 673px;
-	-pie-box-shadow: -7px 4px 8px #7F7F7F;
-	box-shadow: -7px 4px 8px rgba(0,0,0,0.5);
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
