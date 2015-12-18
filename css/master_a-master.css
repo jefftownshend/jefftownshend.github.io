@@ -1,96 +1,12 @@
-#u898
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u898.png") no-repeat 0px 0px;
-}
-
-#u898:hover
-{
-	background: url("../images/u898-r.png") no-repeat 0px 0px;
-}
-
-#u904
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u904.png") no-repeat 0px 0px;
-}
-
-#u904:hover
-{
-	background: url("../images/u904-r.png") no-repeat 0px 0px;
-}
-
-#u892
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u892.png") no-repeat 0px 0px;
-}
-
-#u892:hover
-{
-	background: url("../images/u892-r.png") no-repeat 0px 0px;
-}
-
-#u886
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u886.png") no-repeat 0px 0px;
-}
-
-#u886:hover
-{
-	background: url("../images/u886-r.png") no-repeat 0px 0px;
-}
-
-#u916
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u916.png") no-repeat 0px 0px;
-}
-
-#u916:hover
-{
-	background: url("../images/u916-r.png") no-repeat 0px 0px;
-}
-
-#u910
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u910.png") no-repeat 0px 0px;
-}
-
-#u910:hover
-{
-	background: url("../images/u910-r.png") no-repeat 0px 0px;
-}
-
-#u376
+#u1090,#u1105,#u1110,#u1120,#u1095,#u1100,#u376
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u837
+#u1115,#u1125
 {
 	background-color: transparent;
-	-webkit-transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
-	-ms-transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
-	transform: matrix(0.9998,-0.0175,0.0175,0.9998,0,2);
-	position: relative;
-}
-
-#u922
-{
-	background-color: transparent;
-	-webkit-transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
-	-ms-transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
-	transform: matrix(0.9998,0.0175,-0.0175,0.9998,0,-2);
 	position: relative;
 }
 

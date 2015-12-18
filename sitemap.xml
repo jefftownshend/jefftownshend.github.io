@@ -7,74 +7,110 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://shend.town/images/sandg.png</loc>
-    <lastmod>2015-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shend.town/images/scan%205-emailc.png</loc>
-    <lastmod>2015-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shend.town/images/scan%205-londonc.png</loc>
-    <lastmod>2015-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://shend.town/images/sitetexter-titc.png</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/audio.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/image.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/video.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/interactive.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/blog.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/about.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/sandg.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/email.gif</loc>
+    <lastmod>2015-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/london.gif</loc>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/index.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/audio.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/tr330.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/image.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/video.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/blog.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/interactive.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/about.html</loc>
-    <lastmod>2015-12-17</lastmod>
+    <lastmod>2015-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

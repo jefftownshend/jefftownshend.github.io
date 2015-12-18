@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450412158693">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450455789624">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="64419742"/>
-    <file name="master_a-master.css" crc="4217849880" ref="index:tr330:audio:video:image:blog:about:interactive"/>
-    <file name="index.css" crc="4278104707" ref="index"/>
-    <file name="tr330.css" crc="3760722787" ref="tr330"/>
-    <file name="audio.css" crc="3977140369" ref="audio"/>
-    <file name="video.css" crc="145200808" ref="video"/>
-    <file name="image.css" crc="145200808" ref="image"/>
-    <file name="blog.css" crc="145200808" ref="blog"/>
-    <file name="about.css" crc="145200808" ref="about"/>
-    <file name="interactive.css" crc="145200808" ref="interactive"/>
+    <file name="master_a-master.css" crc="4280293367" ref="index:tr330:audio:video:image:blog:about:interactive"/>
+    <file name="index.css" crc="271807293" ref="index"/>
+    <file name="tr330.css" crc="3763405035" ref="tr330"/>
+    <file name="audio.css" crc="4275641255" ref="audio"/>
+    <file name="video.css" crc="123342711" ref="video"/>
+    <file name="image.css" crc="123342711" ref="image"/>
+    <file name="blog.css" crc="123342711" ref="blog"/>
+    <file name="about.css" crc="123342711" ref="about"/>
+    <file name="interactive.css" crc="123342711" ref="interactive"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:audio:tr330:image:video:blog:interactive:about"/>
@@ -21,29 +21,23 @@
   </folder>
   <folder name="images">
     <file name="330-u336.png" crc="3890228730" ref="tr330"/>
-    <file name="sandg.png" crc="102191098" seo="true" ref="index"/>
-    <file name="u898.png" crc="419882249" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u898-r.png" crc="117818204" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u904.png" crc="388592253" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u904-r.png" crc="379197766" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u892.png" crc="531961794" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u892-r.png" crc="4096709571" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u886.png" crc="4029354765" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u886-r.png" crc="513959325" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u916.png" crc="4191184747" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u916-r.png" crc="3824046306" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u910.png" crc="4193821628" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="u910-r.png" crc="3779969321" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="scan 5-emailc.png" crc="3854468962" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
-    <file name="scan 5-londonc.png" crc="4075713095" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="sitetexter-titc.png" crc="39598543" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="audio.gif" crc="355531729" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="image.gif" crc="3840742789" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="video.gif" crc="360242548" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="interactive.gif" crc="4233768646" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="blog.gif" crc="17319607" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="about.gif" crc="4244384360" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="sandg.gif" crc="4017756968" seo="true" ref="index"/>
+    <file name="email.gif" crc="203384128" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="london.gif" crc="137687664" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
   </folder>
-  <file name="index.html" crc="4023793989" seo="true" mt="1450410529804" redirect="true"/>
-  <file name="audio.html" crc="153153031" seo="true" mt="1450410511871" redirect="true"/>
-  <file name="tr330.html" crc="233223836" seo="true" mt="1450411283963" redirect="true"/>
-  <file name="image.html" crc="4192251434" seo="true" mt="1450410511871" redirect="true"/>
-  <file name="video.html" crc="492995473" seo="true" mt="1450410511871" redirect="true"/>
-  <file name="blog.html" crc="31366845" seo="true" mt="1450410511871" redirect="true"/>
-  <file name="interactive.html" crc="3796022873" seo="true" mt="1450410511871" redirect="true"/>
-  <file name="about.html" crc="4072548801" seo="true" mt="1450410511871" redirect="true"/>
+  <file name="index.html" crc="4091169478" seo="true" mt="1450455686175" redirect="true"/>
+  <file name="audio.html" crc="513889873" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="tr330.html" crc="4098556586" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="image.html" crc="283024515" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="video.html" crc="380352271" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="blog.html" crc="198358710" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="interactive.html" crc="399042584" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="about.html" crc="3776375663" seo="true" mt="1450455662733" redirect="true"/>
 </manifest>
