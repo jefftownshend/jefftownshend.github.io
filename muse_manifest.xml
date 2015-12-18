@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450455789624">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450456003040">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="64419742"/>
     <file name="master_a-master.css" crc="4280293367" ref="index:tr330:audio:video:image:blog:about:interactive"/>
     <file name="index.css" crc="271807293" ref="index"/>
-    <file name="tr330.css" crc="3763405035" ref="tr330"/>
+    <file name="tr330.css" crc="3843020806" ref="tr330"/>
     <file name="audio.css" crc="4275641255" ref="audio"/>
     <file name="video.css" crc="123342711" ref="video"/>
     <file name="image.css" crc="123342711" ref="image"/>
@@ -20,7 +20,6 @@
     <file name="jquery.watch.js" crc="3999102769" ref="index:audio:tr330:image:video:blog:interactive:about"/>
   </folder>
   <folder name="images">
-    <file name="330-u336.png" crc="3890228730" ref="tr330"/>
     <file name="sitetexter-titc.png" crc="39598543" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="audio.gif" crc="355531729" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="image.gif" crc="3840742789" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
@@ -31,10 +30,11 @@
     <file name="sandg.gif" crc="4017756968" seo="true" ref="index"/>
     <file name="email.gif" crc="203384128" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
     <file name="london.gif" crc="137687664" seo="true" ref="index:audio:tr330:image:video:blog:interactive:about"/>
+    <file name="330.gif" crc="67735050" seo="true" ref="tr330"/>
   </folder>
   <file name="index.html" crc="4091169478" seo="true" mt="1450455686175" redirect="true"/>
   <file name="audio.html" crc="513889873" seo="true" mt="1450455662733" redirect="true"/>
-  <file name="tr330.html" crc="4098556586" seo="true" mt="1450455662733" redirect="true"/>
+  <file name="tr330.html" crc="108491077" seo="true" mt="1450455986802" redirect="true"/>
   <file name="image.html" crc="283024515" seo="true" mt="1450455662733" redirect="true"/>
   <file name="video.html" crc="380352271" seo="true" mt="1450455662733" redirect="true"/>
   <file name="blog.html" crc="198358710" seo="true" mt="1450455662733" redirect="true"/>
