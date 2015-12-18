@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000E5;
-	background-color: #0FD806;
+	color: #000008;
+	background-color: #2D1313;
 }
 
 .html
@@ -89,8 +89,8 @@
 	width: 560px;
 	min-height: 178px;
 	background-color: transparent;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
