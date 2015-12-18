@@ -1,7 +1,7 @@
 .version.audio /* version checker */
 {
-	color: #0000F0;
-	background-color: #D72AC9;
+	color: #0000ED;
+	background-color: #0E5891;
 }
 
 .html
@@ -166,6 +166,11 @@
 	margin-right: -10000px;
 	margin-top: 2px;
 	left: 311px;
+}
+
+#u922_img
+{
+	padding-right: 3px;
 }
 
 body

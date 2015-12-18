@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #00001E;
-	background-color: #442D4B;
+	color: #000008;
+	background-color: #A796A8;
 }
 
 .html
@@ -127,6 +127,11 @@
 	margin-right: -10000px;
 	margin-top: 2px;
 	left: 311px;
+}
+
+#u922_img
+{
+	padding-right: 3px;
 }
 
 body
