@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #00001A;
-	background-color: #CDC8DC;
+	color: #000019;
+	background-color: #39080C;
 }
 
 .html
@@ -13,19 +13,19 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 528.5370742783807px;
+	min-height: 528.4015290047382px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-bottom: 1px;
+	margin-top: -1px;
 	width: 0.01px;
 }
 
@@ -40,6 +40,16 @@
 	height: 25px;
 	width: 90px;
 	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u392
+{
+	z-index: 5;
+	height: 26px;
+	width: 91px;
+	margin-right: -10000px;
+	left: 108px;
 }
 
 #u387
@@ -49,15 +59,6 @@
 	width: 87px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 110px;
-}
-
-#u392
-{
-	z-index: 5;
-	height: 26px;
-	width: 91px;
-	margin-right: -10000px;
 	left: 217px;
 }
 
@@ -68,14 +69,14 @@
 	width: 72px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 327px;
+	left: 323px;
 }
 
 #pu336
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 5px;
+	margin-top: 21px;
 }
 
 #u336
@@ -88,7 +89,7 @@
 	left: 324px;
 }
 
-#u342-21
+#u342-23
 {
 	z-index: 18;
 	width: 560px;
@@ -99,22 +100,27 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
+	margin-top: 15px;
 }
 
-#u342-2,#u342-3,#u342-5
+#u342-2
+{
+	font-weight: bold;
+}
+
+#u342-4,#u342-5,#u342-7
 {
 	padding-right: 250px;
 }
 
-#u342-6
+#u342-8
 {
 	padding-right: 213px;
 }
 
 #u468
 {
-	z-index: 39;
+	z-index: 41;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -122,18 +128,20 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 389px;
+	margin-top: 390px;
 	left: 56px;
 }
 
 #u749
 {
-	z-index: 40;
-	width: 200px;
-	min-height: 104px;
+	z-index: 42;
+	width: 404px;
+	min-height: 75px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	font-size: 11px;
+	line-height: 13px;
 	font-family: Courier New, Courier, monospace;
 	margin-left: 20px;
 	margin-top: 18px;

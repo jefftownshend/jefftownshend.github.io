@@ -1,7 +1,7 @@
 .version.audio /* version checker */
 {
-	color: #000010;
-	background-color: #5D2FF5;
+	color: #000016;
+	background-color: #89560F;
 }
 
 .html
@@ -13,16 +13,23 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 500px;
+	min-height: 499.58315991115205px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content,#ppu382
+#page_position_content
+{
+	margin-top: -1px;
+	width: 0.01px;
+}
+
+#ppu382
 {
 	width: 0.01px;
 }
@@ -33,6 +40,16 @@
 	height: 25px;
 	width: 90px;
 	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u392
+{
+	z-index: 5;
+	height: 26px;
+	width: 91px;
+	margin-right: -10000px;
+	left: 108px;
 }
 
 #u387
@@ -42,15 +59,6 @@
 	width: 87px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 110px;
-}
-
-#u392
-{
-	z-index: 5;
-	height: 26px;
-	width: 91px;
-	margin-right: -10000px;
 	left: 217px;
 }
 
@@ -61,7 +69,7 @@
 	width: 72px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 327px;
+	left: 323px;
 }
 
 #u286-7
@@ -72,7 +80,7 @@
 	background-color: transparent;
 	font-weight: bold;
 	margin-left: 20px;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -99,7 +107,7 @@
 	width: 384px;
 	background-color: transparent;
 	margin-left: 108px;
-	margin-top: 50px;
+	margin-top: 49px;
 	position: relative;
 }
 

@@ -10,18 +10,6 @@
 	background: url("../images/u382-r.png") no-repeat 0px 0px;
 }
 
-#u387
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u387.png") no-repeat 0px 0px;
-}
-
-#u387:hover
-{
-	background: url("../images/u387-r.png") no-repeat 0px 0px;
-}
-
 #u392
 {
 	vertical-align: top;
@@ -32,6 +20,18 @@
 #u392:hover
 {
 	background: url("../images/u392-r.png") no-repeat 0px 0px;
+}
+
+#u387
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u387.png") no-repeat 0px 0px;
+}
+
+#u387:hover
+{
+	background: url("../images/u387-r.png") no-repeat 0px 0px;
 }
 
 #u413
