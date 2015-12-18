@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000E5;
-	background-color: #E096C3;
+	color: #0000E0;
+	background-color: #281363;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 560px;
-	min-height: 496.818095339971px;
+	min-height: 687.9536406136135px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 18px 20px 14.181904660028977px;
+	padding: 18px 20px 14.046359386386484px;
 }
 
 #ppu898
@@ -165,13 +165,14 @@
 	z-index: 2;
 	width: 359px;
 	margin-left: 101px;
+	margin-top: 51px;
 }
 
 #u376:hover
 {
 	width: 359px;
 	min-height: 0px;
-	margin: 0px 0px 0px 101px;
+	margin: 51px 0px 0px 101px;
 }
 
 #pu837
