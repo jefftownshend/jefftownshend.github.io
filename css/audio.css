@@ -1,7 +1,7 @@
 .version.audio /* version checker */
 {
-	color: #000016;
-	background-color: #89560F;
+	color: #0000F5;
+	background-color: #BF5E89;
 }
 
 .html
@@ -101,22 +101,12 @@
 	font-weight: normal;
 }
 
-#u752
-{
-	z-index: 23;
-	width: 384px;
-	background-color: transparent;
-	margin-left: 108px;
-	margin-top: 49px;
-	position: relative;
-}
-
 #u376
 {
 	z-index: 2;
 	width: 359px;
 	margin-left: 241px;
-	margin-top: 170px;
+	margin-top: 415px;
 }
 
 body
