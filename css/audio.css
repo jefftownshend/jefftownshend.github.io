@@ -1,7 +1,7 @@
 .version.audio /* version checker */
 {
-	color: #0000F5;
-	background-color: #BF5E89;
+	color: #0000EE;
+	background-color: #77F361;
 }
 
 .html
@@ -13,73 +13,74 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.58315991115205px;
+	min-height: 481px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
+	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	margin-top: -1px;
-	width: 0.01px;
-}
-
-#ppu382
+#pppu898
 {
 	width: 0.01px;
-}
-
-#u382
-{
-	z-index: 11;
-	height: 25px;
-	width: 90px;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-top: 18px;
+	margin-left: 20px;
 }
 
-#u392
+#ppu898
 {
-	z-index: 5;
+	width: 0.01px;
+	margin-left: 4px;
+}
+
+#u898
+{
+	z-index: 13;
 	height: 26px;
-	width: 91px;
+	width: 71px;
 	margin-right: -10000px;
-	left: 108px;
 }
 
-#u387
+#u904
 {
-	z-index: 8;
-	height: 25px;
-	width: 87px;
+	z-index: 16;
+	height: 24px;
+	width: 73px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 217px;
+	margin-top: 2px;
+	left: 81px;
 }
 
-#u413
+#u892
 {
-	z-index: 14;
-	height: 25px;
-	width: 72px;
+	z-index: 10;
+	height: 26px;
+	width: 70px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 323px;
+	margin-top: 2px;
+	left: 163px;
+}
+
+#u886
+{
+	z-index: 7;
+	height: 29px;
+	width: 153px;
+	margin-right: -10000px;
+	left: 243px;
 }
 
 #u286-7
 {
-	z-index: 16;
+	z-index: 26;
 	width: 377px;
 	min-height: 56px;
 	background-color: transparent;
 	font-weight: bold;
-	margin-left: 20px;
 	margin-top: 20px;
 	position: relative;
 }
@@ -101,12 +102,67 @@
 	font-weight: normal;
 }
 
+#u916
+{
+	z-index: 22;
+	height: 30px;
+	width: 62px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 429px;
+}
+
+#u910
+{
+	z-index: 19;
+	height: 28px;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 500px;
+}
+
+#pu376
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 480px;
+	margin-left: 20px;
+}
+
 #u376
 {
 	z-index: 2;
 	width: 359px;
-	margin-left: 241px;
-	margin-top: 415px;
+	margin-left: 101px;
+}
+
+#u376:hover
+{
+	width: 359px;
+	min-height: 0px;
+	margin: 0px 0px 0px 101px;
+}
+
+#pu837
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#u837
+{
+	z-index: 4;
+	width: 270px;
+	margin-right: -10000px;
+}
+
+#u922
+{
+	z-index: 24;
+	width: 249px;
+	margin-right: -10000px;
+	left: 309px;
 }
 
 body
@@ -120,5 +176,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -480px;
 }
 

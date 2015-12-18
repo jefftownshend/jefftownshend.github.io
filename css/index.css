@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #0CCD34;
+	color: #0000F7;
+	background-color: #2C0632;
 }
 
 .html
@@ -13,80 +13,102 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 499.5409886456092px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -1px;
+	padding-top: 18px;
+	padding-bottom: 19px;
 	width: 0.01px;
 }
 
-#ppu382
+#ppu898
 {
 	width: 0.01px;
+	margin-left: 24px;
 }
 
-#u382
+#u898
 {
-	z-index: 11;
-	height: 25px;
-	width: 90px;
-	margin-right: -10000px;
-	margin-top: 1px;
-}
-
-#u392
-{
-	z-index: 5;
+	z-index: 13;
 	height: 26px;
-	width: 91px;
+	width: 71px;
 	margin-right: -10000px;
-	left: 108px;
 }
 
-#u387
+#u904
 {
-	z-index: 8;
-	height: 25px;
-	width: 87px;
+	z-index: 16;
+	height: 24px;
+	width: 73px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 217px;
+	margin-top: 2px;
+	left: 81px;
 }
 
-#u413
+#u892
 {
-	z-index: 14;
-	height: 25px;
-	width: 72px;
+	z-index: 10;
+	height: 26px;
+	width: 70px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 163px;
+}
+
+#u886
+{
+	z-index: 7;
+	height: 29px;
+	width: 153px;
+	margin-right: -10000px;
+	left: 243px;
+}
+
+#u916
+{
+	z-index: 22;
+	height: 30px;
+	width: 62px;
+	margin-bottom: -1px;
 	margin-right: -10000px;
 	margin-top: 1px;
-	left: 323px;
+	left: 406px;
+}
+
+#u910
+{
+	z-index: 19;
+	height: 28px;
+	width: 77px;
+	margin-bottom: -1px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 476px;
 }
 
 #u808
 {
-	z-index: 16;
+	z-index: 26;
 	width: 624px;
 	background-color: transparent;
 	left: -12px;
-	margin-top: 20px;
+	margin-top: 19px;
 	position: relative;
 }
 
 #pu376
 {
 	width: 0.01px;
-	margin-left: 229px;
-	margin-top: 49px;
+	margin-left: 115px;
+	margin-top: 8px;
 }
 
 #u376
@@ -94,18 +116,46 @@
 	z-index: 2;
 	width: 359px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 12px;
+	left: 6px;
+}
+
+#u376:hover
+{
+	width: 359px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u814
 {
-	z-index: 18;
+	z-index: 28;
 	width: 371px;
-	height: 62px;
+	height: 45px;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#pu837
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: -2px;
+}
+
+#u837
+{
+	z-index: 4;
+	width: 270px;
+	margin-right: -10000px;
+}
+
+#u922
+{
+	z-index: 24;
+	width: 249px;
+	margin-right: -10000px;
+	left: 309px;
 }
 
 body
