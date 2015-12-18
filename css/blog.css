@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #000007;
-	background-color: #5A0F77;
+	color: #0000E8;
+	background-color: #0C43CD;
 }
 
 .html
@@ -13,112 +13,100 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 485px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 15px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u1090
+#u1158
 {
 	z-index: 4;
-	width: 80px;
+	width: 81px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 12px;
+	margin-top: 2px;
+	left: 11px;
 }
 
-#u1105
+#u1173
 {
 	z-index: 10;
-	width: 77px;
+	width: 82px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 98px;
+	margin-top: 1px;
+	left: 96px;
 }
 
-#u1110
+#u1198
+{
+	z-index: 18;
+	width: 80px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 182px;
+}
+
+#u1178
 {
 	z-index: 12;
-	width: 78px;
+	width: 168px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 181px;
+	left: 266px;
 }
 
-#u1120
-{
-	z-index: 16;
-	width: 165px;
-	margin-right: -10000px;
-	margin-top: 21px;
-	left: 265px;
-}
-
-#u1095
+#u1163
 {
 	z-index: 6;
-	width: 66px;
+	width: 67px;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 437px;
+	margin-top: 1px;
+	left: 438px;
 }
 
-#u1100
+#u1152
 {
-	z-index: 8;
-	width: 79px;
+	z-index: 2;
+	width: 80px;
 	margin-right: -10000px;
-	margin-top: 20px;
 	left: 509px;
 }
 
-#pu376
+#pu1193
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 485px;
-	margin-left: 20px;
+	margin-top: 517px;
 }
 
-#u376
+#u1193
 {
-	z-index: 2;
-	width: 359px;
-	margin-left: 101px;
+	z-index: 16;
+	width: 330px;
+	margin-left: 137px;
 }
 
-#u376:hover
-{
-	width: 359px;
-	min-height: 0px;
-	margin: 0px 0px 0px 101px;
-}
-
-#pu1115
+#pu1168
 {
 	width: 0.01px;
-	margin-top: 1px;
 }
 
-#u1115
+#u1168
+{
+	z-index: 8;
+	width: 292px;
+	margin-right: -10000px;
+}
+
+#u1183
 {
 	z-index: 14;
-	width: 275px;
+	width: 256px;
 	margin-right: -10000px;
-}
-
-#u1125
-{
-	z-index: 18;
-	width: 241px;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 319px;
+	margin-top: 6px;
+	left: 344px;
 }
 
 body
@@ -132,6 +120,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -485px;
+	margin-bottom: -517px;
 }
 
