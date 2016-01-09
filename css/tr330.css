@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000EF;
-	background-color: #D912AA;
+	color: #0000F6;
+	background-color: #1739FF;
 }
 
 .html
@@ -37,13 +37,13 @@
 	margin-left: 115px;
 }
 
-#pu342-29
+#pu342-31
 {
 	width: 0.01px;
 	margin-top: 13px;
 }
 
-#u342-29
+#u342-31
 {
 	z-index: 8;
 	width: 560px;
@@ -67,14 +67,14 @@
 	padding-right: 213px;
 }
 
-#u342-2,#u342-24
+#u342-2,#u342-26
 {
 	font-weight: bold;
 }
 
 #u468
 {
-	z-index: 37;
+	z-index: 39;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -82,31 +82,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 496px;
-	left: 77px;
-}
-
-#u749
-{
-	z-index: 38;
-	width: 88px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	font-size: 10px;
-	text-align: right;
-	line-height: 12px;
-	font-family: Courier New, Courier, monospace;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 434px;
-	left: 6px;
+	margin-top: 494px;
+	left: 66px;
 }
 
 #u1251
 {
-	z-index: 39;
+	z-index: 40;
 	width: 231px;
 	background-color: transparent;
 	position: relative;
