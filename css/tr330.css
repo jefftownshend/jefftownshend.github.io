@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #000014;
-	background-color: #02DE45;
+	color: #000009;
+	background-color: #73A2C5;
 }
 
 .html
@@ -22,28 +22,26 @@
 	margin-right: auto;
 }
 
-#pu1193
+#page_position_content
 {
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-left: 8px;
 }
 
 #u1193
 {
 	z-index: 6;
 	width: 330px;
-	margin-left: 127px;
+	margin-left: 135px;
 }
 
-#pu342-20
+#pu342-25
 {
 	width: 0.01px;
+	margin-left: 20px;
 	margin-top: 13px;
 }
 
-#u342-20
+#u342-25
 {
 	z-index: 8;
 	width: 560px;
@@ -55,12 +53,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 45px;
-	left: 12px;
-}
-
-#u342-2
-{
-	font-weight: bold;
 }
 
 #u342-4,#u342-5,#u342-7
@@ -73,25 +65,16 @@
 	padding-right: 213px;
 }
 
-#u468
+#u342-2,#u342-22
 {
-	z-index: 28;
-	width: 300px;
-	min-height: 35px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 361px;
-	left: 66px;
+	font-weight: bold;
 }
 
 #u749
 {
-	z-index: 29;
-	width: 561px;
-	min-height: 63px;
+	z-index: 34;
+	width: 88px;
+	min-height: 24px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -101,17 +84,37 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 378px;
+	margin-top: 371px;
+	left: 5px;
 }
 
 #u1251
 {
-	z-index: 30;
+	z-index: 35;
 	width: 231px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 330px;
+	left: 318px;
+}
+
+#u468
+{
+	z-index: 33;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 30px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#pu1168
+{
+	width: 0.01px;
+	margin-top: 19px;
 }
 
 #u1168
@@ -119,7 +122,6 @@
 	z-index: 2;
 	width: 292px;
 	margin-right: -10000px;
-	margin-top: 515px;
 }
 
 #u1183
@@ -127,7 +129,7 @@
 	z-index: 4;
 	width: 256px;
 	margin-right: -10000px;
-	margin-top: 521px;
+	margin-top: 6px;
 	left: 344px;
 }
 
@@ -142,6 +144,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -514px;
 }
 
