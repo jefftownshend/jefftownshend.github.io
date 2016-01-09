@@ -25,6 +25,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://shend.town/images/330sm.png</loc>
+    <lastmod>2016-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/3303.png</loc>
+    <lastmod>2016-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://shend.town/index.html</loc>
     <lastmod>2016-01-09</lastmod>
     <changefreq>weekly</changefreq>
