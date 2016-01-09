@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #000009;
-	background-color: #73A2C5;
+	color: #0000EF;
+	background-color: #D912AA;
 }
 
 .html
@@ -22,57 +22,73 @@
 	margin-right: auto;
 }
 
-#page_position_content
+#pu1193
 {
 	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 20px;
 }
 
 #u1193
 {
 	z-index: 6;
 	width: 330px;
-	margin-left: 135px;
+	margin-left: 115px;
 }
 
-#pu342-25
+#pu342-29
 {
 	width: 0.01px;
-	margin-left: 20px;
 	margin-top: 13px;
 }
 
-#u342-25
+#u342-29
 {
 	z-index: 8;
 	width: 560px;
 	min-height: 178px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 45px;
 }
 
-#u342-4,#u342-5,#u342-7
+#u342-4,#u342-5,#u342-9
 {
 	padding-right: 250px;
 }
 
-#u342-8
+#u342-10
 {
 	padding-right: 213px;
 }
 
-#u342-2,#u342-22
+#u342-2,#u342-24
 {
 	font-weight: bold;
 }
 
+#u468
+{
+	z-index: 37;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 496px;
+	left: 77px;
+}
+
 #u749
 {
-	z-index: 34;
+	z-index: 38;
 	width: 88px;
 	min-height: 24px;
 	border-style: none;
@@ -84,13 +100,13 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 371px;
-	left: 5px;
+	margin-top: 434px;
+	left: 6px;
 }
 
 #u1251
 {
-	z-index: 35;
+	z-index: 39;
 	width: 231px;
 	background-color: transparent;
 	position: relative;
@@ -98,30 +114,12 @@
 	left: 318px;
 }
 
-#u468
-{
-	z-index: 33;
-	width: 300px;
-	min-height: 35px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 30px;
-	margin-top: 18px;
-	position: relative;
-}
-
-#pu1168
-{
-	width: 0.01px;
-	margin-top: 19px;
-}
-
 #u1168
 {
 	z-index: 2;
 	width: 292px;
 	margin-right: -10000px;
+	margin-top: 631px;
 }
 
 #u1183
@@ -129,7 +127,7 @@
 	z-index: 4;
 	width: 256px;
 	margin-right: -10000px;
-	margin-top: 6px;
+	margin-top: 637px;
 	left: 344px;
 }
 
@@ -144,5 +142,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -630px;
 }
 

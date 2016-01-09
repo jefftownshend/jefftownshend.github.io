@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1452319033953">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1452373106304">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="279284180"/>
     <file name="master_a-master.css" crc="3896733012" ref="index:tr330"/>
     <file name="index.css" crc="148110909" ref="index"/>
-    <file name="tr330.css" crc="158573253" ref="tr330"/>
+    <file name="tr330.css" crc="4023980714" ref="tr330"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:tr330"/>
@@ -22,5 +22,5 @@
     <file name="3303.png" crc="3863599425" seo="true" ref="tr330"/>
   </folder>
   <file name="index.html" crc="3930100203" seo="true" mt="1452318638821" redirect="true"/>
-  <file name="tr330.html" crc="260097606" seo="true" mt="1452319000499" redirect="true"/>
+  <file name="tr330.html" crc="4032107120" seo="true" mt="1452373078011" redirect="true"/>
 </manifest>
