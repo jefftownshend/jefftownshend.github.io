@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1450733965187">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1452318277101">
   <folder name="assets">
     <file name="tr330demo.wav" crc="286285088" seo="true" mt="1450226273000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="64419742"/>
+    <file name="site_global.css" crc="279284180"/>
     <file name="master_a-master.css" crc="3896733012" ref="index:tr330"/>
     <file name="index.css" crc="221400250" ref="index"/>
     <file name="tr330.css" crc="477925109" ref="tr330"/>
@@ -19,7 +19,8 @@
     <file name="london.png" crc="237805850" seo="true" ref="index:tr330"/>
     <file name="330sm-u1236.png" crc="436273640" ref="index"/>
     <file name="3303-u1251.png" crc="3893831401" ref="tr330"/>
+    <file name="favicon.ico" crc="3849062966" ref="index"/>
   </folder>
-  <file name="index.html" crc="402190370" seo="true" mt="1450733954575" redirect="true"/>
-  <file name="tr330.html" crc="4282758652" seo="true" mt="1450732750516" redirect="true"/>
+  <file name="index.html" crc="4267640965" seo="true" mt="1452318230726" redirect="true"/>
+  <file name="tr330.html" crc="3903665988" seo="true" mt="1452318230726" redirect="true"/>
 </manifest>
