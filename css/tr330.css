@@ -1,7 +1,12 @@
 .version.tr330 /* version checker */
 {
-	color: #0000E3;
-	background-color: #86C779;
+	color: #000006;
+	background-color: #3D001E;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
 }
 
 #page
@@ -12,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -62,11 +67,18 @@
 #u342-4,#u342-5,#u342-7
 {
 	padding-right: 250px;
+	color: #0E0E0E;
 }
 
 #u342-8
 {
 	padding-right: 213px;
+	color: #0E0E0E;
+}
+
+#u342-10,#u342-11,#u342-13,#u342-14,#u342-17,#u342-19,#u342-21,#u342-22,#u342-23,#u342-26,#u342-28,#u342-29,#u342-32,#u342-35,#u342-37,#u342-38,#u342-41,#u342-43,#u342-44
+{
+	color: #0E0E0E;
 }
 
 #u1251
@@ -98,9 +110,9 @@
 	left: 344px;
 }
 
-#muse_css_mq,.html
+.html
 {
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 }
 
 body
