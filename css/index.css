@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #2FC7AA;
+	color: #0000EC;
+	background-color: #82BF13;
 }
 
 #muse_css_mq
@@ -46,10 +46,12 @@
 #u1236
 {
 	z-index: 15;
-	width: 114px;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
+	left: -2px;
 }
 
 #u1229-7

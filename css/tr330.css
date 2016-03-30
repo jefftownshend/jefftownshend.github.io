@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #000006;
-	background-color: #3D001E;
+	color: #0000F5;
+	background-color: #E9C8D0;
 }
 
 #muse_css_mq
@@ -84,8 +84,8 @@
 #u1251
 {
 	z-index: 54;
-	width: 188px;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	left: 335px;
