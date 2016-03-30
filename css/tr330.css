@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000E4;
-	background-color: #F25FC7;
+	color: #000012;
+	background-color: #57A134;
 }
 
 #page
@@ -36,7 +36,7 @@
 #pu342-230
 {
 	width: 0.01px;
-	margin-top: 36px;
+	margin-top: 26px;
 }
 
 #u342-230
@@ -48,7 +48,6 @@
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 22px;
 }
 
 #u342-2
@@ -91,11 +90,12 @@
 #u1251
 {
 	z-index: 238;
-	width: 231px;
+	width: 247px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 324px;
+	margin-top: 14px;
+	left: 320px;
 }
 
 #u1168
