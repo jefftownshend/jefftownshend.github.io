@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459305908739">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459306131858">
   <folder name="css">
     <file name="site_global.css" crc="3970020510"/>
     <file name="master_a-master.css" crc="4255577289" ref="index:tr330"/>
@@ -20,5 +20,5 @@
     <file name="3303.png" crc="3863599425" seo="true" ref="tr330"/>
   </folder>
   <file name="index.html" crc="197110220" seo="true" mt="1452318638821" redirect="true"/>
-  <file name="tr330.html" crc="4192900079" seo="true" mt="1459305889265" redirect="true"/>
+  <file name="tr330.html" crc="4192900079" seo="true" mt="1459306104534" redirect="true"/>
 </manifest>
