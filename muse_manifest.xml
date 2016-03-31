@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459365494070">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459382883296">
   <folder name="css">
-    <file name="site_global.css" crc="171548074"/>
+    <file name="site_global.css" crc="3970020510"/>
     <file name="master_a-master.css" crc="4255577289" ref="index:tr330"/>
-    <file name="index.css" crc="3967991571" ref="index"/>
+    <file name="index.css" crc="4173541636" ref="index"/>
     <file name="tr330.css" crc="4125739216" ref="tr330"/>
   </folder>
   <folder name="scripts">
@@ -16,9 +16,10 @@
     <file name="sandgbot.png" crc="466395064" seo="true" ref="index:tr330"/>
     <file name="email.png" crc="3811993488" seo="true" ref="index:tr330"/>
     <file name="london.png" crc="237805850" seo="true" ref="index:tr330"/>
-    <file name="330sm-u1236.png" crc="115391843" ref="index"/>
     <file name="3303-u1251.png" crc="113327267" ref="tr330"/>
+    <file name="u1236.png" crc="115391843" ref="index"/>
+    <file name="u1236-r.png" crc="3954995424" ref="index"/>
   </folder>
-  <file name="index.html" crc="94880676" seo="true" mt="1459365437427" redirect="true"/>
+  <file name="index.html" crc="3940030486" seo="true" mt="1459382872699" redirect="true"/>
   <file name="tr330.html" crc="3861248667" seo="true" mt="1459365478727" redirect="true"/>
 </manifest>

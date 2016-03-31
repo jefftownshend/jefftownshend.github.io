@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #82BF13;
+	color: #0000F8;
+	background-color: #C33104;
 }
 
 #muse_css_mq
@@ -36,7 +36,7 @@
 	position: relative;
 }
 
-#pu1236
+#ppu1236
 {
 	width: 0.01px;
 	margin-left: 20px;
@@ -45,13 +45,20 @@
 
 #u1236
 {
-	z-index: 15;
-	display: block;
+	z-index: 16;
+	height: 104px;
+	width: 116px;
 	vertical-align: top;
 	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
 	left: -2px;
+	background: transparent url("../images/u1236.png") no-repeat 0px 0px;
+}
+
+#u1236:hover
+{
+	background: transparent url("../images/u1236-r.png") no-repeat 1px 0px;
 }
 
 #u1229-7
