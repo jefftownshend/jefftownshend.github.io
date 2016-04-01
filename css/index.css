@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #C33104;
+	color: #0000F9;
+	background-color: #CF73A8;
 }
 
 #muse_css_mq
@@ -45,7 +45,7 @@
 
 #u1236
 {
-	z-index: 16;
+	z-index: 13;
 	height: 104px;
 	width: 116px;
 	vertical-align: top;
@@ -61,42 +61,24 @@
 	background: transparent url("../images/u1236-r.png") no-repeat 1px 0px;
 }
 
-#u1229-7
+#u1229-4
 {
 	z-index: 8;
 	width: 346px;
 	min-height: 56px;
 	background-color: transparent;
+	color: #141414;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 22px;
 	left: 129px;
 }
 
-#u1229-3
-{
-	font-weight: bold;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
 #u1229
-{
-	font-size: 16px;
-	font-family: roboto, sans-serif;
-	font-weight: 400;
-	line-height: 19px;
-}
-
-#u1229-5
-{
-	font-size: 16px;
-	line-height: 19px;
-	color: #141414;
-	font-family: roboto, sans-serif;
-	font-weight: 400;
-}
-
-#u1229-4
 {
 	font-weight: 300;
 }

@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000F5;
-	background-color: #E9C8D0;
+	color: #0000E5;
+	background-color: #DBFF4A;
 }
 
 #muse_css_mq
@@ -41,7 +41,7 @@
 #pu342-46
 {
 	width: 0.01px;
-	margin-top: 14px;
+	margin-top: 26px;
 }
 
 #u342-46
@@ -50,8 +50,8 @@
 	width: 560px;
 	min-height: 178px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
