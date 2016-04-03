@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #00001D;
-	background-color: #2A32F7;
+	color: #00000A;
+	background-color: #B04696;
 }
 
 #muse_css_mq
@@ -106,7 +106,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 24px;
-	left: 354px;
+	left: 347px;
 }
 
 .html

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #929A1F;
+	color: #0000F7;
+	background-color: #7529AB;
 }
 
 #muse_css_mq
@@ -12,12 +12,13 @@
 #page
 {
 	z-index: 1;
-	width: 600px;
+	width: 593px;
 	min-height: 444px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #F7F7F7;
+	padding-right: 7px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,7 +34,7 @@
 #ppu1236
 {
 	width: 0.01px;
-	margin-left: 20px;
+	margin-left: 53px;
 	margin-top: 62px;
 }
 
@@ -75,7 +76,7 @@
 #ppu4123
 {
 	width: 0.01px;
-	margin-left: 20px;
+	margin-left: 53px;
 	margin-top: 32px;
 }
 
@@ -140,7 +141,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 354px;
+	left: 347px;
 }
 
 .html
