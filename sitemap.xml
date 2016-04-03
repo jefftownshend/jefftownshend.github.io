@@ -2,31 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://shend.town/images/sandgbot.png</loc>
-    <lastmod>2016-03-31</lastmod>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/images/email.png</loc>
-    <lastmod>2016-03-31</lastmod>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/images/london.png</loc>
-    <lastmod>2016-03-31</lastmod>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/surferblood.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/street.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/knit.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/booze.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/blob.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/bench.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/art2.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/art.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/america.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/surferblood60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/street60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/knit60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/booze60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/blob60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/bench60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/art260x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/art60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/images/america60x46.jpg</loc>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/index.html</loc>
-    <lastmod>2016-03-31</lastmod>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://shend.town/tr330.html</loc>
     <lastmod>2016-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://shend.town/pics.html</loc>
+    <lastmod>2016-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
