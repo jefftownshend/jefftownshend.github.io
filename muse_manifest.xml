@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459649630304">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459654730421">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="4255577289" ref="index:tr330:pics"/>
     <file name="index.css" crc="97472198" ref="index"/>
     <file name="tr330.css" crc="3856400202" ref="tr330"/>
-    <file name="pics.css" crc="362624226" ref="pics"/>
+    <file name="pics.css" crc="4042626617" ref="pics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:pics"/>
@@ -103,5 +103,5 @@
   </folder>
   <file name="index.html" crc="193449082" seo="true" mt="1459642435477" redirect="true"/>
   <file name="tr330.html" crc="503312952" seo="true" mt="1459478565652" redirect="true"/>
-  <file name="pics.html" crc="4232520362" seo="true" mt="1459649613936" redirect="true"/>
+  <file name="pics.html" crc="309676238" seo="true" mt="1459654654024" redirect="true"/>
 </manifest>
