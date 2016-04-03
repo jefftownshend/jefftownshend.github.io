@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459699471558">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459700185661">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="4255577289" ref="index:tr330:pics"/>
-    <file name="index.css" crc="97472198" ref="index"/>
+    <file name="index.css" crc="462664357" ref="index"/>
     <file name="tr330.css" crc="3856400202" ref="tr330"/>
     <file name="pics.css" crc="451661656" ref="pics"/>
   </folder>
@@ -24,8 +24,6 @@
     <file name="3303-u1251.png" crc="113327267" ref="tr330"/>
     <file name="u1236.png" crc="115391843" ref="index"/>
     <file name="u1236-r.png" crc="3954995424" ref="index"/>
-    <file name="u1304.png" crc="154991896" ref="index"/>
-    <file name="u1304-r.png" crc="4113322884" ref="index"/>
     <file name="surferblood.jpg" crc="4285644856" seo="true" ref="pics"/>
     <file name="blank.gif" crc="4208392903" ref="pics"/>
     <file name="street.jpg" crc="177796320" seo="true" ref="pics"/>
@@ -146,8 +144,10 @@
     <file name="boat60x46.jpg" crc="4126863512" seo="true" ref="pics"/>
     <file name="becnh60x46.jpg" crc="475094832" seo="true" ref="pics"/>
     <file name="bart60x46.jpg" crc="89036407" seo="true" ref="pics"/>
+    <file name="u4123.png" crc="318290070" ref="index"/>
+    <file name="u4123-r.png" crc="4130839043" ref="index"/>
   </folder>
-  <file name="index.html" crc="193449082" seo="true" mt="1459642435477" redirect="true"/>
+  <file name="index.html" crc="138751930" seo="true" mt="1459700165920" redirect="true"/>
   <file name="tr330.html" crc="503312952" seo="true" mt="1459478565652" redirect="true"/>
   <file name="pics.html" crc="346177470" seo="true" mt="1459699439005" redirect="true"/>
 </manifest>

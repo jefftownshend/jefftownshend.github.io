@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #CF4EC6;
+	color: #00001B;
+	background-color: #93B2A5;
 }
 
 #muse_css_mq
@@ -67,9 +67,9 @@
 	width: 346px;
 	min-height: 56px;
 	background-color: transparent;
+	color: #141414;
 	line-height: 19px;
 	font-size: 16px;
-	color: #141414;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -78,46 +78,46 @@
 	left: 129px;
 }
 
-#ppu1304
+#ppu4123
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 11px;
+	margin-top: 19px;
 }
 
-#u1304
+#u4123
 {
-	z-index: 16;
-	height: 117px;
-	width: 117px;
+	z-index: 20;
+	height: 132px;
+	width: 178px;
 	vertical-align: top;
 	margin-bottom: -2px;
 	position: relative;
 	margin-right: -10000px;
 	left: -2px;
-	background: transparent url("../images/u1304.png") no-repeat 0px 0px;
+	background: transparent url("../images/u4123.png") no-repeat 0px 0px;
 }
 
-#u1304:hover
+#u4123:hover
 {
-	background: transparent url("../images/u1304-r.png") no-repeat 1px 0px;
+	background: transparent url("../images/u4123-r.png") no-repeat 1px 0px;
 }
 
 #u1314-4
 {
-	z-index: 18;
+	z-index: 15;
 	width: 346px;
 	min-height: 28px;
 	background-color: transparent;
+	color: #141414;
 	line-height: 19px;
 	font-size: 16px;
-	color: #141414;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
-	left: 129px;
+	margin-top: 51px;
+	left: 193px;
 }
 
 #u1229,#u1314
@@ -128,7 +128,7 @@
 #pu1168
 {
 	width: 0.01px;
-	margin-top: 94px;
+	margin-top: 71px;
 }
 
 #u1168
