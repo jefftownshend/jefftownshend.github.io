@@ -1,14 +1,14 @@
 .version.pics /* version checker */
 {
-	color: #000012;
-	background-color: #FE0B6E;
+	color: #000015;
+	background-color: #9D34E2;
 }
 
 #page
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 1348.6650684931506px;
+	min-height: 1944.6650684931506px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -294,9 +294,9 @@
 	width: 163px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 218px;
@@ -313,15 +313,6 @@
 	margin-left: 20px;
 	margin-top: 60px;
 	position: relative;
-}
-
-#u1529,#u1882
-{
-	position: absolute;
-	width: 560px;
-	height: 418px;
-	background-color: transparent;
-	top: 125px;
 }
 
 #u1882popup
@@ -485,12 +476,6 @@
 	position: relative;
 }
 
-#u1532_img,#u1679_img,#u1699_img,#u1719_img,#u1739_img,#u1759_img,#u1779_img,#u1799_img,#u1819_img,#u2131_img,#u2151_img,#u2171_img,#u2191_img,#u2211_img,#u2231_img,#u2251_img,#u2271_img,#u2291_img,#u2311_img,#u2331_img,#u2351_img,#u2371_img
-{
-	margin-top: -1px;
-	margin-bottom: -1px;
-}
-
 #u1852
 {
 	position: absolute;
@@ -602,16 +587,6 @@
 	left: 495px;
 }
 
-#u1537.SSSlideLinkSelected,#u1685.SSSlideLinkSelected,#u1705.SSSlideLinkSelected,#u1725.SSSlideLinkSelected,#u1745.SSSlideLinkSelected,#u1765.SSSlideLinkSelected,#u1785.SSSlideLinkSelected,#u1805.SSSlideLinkSelected,#u2137.SSSlideLinkSelected,#u2157.SSSlideLinkSelected,#u2177.SSSlideLinkSelected,#u2197.SSSlideLinkSelected,#u2217.SSSlideLinkSelected,#u2237.SSSlideLinkSelected,#u2257.SSSlideLinkSelected,#u2277.SSSlideLinkSelected
-{
-	border-width: 0px;
-	border-color: transparent;
-	width: 60px;
-	height: 45px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u2297
 {
 	z-index: 96;
@@ -677,7 +652,421 @@
 	left: 285px;
 }
 
-#u1825.SSSlideLinkSelected,#u2297.SSSlideLinkSelected,#u2317.SSSlideLinkSelected,#u2337.SSSlideLinkSelected,#u2357.SSSlideLinkSelected,#u2377.SSSlideLinkSelected
+#u1907-4
+{
+	z-index: 106;
+	width: 163px;
+	min-height: 29px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
+	font-family: roboto, sans-serif;
+	font-weight: 300;
+	margin-left: 391px;
+	top: -474px;
+	margin-bottom: -29px;
+	position: relative;
+}
+
+#slideshowu2404
+{
+	z-index: 110;
+	width: 0.01px;
+	height: 543px;
+	margin-left: 20px;
+	margin-top: 53px;
+	position: relative;
+}
+
+#u1529,#u1882,#u2406
+{
+	position: absolute;
+	width: 560px;
+	height: 418px;
+	background-color: transparent;
+	top: 125px;
+}
+
+#u2406popup
+{
+	z-index: 111;
+}
+
+#u2691
+{
+	z-index: 112;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2711
+{
+	z-index: 114;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2731
+{
+	z-index: 116;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2751
+{
+	z-index: 118;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2771
+{
+	z-index: 120;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2791
+{
+	z-index: 122;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2811
+{
+	z-index: 124;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2831
+{
+	z-index: 126;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2851
+{
+	z-index: 128;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2871
+{
+	z-index: 130;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2891
+{
+	z-index: 132;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2911
+{
+	z-index: 134;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2931
+{
+	z-index: 136;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2951
+{
+	z-index: 138;
+	width: 560px;
+	height: 418px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1532_img,#u1679_img,#u1699_img,#u1719_img,#u1739_img,#u1759_img,#u1779_img,#u1799_img,#u1819_img,#u2131_img,#u2151_img,#u2171_img,#u2191_img,#u2211_img,#u2231_img,#u2251_img,#u2271_img,#u2291_img,#u2311_img,#u2331_img,#u2351_img,#u2371_img,#u2691_img,#u2711_img,#u2731_img,#u2751_img,#u2771_img,#u2791_img,#u2811_img,#u2831_img,#u2851_img,#u2871_img,#u2891_img,#u2911_img,#u2931_img,#u2951_img
+{
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+
+#u2427
+{
+	position: absolute;
+	width: 560px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 9px;
+}
+
+#u2427popup
+{
+	z-index: 140;
+}
+
+#u2697
+{
+	z-index: 141;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 5px;
+}
+
+#u2717
+{
+	z-index: 143;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 75px;
+}
+
+#u2737
+{
+	z-index: 145;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 145px;
+}
+
+#u2757
+{
+	z-index: 147;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 215px;
+}
+
+#u2777
+{
+	z-index: 149;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 285px;
+}
+
+#u2797
+{
+	z-index: 151;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 355px;
+}
+
+#u2817
+{
+	z-index: 153;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 425px;
+}
+
+#u2837
+{
+	z-index: 155;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 495px;
+}
+
+#u1537.SSSlideLinkSelected,#u1685.SSSlideLinkSelected,#u1705.SSSlideLinkSelected,#u1725.SSSlideLinkSelected,#u1745.SSSlideLinkSelected,#u1765.SSSlideLinkSelected,#u1785.SSSlideLinkSelected,#u1805.SSSlideLinkSelected,#u2137.SSSlideLinkSelected,#u2157.SSSlideLinkSelected,#u2177.SSSlideLinkSelected,#u2197.SSSlideLinkSelected,#u2217.SSSlideLinkSelected,#u2237.SSSlideLinkSelected,#u2257.SSSlideLinkSelected,#u2277.SSSlideLinkSelected,#u2697.SSSlideLinkSelected,#u2717.SSSlideLinkSelected,#u2737.SSSlideLinkSelected,#u2757.SSSlideLinkSelected,#u2777.SSSlideLinkSelected,#u2797.SSSlideLinkSelected,#u2817.SSSlideLinkSelected,#u2837.SSSlideLinkSelected
+{
+	border-width: 0px;
+	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2857
+{
+	z-index: 157;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 5px;
+}
+
+#u2877
+{
+	z-index: 159;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 75px;
+}
+
+#u2897
+{
+	z-index: 161;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 145px;
+}
+
+#u2917
+{
+	z-index: 163;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 215px;
+}
+
+#u2937
+{
+	z-index: 165;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 285px;
+}
+
+#u2957
+{
+	z-index: 167;
+	width: 60px;
+	height: 45px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 355px;
+}
+
+#u1825.SSSlideLinkSelected,#u2297.SSSlideLinkSelected,#u2317.SSSlideLinkSelected,#u2337.SSSlideLinkSelected,#u2357.SSSlideLinkSelected,#u2377.SSSlideLinkSelected,#u2857.SSSlideLinkSelected,#u2877.SSSlideLinkSelected,#u2897.SSSlideLinkSelected,#u2917.SSSlideLinkSelected,#u2937.SSSlideLinkSelected,#u2957.SSSlideLinkSelected
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -687,19 +1076,19 @@
 	margin: 55px -10000px 0px 0px;
 }
 
-#u1907-4
+#u2460-4
 {
-	z-index: 106;
-	width: 163px;
+	z-index: 169;
+	width: 105px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
-	margin-left: 391px;
-	top: -474px;
+	margin-left: 458px;
+	top: -482px;
 	margin-bottom: -29px;
 	position: relative;
 }

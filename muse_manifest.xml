@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459647400014">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1459649630304">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="4255577289" ref="index:tr330:pics"/>
     <file name="index.css" crc="97472198" ref="index"/>
     <file name="tr330.css" crc="3856400202" ref="tr330"/>
-    <file name="pics.css" crc="318638958" ref="pics"/>
+    <file name="pics.css" crc="362624226" ref="pics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:pics"/>
@@ -72,8 +72,36 @@
     <file name="factory60x46.jpg" crc="94566051" seo="true" ref="pics"/>
     <file name="dosh60x46.jpg" crc="380875209" seo="true" ref="pics"/>
     <file name="back60x46.jpg" crc="4109051964" seo="true" ref="pics"/>
+    <file name="trash.jpg" crc="263692102" seo="true" ref="pics"/>
+    <file name="train.jpg" crc="3878932040" seo="true" ref="pics"/>
+    <file name="tower.jpg" crc="172337455" seo="true" ref="pics"/>
+    <file name="parking.jpg" crc="3893338062" seo="true" ref="pics"/>
+    <file name="mcew.jpg" crc="128606288" seo="true" ref="pics"/>
+    <file name="hume.jpg" crc="256212645" seo="true" ref="pics"/>
+    <file name="hill.jpg" crc="360541159" seo="true" ref="pics"/>
+    <file name="gravefurg.jpg" crc="4061445257" seo="true" ref="pics"/>
+    <file name="gravebrok.jpg" crc="3993644712" seo="true" ref="pics"/>
+    <file name="garde.jpg" crc="381069144" seo="true" ref="pics"/>
+    <file name="fishnchip.jpg" crc="155596542" seo="true" ref="pics"/>
+    <file name="courtyard.jpg" crc="310146892" seo="true" ref="pics"/>
+    <file name="chruc.jpg" crc="3821698088" seo="true" ref="pics"/>
+    <file name="breakfa.jpg" crc="520583645" seo="true" ref="pics"/>
+    <file name="trash60x46.jpg" crc="4934780" seo="true" ref="pics"/>
+    <file name="train60x46.jpg" crc="523147023" seo="true" ref="pics"/>
+    <file name="tower60x46.jpg" crc="4019220625" seo="true" ref="pics"/>
+    <file name="parking60x45.jpg" crc="4046437991" seo="true" ref="pics"/>
+    <file name="mcew60x46.jpg" crc="323755621" seo="true" ref="pics"/>
+    <file name="hume60x46.jpg" crc="125329023" seo="true" ref="pics"/>
+    <file name="hill60x46.jpg" crc="521041285" seo="true" ref="pics"/>
+    <file name="gravefurg60x46.jpg" crc="4220419620" seo="true" ref="pics"/>
+    <file name="gravebrok60x46.jpg" crc="4135357041" seo="true" ref="pics"/>
+    <file name="garde60x46.jpg" crc="3930171387" seo="true" ref="pics"/>
+    <file name="fishnchip60x46.jpg" crc="4285204228" seo="true" ref="pics"/>
+    <file name="courtyard60x46.jpg" crc="4201753600" seo="true" ref="pics"/>
+    <file name="chruc60x45.jpg" crc="187267343" seo="true" ref="pics"/>
+    <file name="breakfa60x46.jpg" crc="3909499894" seo="true" ref="pics"/>
   </folder>
   <file name="index.html" crc="193449082" seo="true" mt="1459642435477" redirect="true"/>
   <file name="tr330.html" crc="503312952" seo="true" mt="1459478565652" redirect="true"/>
-  <file name="pics.html" crc="222250630" seo="true" mt="1459647348979" redirect="true"/>
+  <file name="pics.html" crc="4232520362" seo="true" mt="1459649613936" redirect="true"/>
 </manifest>
