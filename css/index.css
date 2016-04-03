@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001B;
-	background-color: #93B2A5;
+	color: #00000C;
+	background-color: #929A1F;
 }
 
 #muse_css_mq
@@ -13,26 +13,20 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 443.66506849315033px;
+	min-height: 444px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #F7F7F7;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	width: 0.01px;/* should not cover content below */
-}
-
-#u1193
+#u4153
 {
 	z-index: 6;
-	width: 330px;
-	margin-left: 135px;
+	width: 438px;
+	margin-left: 81px;
 	position: relative;
 }
 
@@ -40,7 +34,7 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 55px;
+	margin-top: 62px;
 }
 
 #u1236
@@ -65,7 +59,7 @@
 {
 	z-index: 8;
 	width: 346px;
-	min-height: 56px;
+	min-height: 41px;
 	background-color: transparent;
 	color: #141414;
 	line-height: 19px;
@@ -74,7 +68,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 22px;
+	margin-top: 30px;
 	left: 129px;
 }
 
@@ -82,14 +76,14 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 19px;
+	margin-top: 32px;
 }
 
 #u4123
 {
 	z-index: 20;
-	height: 132px;
-	width: 178px;
+	height: 86px;
+	width: 116px;
 	vertical-align: top;
 	margin-bottom: -2px;
 	position: relative;
@@ -107,7 +101,7 @@
 {
 	z-index: 15;
 	width: 346px;
-	min-height: 28px;
+	min-height: 25px;
 	background-color: transparent;
 	color: #141414;
 	line-height: 19px;
@@ -116,8 +110,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 51px;
-	left: 193px;
+	margin-top: 30px;
+	left: 129px;
 }
 
 #u1229,#u1314
@@ -125,28 +119,28 @@
 	font-weight: 300;
 }
 
-#pu1168
+#pu4143
 {
 	width: 0.01px;
-	margin-top: 71px;
+	margin-top: 130px;
 }
 
-#u1168
-{
-	z-index: 2;
-	width: 292px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1183
+#u4143
 {
 	z-index: 4;
-	width: 256px;
+	width: 282px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: 344px;
+}
+
+#u4133
+{
+	z-index: 2;
+	width: 246px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 354px;
 }
 
 .html

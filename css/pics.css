@@ -1,33 +1,27 @@
 .version.pics /* version checker */
 {
-	color: #00001A;
-	background-color: #EBCF58;
+	color: #0000F9;
+	background-color: #B9CF19;
 }
 
 #page
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 3144.66506849315px;
+	min-height: 3145px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	width: 0.01px;/* should not cover content below */
-}
-
-#u1193
+#u4153
 {
 	z-index: 6;
-	width: 330px;
-	margin-left: 135px;
+	width: 438px;
+	margin-left: 81px;
 	position: relative;
 }
 
@@ -37,7 +31,7 @@
 	width: 0.01px;
 	height: 543px;
 	margin-left: 20px;
-	margin-top: 64px;
+	margin-top: 51px;
 	position: relative;
 }
 
@@ -300,7 +294,7 @@
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 218px;
-	top: -472px;
+	top: -473px;
 	margin-bottom: -29px;
 	position: relative;
 }
@@ -664,7 +658,7 @@
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 391px;
-	top: -474px;
+	top: -475px;
 	margin-bottom: -29px;
 	position: relative;
 }
@@ -1053,7 +1047,7 @@
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 458px;
-	top: -482px;
+	top: -483px;
 	margin-bottom: -29px;
 	position: relative;
 }
@@ -1342,7 +1336,7 @@
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 333px;
-	top: -476px;
+	top: -477px;
 	margin-bottom: -29px;
 	position: relative;
 }
@@ -1741,33 +1735,33 @@
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 438px;
-	top: -477px;
+	top: -478px;
 	margin-bottom: -29px;
 	position: relative;
 }
 
-#pu1168
+#pu4143
 {
 	width: 0.01px;
-	margin-top: 74px;
+	margin-top: 75px;
 }
 
-#u1168
-{
-	z-index: 2;
-	width: 292px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u1183
+#u4143
 {
 	z-index: 4;
-	width: 256px;
+	width: 282px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
-	left: 344px;
+}
+
+#u4133
+{
+	z-index: 2;
+	width: 246px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 354px;
 }
 
 #muse_css_mq,.html
