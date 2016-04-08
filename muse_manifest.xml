@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460136035019">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460139695056">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:pics2:links"/>
-    <file name="index.css" crc="478883998" ref="index"/>
+    <file name="index.css" crc="275728696" ref="index"/>
     <file name="tr330.css" crc="179324566" ref="tr330"/>
     <file name="pics.css" crc="499114892" ref="pics"/>
     <file name="pics2.css" crc="3886917298" ref="pics2"/>
-    <file name="links.css" crc="51960337" ref="links"/>
+    <file name="links.css" crc="4013947862" ref="links"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:pics:pics2:links"/>
@@ -19,7 +19,7 @@
     <file name="touchswipe.js" crc="497316881" ref="pics:pics2"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3849062966" ref="index"/>
+    <file name="favicon.ico" crc="3849062966" ref="index:links"/>
     <file name="sandgbot.png" crc="87205450" seo="true" ref="index:tr330:pics:pics2:links"/>
     <file name="email.png" crc="180153778" seo="true" ref="index:tr330:pics:pics2:links"/>
     <file name="london.png" crc="355981897" seo="true" ref="index:tr330:pics:pics2:links"/>
@@ -192,11 +192,13 @@
     <file name="frid60x46.jpg" crc="21046556" seo="true" ref="pics2"/>
     <file name="flood60x46.jpg" crc="483784074" seo="true" ref="pics2"/>
     <file name="bunk60x46.jpg" crc="4058878047" seo="true" ref="pics2"/>
-    <file name="smallkings.png" crc="3849789786" seo="true" ref="links"/>
+    <file name="smallkings.png" crc="518569515" seo="true" ref="links"/>
+    <file name="u6515.png" crc="3865344374" ref="index"/>
+    <file name="u6515-r.png" crc="9031712" ref="index"/>
   </folder>
-  <file name="index.html" crc="155558484" seo="true" mt="1460136016035" redirect="true"/>
+  <file name="index.html" crc="3902097227" seo="true" mt="1460139491159" redirect="true"/>
   <file name="tr330.html" crc="84129529" seo="true" mt="1459703950270" redirect="true"/>
   <file name="pics.html" crc="3785170810" seo="true" mt="1460135709164" redirect="true"/>
   <file name="pics2.html" crc="4056408741" seo="true" mt="1460135729671" redirect="true"/>
-  <file name="links.html" crc="4117917978" seo="true" mt="1460135991732" redirect="true"/>
+  <file name="links.html" crc="3945493104" seo="true" mt="1460139664835" redirect="true"/>
 </manifest>
