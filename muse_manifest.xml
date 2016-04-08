@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460139695056">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460140382613">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:pics2:links"/>
@@ -6,7 +6,7 @@
     <file name="tr330.css" crc="179324566" ref="tr330"/>
     <file name="pics.css" crc="499114892" ref="pics"/>
     <file name="pics2.css" crc="3886917298" ref="pics2"/>
-    <file name="links.css" crc="4013947862" ref="links"/>
+    <file name="links.css" crc="4095177619" ref="links"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:pics:pics2:links"/>
@@ -192,7 +192,6 @@
     <file name="frid60x46.jpg" crc="21046556" seo="true" ref="pics2"/>
     <file name="flood60x46.jpg" crc="483784074" seo="true" ref="pics2"/>
     <file name="bunk60x46.jpg" crc="4058878047" seo="true" ref="pics2"/>
-    <file name="smallkings.png" crc="518569515" seo="true" ref="links"/>
     <file name="u6515.png" crc="3865344374" ref="index"/>
     <file name="u6515-r.png" crc="9031712" ref="index"/>
   </folder>
@@ -200,5 +199,5 @@
   <file name="tr330.html" crc="84129529" seo="true" mt="1459703950270" redirect="true"/>
   <file name="pics.html" crc="3785170810" seo="true" mt="1460135709164" redirect="true"/>
   <file name="pics2.html" crc="4056408741" seo="true" mt="1460135729671" redirect="true"/>
-  <file name="links.html" crc="3945493104" seo="true" mt="1460139664835" redirect="true"/>
+  <file name="links.html" crc="4277529897" seo="true" mt="1460140356876" redirect="true"/>
 </manifest>

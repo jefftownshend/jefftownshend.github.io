@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000EF;
-	background-color: #3FFBD6;
+	color: #0000F4;
+	background-color: #177393;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 444px;
+	min-height: 588px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -38,13 +38,7 @@
 	position: relative;
 }
 
-#pu6496-23
-{
-	width: 0.01px;
-	margin-top: 31px;
-}
-
-#u6496-23
+#u6496-35
 {
 	z-index: 8;
 	width: 560px;
@@ -53,36 +47,32 @@
 	color: #0E0E0E;
 	line-height: 19px;
 	font-size: 16px;
+	margin-top: 68px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
 }
 
-#u6496-9
+#u6496-8,#u6496-23
 {
 	font-family: roboto, sans-serif;
 	font-weight: 700;
 }
 
-#u6496-2,#u6496-4,#u6496-6,#u6496-7,#u6496-13,#u6496-15,#u6496-17,#u6496-19,#u6496-21
+#u6496-2,#u6496-3,#u6496-5,#u6496-6,#u6496-12,#u6496-14,#u6496-16,#u6496-18,#u6496-20,#u6496-21,#u6496-29,#u6496-33
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
 
-#u6502
+#u6496-31
 {
-	z-index: 31;
-	width: 195px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 365px;
+	font-family: roboto, sans-serif;
+	font-weight: 300;
+	font-style: italic;
 }
 
-#u6502_img
+#u6496-32
 {
-	padding-bottom: 1px;
+	font-style: normal;
 }
 
 #u4143
@@ -91,7 +81,7 @@
 	width: 282px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 19px;
+	margin-top: 20px;
 }
 
 #u4133
@@ -119,6 +109,6 @@ body
 
 .verticalspacer
 {
-	min-height: 113px;
+	min-height: 60px;
 }
 
