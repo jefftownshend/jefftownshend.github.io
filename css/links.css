@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000E7;
-	background-color: #E3928F;
+	color: #0000E6;
+	background-color: #3BEA61;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 	position: relative;
 }
 
-#u6496-31
+#u6496-43
 {
 	z-index: 8;
 	width: 560px;
@@ -50,20 +50,20 @@
 	position: relative;
 }
 
-#u6496-8,#u6496-17
+#u6496-8,#u6496-20,#u6496-29
 {
 	font-family: roboto, sans-serif;
 	font-weight: 700;
 }
 
-#u6496-26
+#u6496-38
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-#u6496-2,#u6496-3,#u6496-5,#u6496-6,#u6496-12,#u6496-14,#u6496-15,#u6496-23,#u6496-25,#u6496-28,#u6496-29
+#u6496-2,#u6496-3,#u6496-5,#u6496-6,#u6496-15,#u6496-17,#u6496-18,#u6496-24,#u6496-26,#u6496-27,#u6496-35,#u6496-37,#u6496-40,#u6496-41
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -103,6 +103,6 @@ body
 
 .verticalspacer
 {
-	min-height: 22px;
+	min-height: 1px;
 }
 
