@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #000010;
-	background-color: #EDC0A9;
+	color: #00001A;
+	background-color: #3F291F;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 	position: relative;
 }
 
-#u6496-70
+#u6496-76
 {
 	z-index: 8;
 	width: 560px;
@@ -64,7 +64,7 @@
 	font-weight: 700;
 }
 
-#u6496-6
+#u6496-6,#u6496-7,#u6496-8
 {
 	text-align: right;
 	color: #009245;
@@ -72,42 +72,42 @@
 	font-weight: 700;
 }
 
-#u6496-11,#u6496-14
+#u6496-13,#u6496-16,#u6496-18,#u6496-20
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
 
-#u6496-17
+#u6496-23
 {
 	color: #FF0000;
 }
 
-#u6496-8,#u6496-30
+#u6496-10,#u6496-36
 {
 	color: #0000FF;
 }
 
-#u6496-10,#u6496-13,#u6496-15,#u6496-19,#u6496-32,#u6496-45,#u6496-55
+#u6496-12,#u6496-15,#u6496-21,#u6496-25,#u6496-38,#u6496-51,#u6496-61
 {
 	color: #0E0E0E;
 	font-family: roboto, sans-serif;
 	font-weight: 700;
 }
 
-#u6496-43,#u6496-53
+#u6496-49,#u6496-59
 {
 	color: #009245;
 }
 
-#u6496-65
+#u6496-17,#u6496-19,#u6496-71
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-#u6496-7,#u6496-16,#u6496-26,#u6496-28,#u6496-29,#u6496-39,#u6496-41,#u6496-42,#u6496-49,#u6496-51,#u6496-52,#u6496-62,#u6496-64,#u6496-67,#u6496-68
+#u6496-9,#u6496-22,#u6496-32,#u6496-34,#u6496-35,#u6496-45,#u6496-47,#u6496-48,#u6496-55,#u6496-57,#u6496-58,#u6496-68,#u6496-70,#u6496-73,#u6496-74
 {
 	color: #0E0E0E;
 	font-family: roboto, sans-serif;
