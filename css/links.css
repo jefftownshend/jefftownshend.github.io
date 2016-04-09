@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000EA;
-	background-color: #059C23;
+	color: #0000E7;
+	background-color: #E3928F;
 }
 
 #muse_css_mq
@@ -25,7 +25,6 @@
 #pu4153
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-left: 20px;
 }
@@ -104,6 +103,6 @@ body
 
 .verticalspacer
 {
-	min-height: 41px;
+	min-height: 22px;
 }
 
