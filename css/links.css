@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #0000E1;
-	background-color: #C0A162;
+	color: #0000E7;
+	background-color: #E553B2;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 	position: relative;
 }
 
-#u6496-63
+#u6496-62
 {
 	z-index: 8;
 	width: 560px;
@@ -77,31 +77,31 @@
 	color: #FF0000;
 }
 
-#u6496-23
+#u6496-22
 {
 	color: #0000FF;
 }
 
-#u6496-11,#u6496-25,#u6496-38,#u6496-48
+#u6496-11,#u6496-24,#u6496-37,#u6496-47
 {
 	color: #0E0E0E;
 	font-family: roboto, sans-serif;
 	font-weight: 700;
 }
 
-#u6496-36,#u6496-46
+#u6496-35,#u6496-45
 {
 	color: #009245;
 }
 
-#u6496-58
+#u6496-57
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-#u6496-7,#u6496-8,#u6496-19,#u6496-21,#u6496-22,#u6496-32,#u6496-34,#u6496-35,#u6496-42,#u6496-44,#u6496-45,#u6496-55,#u6496-57,#u6496-60,#u6496-61
+#u6496-7,#u6496-8,#u6496-18,#u6496-20,#u6496-21,#u6496-31,#u6496-33,#u6496-34,#u6496-41,#u6496-43,#u6496-44,#u6496-54,#u6496-56,#u6496-59,#u6496-60
 {
 	color: #0E0E0E;
 	font-family: roboto, sans-serif;
