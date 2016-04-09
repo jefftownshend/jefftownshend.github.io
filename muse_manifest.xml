@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460243333440">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460243439936">
   <folder name="css">
     <file name="site_global.css" crc="3970020510"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:pics2:links"/>
     <file name="index.css" crc="257230193" ref="index"/>
     <file name="tr330.css" crc="179324566" ref="tr330"/>
-    <file name="pics.css" crc="74250962" ref="pics"/>
-    <file name="pics2.css" crc="188892935" ref="pics2"/>
+    <file name="pics.css" crc="4156911983" ref="pics"/>
+    <file name="pics2.css" crc="256985868" ref="pics2"/>
     <file name="links.css" crc="4144463555" ref="links"/>
   </folder>
   <folder name="scripts">
@@ -197,7 +197,7 @@
   </folder>
   <file name="index.html" crc="303380495" seo="true" mt="1460242012075" redirect="true"/>
   <file name="tr330.html" crc="84129529" seo="true" mt="1459703950270" redirect="true"/>
-  <file name="pics.html" crc="99411233" seo="true" mt="1460243306158" redirect="true"/>
-  <file name="pics2.html" crc="427694430" seo="true" mt="1460243318185" redirect="true"/>
+  <file name="pics.html" crc="4191411859" seo="true" mt="1460243403905" redirect="true"/>
+  <file name="pics2.html" crc="3967230904" seo="true" mt="1460243419409" redirect="true"/>
   <file name="links.html" crc="299403651" seo="true" mt="1460242812478" redirect="true"/>
 </manifest>

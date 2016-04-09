@@ -1,7 +1,12 @@
 .version.pics /* version checker */
 {
-	color: #000004;
-	background-color: #6CFAD2;
+	color: #0000F7;
+	background-color: #C5716F;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
 }
 
 #page
@@ -12,7 +17,7 @@
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 	padding-right: 7px;
 	margin-left: auto;
 	margin-right: auto;
@@ -1444,9 +1449,9 @@
 	left: 347px;
 }
 
-#muse_css_mq,.html
+.html
 {
-	background-color: #FFFFFF;
+	background-color: #F7F7F7;
 }
 
 body
