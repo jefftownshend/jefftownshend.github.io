@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000F;
-	background-color: #550571;
+	color: #00000D;
+	background-color: #8099B4;
 }
 
 #muse_css_mq
@@ -62,50 +62,8 @@
 	width: 346px;
 	min-height: 41px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #141414;
-	font-size: 16px;
-	font-family: roboto, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 129px;
-}
-
-#ppu4123
-{
-	width: 0.01px;
-	margin-left: 53px;
-	margin-top: 32px;
-}
-
-#u4123
-{
-	z-index: 20;
-	height: 86px;
-	width: 116px;
-	vertical-align: top;
-	margin-bottom: -2px;
-	position: relative;
-	margin-right: -10000px;
-	left: -2px;
-	background: transparent url("../images/u4123.png") no-repeat 0px 0px;
-}
-
-#u4123:hover
-{
-	background: transparent url("../images/u4123-r.png") no-repeat 1px 0px;
-}
-
-#u1314-4
-{
-	z-index: 15;
-	width: 346px;
-	min-height: 25px;
-	background-color: transparent;
 	line-height: 19px;
-	color: #141414;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
@@ -119,12 +77,12 @@
 {
 	width: 0.01px;
 	margin-left: 53px;
-	margin-top: 39px;
+	margin-top: 36px;
 }
 
 #u6515
 {
-	z-index: 23;
+	z-index: 16;
 	height: 103px;
 	width: 116px;
 	vertical-align: top;
@@ -142,12 +100,12 @@
 
 #u6522-4
 {
-	z-index: 25;
+	z-index: 18;
 	width: 352px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #141414;
+	line-height: 19px;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
 	font-weight: 400;
@@ -157,7 +115,7 @@
 	left: 129px;
 }
 
-#u1229,#u1314,#u6522
+#u1229,#u6522
 {
 	font-weight: 300;
 }
@@ -165,7 +123,7 @@
 #pu4143
 {
 	width: 0.01px;
-	margin-top: 59px;
+	margin-top: 178px;
 }
 
 #u4143
