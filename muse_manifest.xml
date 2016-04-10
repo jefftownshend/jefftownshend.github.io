@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460244144957">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460260138672">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:pics2:links"/>
@@ -199,5 +199,5 @@
   <file name="tr330.html" crc="84129529" seo="true" mt="1459703950270" redirect="true"/>
   <file name="pics.html" crc="4191411859" seo="true" mt="1460243403905" redirect="true"/>
   <file name="pics2.html" crc="3967230904" seo="true" mt="1460243419409" redirect="true"/>
-  <file name="links.html" crc="113874984" seo="true" mt="1460244124540" redirect="true"/>
+  <file name="links.html" crc="4225152558" seo="true" mt="1460260117876" redirect="true"/>
 </manifest>
