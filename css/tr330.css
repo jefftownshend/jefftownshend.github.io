@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #00000A;
-	background-color: #B04696;
+	color: #0000FA;
+	background-color: #DAF362;
 }
 
 #muse_css_mq
@@ -37,13 +37,13 @@
 	position: relative;
 }
 
-#pu342-46
+#pu342-31
 {
 	width: 0.01px;
 	margin-top: 38px;
 }
 
-#u342-46
+#u342-31
 {
 	z-index: 8;
 	width: 560px;
@@ -75,14 +75,14 @@
 	color: #0E0E0E;
 }
 
-#u342-10,#u342-11,#u342-13,#u342-14,#u342-17,#u342-19,#u342-21,#u342-22,#u342-23,#u342-26,#u342-28,#u342-29,#u342-32,#u342-35,#u342-37,#u342-38,#u342-41,#u342-43,#u342-44
+#u342-10,#u342-11,#u342-13,#u342-14,#u342-17,#u342-19,#u342-21,#u342-22,#u342-23,#u342-26,#u342-28,#u342-29
 {
 	color: #0E0E0E;
 }
 
 #u1251
 {
-	z-index: 54;
+	z-index: 39;
 	display: block;
 	vertical-align: top;
 	position: relative;
