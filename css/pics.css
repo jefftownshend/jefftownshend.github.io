@@ -1,7 +1,7 @@
 .version.pics /* version checker */
 {
-	color: #0000E0;
-	background-color: #BDC70C;
+	color: #0000F0;
+	background-color: #B50919;
 }
 
 #muse_css_mq
@@ -294,9 +294,9 @@
 	width: 163px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 218px;
@@ -658,9 +658,9 @@
 	width: 163px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 391px;
@@ -1047,9 +1047,9 @@
 	width: 105px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 458px;
@@ -1371,9 +1371,9 @@
 	width: 73px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 333px;
@@ -1395,9 +1395,9 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1410,14 +1410,19 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-code-pro, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
 	left: 96px;
+}
+
+#u9062
+{
+	text-decoration: none;
 }
 
 #u9063-5
@@ -1426,19 +1431,14 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-code-pro, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
 	left: 193px;
-}
-
-#u9062,#u9063
-{
-	text-decoration: none;
 }
 
 #pu4143

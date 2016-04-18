@@ -1,7 +1,7 @@
 .version.pics3 /* version checker */
 {
-	color: #000016;
-	background-color: #90F559;
+	color: #0000E1;
+	background-color: #E4A9ED;
 }
 
 #muse_css_mq
@@ -55,7 +55,7 @@
 	z-index: 90;
 }
 
-#u8350
+#u8352
 {
 	z-index: 91;
 	width: 560px;
@@ -67,7 +67,7 @@
 	position: relative;
 }
 
-#u8360
+#u9179
 {
 	z-index: 93;
 	width: 560px;
@@ -79,7 +79,7 @@
 	position: relative;
 }
 
-#u8346
+#u9199
 {
 	z-index: 95;
 	width: 560px;
@@ -91,7 +91,7 @@
 	position: relative;
 }
 
-#u8370
+#u9219
 {
 	z-index: 97;
 	width: 560px;
@@ -103,7 +103,7 @@
 	position: relative;
 }
 
-#u8354
+#u9239
 {
 	z-index: 99;
 	width: 560px;
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u8372
+#u9259
 {
 	z-index: 101;
 	width: 560px;
@@ -127,7 +127,7 @@
 	position: relative;
 }
 
-#u8356
+#u9279
 {
 	z-index: 103;
 	width: 560px;
@@ -139,7 +139,7 @@
 	position: relative;
 }
 
-#u8364
+#u9299
 {
 	z-index: 105;
 	width: 560px;
@@ -151,7 +151,7 @@
 	position: relative;
 }
 
-#u8358
+#u9319
 {
 	z-index: 107;
 	width: 560px;
@@ -163,7 +163,7 @@
 	position: relative;
 }
 
-#u8366
+#u9339
 {
 	z-index: 109;
 	width: 560px;
@@ -175,7 +175,7 @@
 	position: relative;
 }
 
-#u8368
+#u9359
 {
 	z-index: 111;
 	width: 560px;
@@ -187,7 +187,7 @@
 	position: relative;
 }
 
-#u8362
+#u9379
 {
 	z-index: 113;
 	width: 560px;
@@ -199,7 +199,7 @@
 	position: relative;
 }
 
-#u8348
+#u9399
 {
 	z-index: 115;
 	width: 560px;
@@ -211,7 +211,7 @@
 	position: relative;
 }
 
-#u8352
+#u9419
 {
 	z-index: 117;
 	width: 560px;
@@ -238,7 +238,7 @@
 	z-index: 119;
 }
 
-#u8396
+#u8384
 {
 	z-index: 120;
 	width: 60px;
@@ -250,7 +250,7 @@
 	left: 5px;
 }
 
-#u8394
+#u9185
 {
 	z-index: 122;
 	width: 60px;
@@ -262,7 +262,7 @@
 	left: 75px;
 }
 
-#u8402
+#u9205
 {
 	z-index: 124;
 	width: 60px;
@@ -274,7 +274,7 @@
 	left: 145px;
 }
 
-#u8400
+#u9225
 {
 	z-index: 126;
 	width: 60px;
@@ -286,7 +286,7 @@
 	left: 215px;
 }
 
-#u8390
+#u9245
 {
 	z-index: 128;
 	width: 60px;
@@ -298,7 +298,7 @@
 	left: 285px;
 }
 
-#u8380
+#u9265
 {
 	z-index: 130;
 	width: 60px;
@@ -310,7 +310,7 @@
 	left: 355px;
 }
 
-#u8398
+#u9285
 {
 	z-index: 132;
 	width: 60px;
@@ -322,7 +322,7 @@
 	left: 425px;
 }
 
-#u8386
+#u9305
 {
 	z-index: 134;
 	width: 60px;
@@ -334,7 +334,7 @@
 	left: 495px;
 }
 
-#u8388
+#u9325
 {
 	z-index: 136;
 	width: 60px;
@@ -347,7 +347,7 @@
 	left: 5px;
 }
 
-#u8378
+#u9345
 {
 	z-index: 138;
 	width: 60px;
@@ -360,7 +360,7 @@
 	left: 75px;
 }
 
-#u8392
+#u9365
 {
 	z-index: 140;
 	width: 60px;
@@ -373,7 +373,7 @@
 	left: 145px;
 }
 
-#u8382
+#u9385
 {
 	z-index: 142;
 	width: 60px;
@@ -386,7 +386,7 @@
 	left: 215px;
 }
 
-#u8404
+#u9405
 {
 	z-index: 144;
 	width: 60px;
@@ -399,7 +399,7 @@
 	left: 285px;
 }
 
-#u8384
+#u9425
 {
 	z-index: 146;
 	width: 60px;
@@ -428,9 +428,9 @@
 	width: 73px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 448px;
@@ -643,7 +643,7 @@
 	position: relative;
 }
 
-#u8350_img,#u8360_img,#u8346_img,#u8370_img,#u8354_img,#u8372_img,#u8356_img,#u8364_img,#u8358_img,#u8366_img,#u8368_img,#u8362_img,#u8348_img,#u8352_img,#u8710_img,#u8730_img,#u8750_img,#u8770_img,#u8790_img,#u8810_img,#u8830_img,#u8850_img,#u8870_img,#u8890_img,#u8910_img,#u8950_img,#u8970_img,#u8990_img,#u9010_img
+#u8352_img,#u9179_img,#u9199_img,#u9219_img,#u9239_img,#u9259_img,#u9279_img,#u9299_img,#u9319_img,#u9339_img,#u9359_img,#u9379_img,#u9399_img,#u9419_img,#u8710_img,#u8730_img,#u8750_img,#u8770_img,#u8790_img,#u8810_img,#u8830_img,#u8850_img,#u8870_img,#u8890_img,#u8910_img,#u8950_img,#u8970_img,#u8990_img,#u9010_img
 {
 	margin-top: -1px;
 	margin-bottom: -1px;
@@ -760,7 +760,7 @@
 	left: 495px;
 }
 
-#u8396.SSSlideLinkSelected,#u8394.SSSlideLinkSelected,#u8402.SSSlideLinkSelected,#u8400.SSSlideLinkSelected,#u8390.SSSlideLinkSelected,#u8380.SSSlideLinkSelected,#u8398.SSSlideLinkSelected,#u8386.SSSlideLinkSelected,#u8716.SSSlideLinkSelected,#u8736.SSSlideLinkSelected,#u8756.SSSlideLinkSelected,#u8776.SSSlideLinkSelected,#u8796.SSSlideLinkSelected,#u8816.SSSlideLinkSelected,#u8836.SSSlideLinkSelected,#u8856.SSSlideLinkSelected
+#u8384.SSSlideLinkSelected,#u9185.SSSlideLinkSelected,#u9205.SSSlideLinkSelected,#u9225.SSSlideLinkSelected,#u9245.SSSlideLinkSelected,#u9265.SSSlideLinkSelected,#u9285.SSSlideLinkSelected,#u9305.SSSlideLinkSelected,#u8716.SSSlideLinkSelected,#u8736.SSSlideLinkSelected,#u8756.SSSlideLinkSelected,#u8776.SSSlideLinkSelected,#u8796.SSSlideLinkSelected,#u8816.SSSlideLinkSelected,#u8836.SSSlideLinkSelected,#u8856.SSSlideLinkSelected
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -861,7 +861,7 @@
 	left: 425px;
 }
 
-#u8388.SSSlideLinkSelected,#u8378.SSSlideLinkSelected,#u8392.SSSlideLinkSelected,#u8382.SSSlideLinkSelected,#u8404.SSSlideLinkSelected,#u8384.SSSlideLinkSelected,#u8876.SSSlideLinkSelected,#u8896.SSSlideLinkSelected,#u8916.SSSlideLinkSelected,#u8956.SSSlideLinkSelected,#u8976.SSSlideLinkSelected,#u8996.SSSlideLinkSelected,#u9016.SSSlideLinkSelected
+#u9325.SSSlideLinkSelected,#u9345.SSSlideLinkSelected,#u9365.SSSlideLinkSelected,#u9385.SSSlideLinkSelected,#u9405.SSSlideLinkSelected,#u9425.SSSlideLinkSelected,#u8876.SSSlideLinkSelected,#u8896.SSSlideLinkSelected,#u8916.SSSlideLinkSelected,#u8956.SSSlideLinkSelected,#u8976.SSSlideLinkSelected,#u8996.SSSlideLinkSelected,#u9016.SSSlideLinkSelected
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -877,9 +877,9 @@
 	width: 100px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	margin-left: 491px;
@@ -901,9 +901,9 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-code-pro, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -916,9 +916,9 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: source-code-pro, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -937,9 +937,9 @@
 	width: 77px;
 	min-height: 29px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 	position: relative;
