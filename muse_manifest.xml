@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1460952175649">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461030520290">
   <folder name="css">
     <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:pics2:links:pics3"/>
@@ -6,7 +6,7 @@
     <file name="tr330.css" crc="190691106" ref="tr330"/>
     <file name="pics.css" crc="4038396185" ref="pics"/>
     <file name="pics2.css" crc="474514079" ref="pics2"/>
-    <file name="links.css" crc="3925094538" ref="links"/>
+    <file name="links.css" crc="4272502381" ref="links"/>
     <file name="pics3.css" crc="3789859309" ref="pics3"/>
   </folder>
   <folder name="scripts">
@@ -268,6 +268,6 @@
   <file name="tr330.html" crc="475977207" seo="true" mt="1460826358146" redirect="true"/>
   <file name="pics.html" crc="204057895" seo="true" mt="1460952153917" redirect="true"/>
   <file name="pics2.html" crc="526934319" seo="true" mt="1460827203586" redirect="true"/>
-  <file name="links.html" crc="487873567" seo="true" mt="1460827126884" redirect="true"/>
+  <file name="links.html" crc="421295335" seo="true" mt="1461030503740" redirect="true"/>
   <file name="pics3.html" crc="4205586530" seo="true" mt="1460952125154" redirect="true"/>
 </manifest>
