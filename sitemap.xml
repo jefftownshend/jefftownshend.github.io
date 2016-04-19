@@ -19,12 +19,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://shend.town/images/knit.jpg</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://shend.town/images/booze.jpg</loc>
     <lastmod>2016-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,12 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://shend.town/images/wallloop.jpg</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://shend.town/images/meltba.jpg</loc>
     <lastmod>2016-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,12 +44,6 @@
   </url>
   <url>
     <loc>http://shend.town/images/trash.jpg</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://shend.town/images/tower.jpg</loc>
     <lastmod>2016-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461096360630">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461108789251">
   <folder name="css">
-    <file name="site_global.css" crc="171548074"/>
+    <file name="site_global.css" crc="3970020510"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:links:morepics"/>
     <file name="index.css" crc="4049099953" ref="index"/>
     <file name="tr330.css" crc="190691106" ref="tr330"/>
-    <file name="pics.css" crc="4291416475" ref="pics"/>
+    <file name="pics.css" crc="209971508" ref="pics"/>
     <file name="links.css" crc="4272502381" ref="links"/>
     <file name="morepics.css" crc="3880311184" ref="morepics"/>
   </folder>
@@ -22,33 +22,30 @@
     <file name="3303-u1251.png" crc="113327267" ref="tr330"/>
     <file name="u1236.png" crc="115391843" ref="index"/>
     <file name="u1236-r.png" crc="3954995424" ref="index"/>
-    <file name="knit.jpg" crc="94194690" seo="true" ref="pics"/>
     <file name="booze.jpg" crc="229844328" seo="true" ref="pics"/>
     <file name="blob.jpg" crc="4130237824" seo="true" ref="pics"/>
     <file name="art.jpg" crc="3944861242" seo="true" ref="pics"/>
-    <file name="wallloop.jpg" crc="272817683" seo="true" ref="pics"/>
     <file name="meltba.jpg" crc="4181304747" seo="true" ref="pics"/>
     <file name="trash.jpg" crc="447746203" seo="true" ref="pics"/>
-    <file name="tower.jpg" crc="4126302367" seo="true" ref="pics"/>
     <file name="scram.jpg" crc="179208598" seo="true" ref="pics"/>
-    <file name="vent.jpg" crc="3796553192" seo="true" ref="morepics"/>
-    <file name="cross.jpg" crc="439213242" seo="true" ref="morepics"/>
-    <file name="jun.jpg" crc="4139987170" seo="true" ref="morepics"/>
+    <file name="vent.jpg" crc="3796553192" seo="true" ref="morepics:pics"/>
+    <file name="cross.jpg" crc="439213242" seo="true" ref="morepics:pics"/>
+    <file name="jun.jpg" crc="4139987170" seo="true" ref="morepics:pics"/>
     <file name="helv.jpg" crc="230420845" seo="true" ref="morepics"/>
-    <file name="frid.jpg" crc="3898540112" seo="true" ref="morepics"/>
+    <file name="frid.jpg" crc="3898540112" seo="true" ref="morepics:pics"/>
     <file name="u6515.png" crc="4206643726" ref="index"/>
     <file name="u6515-r.png" crc="116812568" ref="index"/>
     <file name="u4123.png" crc="4169737368" ref="index"/>
     <file name="u4123-r.png" crc="4067245784" ref="index"/>
     <file name="stre.jpg" crc="3815027199" seo="true" ref="morepics"/>
-    <file name="brid.jpg" crc="151657579" seo="true" ref="morepics"/>
+    <file name="brid.jpg" crc="151657579" seo="true" ref="morepics:pics"/>
     <file name="walktre.jpg" crc="3822451466" seo="true" ref="morepics"/>
     <file name="banks.jpg" crc="3910686737" seo="true" ref="morepics"/>
-    <file name="door.jpg" crc="3818729514" seo="true" ref="morepics"/>
+    <file name="door.jpg" crc="3818729514" seo="true" ref="morepics:pics"/>
   </folder>
   <file name="index.html" crc="3941527228" seo="true" mt="1460774573454" redirect="true"/>
   <file name="tr330.html" crc="475977207" seo="true" mt="1460826358146" redirect="true"/>
-  <file name="pics.html" crc="434798578" seo="true" mt="1461096348426" redirect="true"/>
+  <file name="pics.html" crc="149905255" seo="true" mt="1461096844623" redirect="true"/>
   <file name="links.html" crc="421295335" seo="true" mt="1461030503740" redirect="true"/>
-  <file name="morepics.html" crc="3981842764" seo="true" mt="1461096230307" redirect="true"/>
+  <file name="morepics.html" crc="3981842764" seo="true" mt="1461096807650" redirect="true"/>
 </manifest>

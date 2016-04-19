@@ -1,7 +1,7 @@
 .version.pics /* version checker */
 {
-	color: #0000FF;
-	background-color: #C9D19B;
+	color: #00000C;
+	background-color: #83E934;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 4500px;
+	min-height: 5565px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -55,76 +55,141 @@
 	position: relative;
 }
 
-#u9483
+#u9503
 {
 	z-index: 14;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
 }
 
-#u9493
+#u9697
+{
+	z-index: 28;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#pu9523
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#u9523
 {
 	z-index: 16;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
 }
 
-#u9503
+#u9699
 {
-	z-index: 18;
+	z-index: 30;
 	width: 600px;
 	background-color: transparent;
 	position: relative;
-}
-
-#u9523
-{
-	z-index: 22;
-	width: 600px;
-	background-color: transparent;
-	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
 }
 
 #u9533
 {
-	z-index: 24;
+	z-index: 18;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 450px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
-#u9540-5
+#pu9503,#pu9655
 {
-	z-index: 26;
-	width: 52px;
-	min-height: 27px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: source-code-pro, sans-serif;
-	font-weight: 500;
-	margin-left: 172px;
-	margin-top: 112px;
-	position: relative;
+	width: 0.01px;
 }
 
-#u9513
+#u9655
 {
 	z-index: 20;
 	width: 600px;
 	background-color: transparent;
-	top: -1039px;
-	margin-bottom: -450px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9678
+{
+	z-index: 24;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9701
+{
+	z-index: 32;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u9664
+{
+	z-index: 22;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u9680
+{
+	z-index: 26;
+	width: 600px;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u9703
+{
+	z-index: 34;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u9732
+{
+	z-index: 38;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u9725
+{
+	z-index: 36;
+	width: 600px;
+	background-color: transparent;
 	position: relative;
 }
 
 #pu4143
 {
 	width: 0.01px;
-	margin-top: 170px;
+	margin-top: 23px;
 }
 
 #u4143
