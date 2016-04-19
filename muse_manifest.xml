@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461108789251">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461108950745">
   <folder name="css">
     <file name="site_global.css" crc="3970020510"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:links:morepics"/>
     <file name="index.css" crc="4049099953" ref="index"/>
     <file name="tr330.css" crc="190691106" ref="tr330"/>
-    <file name="pics.css" crc="209971508" ref="pics"/>
+    <file name="pics.css" crc="193307425" ref="pics"/>
     <file name="links.css" crc="4272502381" ref="links"/>
     <file name="morepics.css" crc="3880311184" ref="morepics"/>
   </folder>
@@ -45,7 +45,7 @@
   </folder>
   <file name="index.html" crc="3941527228" seo="true" mt="1460774573454" redirect="true"/>
   <file name="tr330.html" crc="475977207" seo="true" mt="1460826358146" redirect="true"/>
-  <file name="pics.html" crc="149905255" seo="true" mt="1461096844623" redirect="true"/>
+  <file name="pics.html" crc="3956140938" seo="true" mt="1461108933077" redirect="true"/>
   <file name="links.html" crc="421295335" seo="true" mt="1461030503740" redirect="true"/>
   <file name="morepics.html" crc="3981842764" seo="true" mt="1461096807650" redirect="true"/>
 </manifest>
