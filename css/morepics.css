@@ -1,23 +1,18 @@
-.version.pics /* version checker */
+.version.morepics /* version checker */
 {
-	color: #0000FF;
-	background-color: #C9D19B;
-}
-
-#muse_css_mq
-{
-	background-color: #FFFFFF;
+	color: #0000E7;
+	background-color: #48D990;
 }
 
 #page
 {
 	z-index: 1;
 	width: 600px;
-	min-height: 4500px;
+	min-height: 4710px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -30,7 +25,7 @@
 	position: relative;
 }
 
-#u9453
+#u9555
 {
 	z-index: 8;
 	width: 600px;
@@ -39,7 +34,7 @@
 	position: relative;
 }
 
-#u9463
+#u9565
 {
 	z-index: 10;
 	width: 600px;
@@ -47,7 +42,7 @@
 	position: relative;
 }
 
-#u9473
+#u9575
 {
 	z-index: 12;
 	width: 600px;
@@ -55,7 +50,7 @@
 	position: relative;
 }
 
-#u9483
+#u9585
 {
 	z-index: 14;
 	width: 600px;
@@ -63,7 +58,7 @@
 	position: relative;
 }
 
-#u9493
+#u9595
 {
 	z-index: 16;
 	width: 600px;
@@ -71,7 +66,7 @@
 	position: relative;
 }
 
-#u9503
+#u9605
 {
 	z-index: 18;
 	width: 600px;
@@ -79,7 +74,16 @@
 	position: relative;
 }
 
-#u9523
+#u9615
+{
+	z-index: 20;
+	width: 600px;
+	background-color: transparent;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u9625
 {
 	z-index: 22;
 	width: 600px;
@@ -87,44 +91,26 @@
 	position: relative;
 }
 
-#u9533
+#u9645
+{
+	z-index: 26;
+	width: 600px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u9635
 {
 	z-index: 24;
 	width: 600px;
 	background-color: transparent;
-	margin-top: 450px;
-	position: relative;
-}
-
-#u9540-5
-{
-	z-index: 26;
-	width: 52px;
-	min-height: 27px;
-	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
-	font-family: source-code-pro, sans-serif;
-	font-weight: 500;
-	margin-left: 172px;
-	margin-top: 112px;
-	position: relative;
-}
-
-#u9513
-{
-	z-index: 20;
-	width: 600px;
-	background-color: transparent;
-	top: -1039px;
-	margin-bottom: -450px;
 	position: relative;
 }
 
 #pu4143
 {
 	width: 0.01px;
-	margin-top: 170px;
+	margin-top: 68px;
 }
 
 #u4143
@@ -145,9 +131,9 @@
 	left: 347px;
 }
 
-.html
+#muse_css_mq,.html
 {
-	background-color: #F7F7F7;
+	background-color: #FFFFFF;
 }
 
 body
