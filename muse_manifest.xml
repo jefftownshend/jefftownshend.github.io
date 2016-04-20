@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461108950745">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461178630331">
   <folder name="css">
-    <file name="site_global.css" crc="3970020510"/>
+    <file name="site_global.css" crc="171548074"/>
     <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:links:morepics"/>
     <file name="index.css" crc="4049099953" ref="index"/>
     <file name="tr330.css" crc="190691106" ref="tr330"/>
-    <file name="pics.css" crc="193307425" ref="pics"/>
+    <file name="pics.css" crc="229932560" ref="pics"/>
     <file name="links.css" crc="4272502381" ref="links"/>
     <file name="morepics.css" crc="3880311184" ref="morepics"/>
   </folder>
@@ -42,10 +42,24 @@
     <file name="walktre.jpg" crc="3822451466" seo="true" ref="morepics"/>
     <file name="banks.jpg" crc="3910686737" seo="true" ref="morepics"/>
     <file name="door.jpg" crc="3818729514" seo="true" ref="morepics:pics"/>
+    <file name="paint.jpg" crc="460666114" seo="true" ref="pics"/>
+    <file name="romem.jpg" crc="4052153805" seo="true" ref="pics"/>
+    <file name="venboat.jpg" crc="424219940" seo="true" ref="pics"/>
+    <file name="doyou.jpg" crc="485305438" seo="true" ref="pics"/>
+    <file name="tiles.jpg" crc="4074165697" seo="true" ref="pics"/>
+    <file name="carbuil.jpg" crc="4018042417" seo="true" ref="pics"/>
+    <file name="facewal.jpg" crc="343159157" seo="true" ref="pics"/>
+    <file name="train.jpg" crc="3767430788" seo="true" ref="pics"/>
+    <file name="die.jpg" crc="449267167" seo="true" ref="pics"/>
+    <file name="surferblood.jpg" crc="447230359" seo="true" ref="pics"/>
+    <file name="propeo.jpg" crc="4171682953" seo="true" ref="pics"/>
+    <file name="cas.jpg" crc="4277419776" seo="true" ref="pics"/>
+    <file name="thing.jpg" crc="440886934" seo="true" ref="pics"/>
+    <file name="hotel.jpg" crc="3973013083" seo="true" ref="pics"/>
   </folder>
   <file name="index.html" crc="3941527228" seo="true" mt="1460774573454" redirect="true"/>
   <file name="tr330.html" crc="475977207" seo="true" mt="1460826358146" redirect="true"/>
-  <file name="pics.html" crc="3956140938" seo="true" mt="1461108933077" redirect="true"/>
+  <file name="pics.html" crc="3814649306" seo="true" mt="1461178618678" redirect="true"/>
   <file name="links.html" crc="421295335" seo="true" mt="1461030503740" redirect="true"/>
   <file name="morepics.html" crc="3981842764" seo="true" mt="1461096807650" redirect="true"/>
 </manifest>
