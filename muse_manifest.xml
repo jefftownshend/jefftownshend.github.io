@@ -1,59 +1,23 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="shend.town" resolutions="1x" timestamp="1461550941320">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461561494349">
   <folder name="css">
-    <file name="site_global.css" crc="171548074"/>
-    <file name="master_a-master.css" crc="311179672" ref="index:tr330:pics:links:morepics"/>
-    <file name="index.css" crc="158932505" ref="index"/>
-    <file name="tr330.css" crc="190691106" ref="tr330"/>
-    <file name="pics.css" crc="229932560" ref="pics"/>
-    <file name="links.css" crc="4046648636" ref="links"/>
-    <file name="morepics.css" crc="3880311184" ref="morepics"/>
+    <file name="site_global.css" crc="4027778749"/>
+    <file name="master_a-master.css" crc="144498288" ref="index:tr330"/>
+    <file name="index.css" crc="412780460" ref="index"/>
+    <file name="tr330.css" crc="4278203778" ref="tr330"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:index"/>
+    <file name="nomq_tr330.css" crc="4023674763" ref="tr330"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:pics:links:morepics"/>
-    <file name="museutils.js" crc="3790713428" ref="index:tr330:pics:links:morepics"/>
-    <file name="whatinput.js" crc="84559013" ref="index:tr330:pics:links:morepics"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="tr330:pics:links:morepics"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330"/>
+    <file name="museutils.js" crc="3790713428" ref="index:tr330"/>
+    <file name="whatinput.js" crc="84559013" ref="index:tr330"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="tr330:index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="tr330"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3849062966" ref="index:tr330:links:pics"/>
-    <file name="sandgbot.png" crc="87205450" seo="true" ref="index:tr330:pics:links:morepics"/>
-    <file name="email.png" crc="180153778" seo="true" ref="index:tr330:pics:links:morepics"/>
-    <file name="london.png" crc="355981897" seo="true" ref="index:tr330:pics:links:morepics"/>
-    <file name="3303-u1251.png" crc="113327267" ref="tr330"/>
-    <file name="booze.jpg" crc="229844328" seo="true" ref="pics"/>
-    <file name="blob.jpg" crc="4130237824" seo="true" ref="pics"/>
-    <file name="art.jpg" crc="3944861242" seo="true" ref="pics"/>
-    <file name="meltba.jpg" crc="4181304747" seo="true" ref="pics"/>
-    <file name="trash.jpg" crc="447746203" seo="true" ref="pics"/>
-    <file name="scram.jpg" crc="179208598" seo="true" ref="pics"/>
-    <file name="vent.jpg" crc="3796553192" seo="true" ref="morepics:pics"/>
-    <file name="cross.jpg" crc="439213242" seo="true" ref="morepics:pics"/>
-    <file name="jun.jpg" crc="4139987170" seo="true" ref="morepics:pics"/>
-    <file name="helv.jpg" crc="230420845" seo="true" ref="morepics"/>
-    <file name="frid.jpg" crc="3898540112" seo="true" ref="morepics:pics"/>
-    <file name="stre.jpg" crc="3815027199" seo="true" ref="morepics"/>
-    <file name="brid.jpg" crc="151657579" seo="true" ref="morepics:pics"/>
-    <file name="walktre.jpg" crc="3822451466" seo="true" ref="morepics"/>
-    <file name="banks.jpg" crc="3910686737" seo="true" ref="morepics"/>
-    <file name="door.jpg" crc="3818729514" seo="true" ref="morepics:pics"/>
-    <file name="paint.jpg" crc="460666114" seo="true" ref="pics"/>
-    <file name="romem.jpg" crc="4052153805" seo="true" ref="pics"/>
-    <file name="venboat.jpg" crc="424219940" seo="true" ref="pics"/>
-    <file name="doyou.jpg" crc="485305438" seo="true" ref="pics"/>
-    <file name="tiles.jpg" crc="4074165697" seo="true" ref="pics"/>
-    <file name="carbuil.jpg" crc="4018042417" seo="true" ref="pics"/>
-    <file name="facewal.jpg" crc="343159157" seo="true" ref="pics"/>
-    <file name="train.jpg" crc="3767430788" seo="true" ref="pics"/>
-    <file name="die.jpg" crc="449267167" seo="true" ref="pics"/>
-    <file name="surferblood.jpg" crc="447230359" seo="true" ref="pics"/>
-    <file name="propeo.jpg" crc="4171682953" seo="true" ref="pics"/>
-    <file name="cas.jpg" crc="4277419776" seo="true" ref="pics"/>
-    <file name="thing.jpg" crc="440886934" seo="true" ref="pics"/>
-    <file name="hotel.jpg" crc="3973013083" seo="true" ref="pics"/>
+    <file name="3303-u1251.png" crc="113327267" ref="tr330" seo="true"/>
+    <file name="blank.gif" crc="4208392903" ref="tr330"/>
   </folder>
-  <file name="index.html" crc="4185268738" seo="true" mt="1461550766086" redirect="true"/>
-  <file name="tr330.html" crc="475977207" seo="true" mt="1460826358146" redirect="true"/>
-  <file name="pics.html" crc="3814649306" seo="true" mt="1461178618678" redirect="true"/>
-  <file name="links.html" crc="4283334048" seo="true" mt="1461550925446" redirect="true"/>
-  <file name="morepics.html" crc="3981842764" seo="true" mt="1461096807650" redirect="true"/>
+  <file name="index.html" crc="3850214226" seo="true" mt="1461561011348" redirect="true"/>
+  <file name="tr330.html" crc="3882649092" seo="true" mt="1461561385606" redirect="true"/>
 </manifest>

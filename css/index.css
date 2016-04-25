@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #791E19;
+	color: #000018;
+	background-color: #9A87AC;
 }
 
 #muse_css_mq
@@ -12,85 +12,106 @@
 #page
 {
 	z-index: 1;
-	width: 593px;
-	min-height: 566px;
+	min-height: 500px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #F7F7F7;
-	padding-right: 7px;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u4153
+#u133-6
 {
-	z-index: 6;
-	width: 438px;
-	margin-left: 81px;
-	position: relative;
+	z-index: 13;
+	min-height: 62px;
 }
 
-#u1229-16
+#u133-6:hover
 {
-	z-index: 8;
-	width: 346px;
-	min-height: 41px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #141414;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 62px;
+	margin: 0px;
+}
+
+#u133-6:active
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 62px;
+	margin: 0px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u133-6-bw
+{
+	z-index: 13;
+	min-height: 62px;
+}
+
+#u223-10
+{
+	z-index: 19;
+	min-height: 152px;
+	background-color: #4C4C4C;
 	text-align: center;
-	font-size: 16px;
-	font-family: roboto, sans-serif;
-	margin-left: 127px;
-	margin-top: 76px;
-	position: relative;
-}
-
-#u1229-3,#u1229-4,#u1229-6,#u1229-7
-{
+	font-family: vt323, sans-serif;
 	font-weight: 400;
 }
 
-#u1229,#u1229-5,#u1229-10,#u1229-11,#u1229-14
+#u223
 {
-	font-weight: 300;
+	font-size: 23px;
+	line-height: 28px;
+	color: #FFFFFF;
 }
 
-#pu4143
+#u223-5,#u223-6,#u223-8
 {
-	width: 0.01px;
-	margin-top: 278px;
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
 }
 
-#u4143
+#u223-10-bw
 {
-	z-index: 4;
-	width: 282px;
-	position: relative;
-	margin-right: -10000px;
+	z-index: 19;
+	min-height: 152px;
 }
 
-#u4133
+#u128-11
 {
 	z-index: 2;
-	width: 246px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 347px;
+	min-height: 77px;
+}
+
+#u128-11-bw
+{
+	z-index: 2;
+	min-height: 77px;
+	margin-top: 209px;
 }
 
 .html
 {
-	background-color: #F7F7F7;
+	background-color: #4C4C4C;
 }
 
 body
 {
 	position: relative;
-	min-width: 600px;
-	padding-top: 36px;
-	padding-bottom: 25px;
+	min-width: 320px;
 }
 
