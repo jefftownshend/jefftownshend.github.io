@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://soundandgraphic.com/images/selfimage.jpg</loc>
+    <lastmod>2016-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://soundandgraphic.com/index.html</loc>
     <lastmod>2016-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,6 +20,18 @@
   </url>
   <url>
     <loc>http://soundandgraphic.com/tr330.html</loc>
+    <lastmod>2016-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/me.html</loc>
+    <lastmod>2016-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/links.html</loc>
     <lastmod>2016-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
