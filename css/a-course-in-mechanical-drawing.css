@@ -1,0 +1,290 @@
+.version.a_course_in_mechanical_drawing /* version checker */
+{
+	color: #000017;
+	background-color: #CF5DB3;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499.7706013363031px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u133-6
+{
+	z-index: 8;
+	min-height: 55px;
+}
+
+#u133-6:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 55px;
+	margin: 0px;
+}
+
+#u133-6:active
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 55px;
+	margin: 0px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u133-6-bw
+{
+	z-index: 8;
+	min-height: 55px;
+}
+
+#u1342-22
+{
+	z-index: 14;
+	width: 320px;
+	min-height: 122px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 18px;
+	font-family: quantico, sans-serif;
+	font-weight: 400;
+	margin-top: 13px;
+	position: relative;
+	margin-left: 50%;
+	left: -160px;
+}
+
+#u1342,#u1342-5,#u1342-8,#u1342-11,#u1342-14,#u1342-18
+{
+	color: #B2B2B2;
+}
+
+#u3740
+{
+	z-index: 36;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3763
+{
+	z-index: 38;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3773
+{
+	z-index: 40;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3792
+{
+	z-index: 42;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3812
+{
+	z-index: 46;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 85%;
+	margin-left: 7.5%;
+}
+
+#u3802
+{
+	z-index: 44;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3822
+{
+	z-index: 48;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3832
+{
+	z-index: 50;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3842
+{
+	z-index: 52;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 100%;
+}
+
+#u3852
+{
+	z-index: 54;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3862
+{
+	z-index: 56;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3872
+{
+	z-index: 58;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3882
+{
+	z-index: 60;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3902
+{
+	z-index: 62;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3912
+{
+	z-index: 64;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3922
+{
+	z-index: 66;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 95.32%;
+	margin-left: 2.4%;
+}
+
+#u3932
+{
+	z-index: 68;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3942
+{
+	z-index: 70;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3952
+{
+	z-index: 72;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 100%;
+}
+
+#u3962
+{
+	z-index: 74;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 100%;
+}
+
+#u3740_img,#u3763_img,#u3773_img,#u3792_img,#u3812_img,#u3802_img,#u3822_img,#u3832_img,#u3842_img,#u3852_img,#u3862_img,#u3872_img,#u3882_img,#u3902_img,#u3912_img,#u3922_img,#u3932_img,#u3942_img,#u3952_img,#u3962_img
+{
+	width: 100%;
+}
+
+#u128-6,#u128-6-bw
+{
+	z-index: 2;
+	min-height: 27px;
+}
+
+.html
+{
+	background-color: #3F3F3F;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

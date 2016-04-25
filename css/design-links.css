@@ -1,7 +1,7 @@
-.version.links /* version checker */
+.version.design_links /* version checker */
 {
-	color: #0000E1;
-	background-color: #3C06DF;
+	color: #000002;
+	background-color: #E69CC7;
 }
 
 .js body
@@ -17,22 +17,22 @@
 #page
 {
 	background-color: transparent;
-	margin-left: auto;
-	border-width: 0px;
-	padding-bottom: 0px;
-	min-height: 499.9999999999998px;
-	width: 100%;
 	z-index: 1;
-	border-color: #000000;
-	background-image: none;
+	margin-left: auto;
+	width: 100%;
 	margin-right: auto;
+	min-height: 499.9999999999998px;
+	border-width: 0px;
+	border-color: #000000;
+	padding-bottom: 0px;
+	background-image: none;
 }
 
 #u133-6:hover,#u133-6:active
 {
 	padding-top: 0px;
-	padding-bottom: 0px;
 	min-height: 55px;
+	padding-bottom: 0px;
 	margin: 0px;
 }
 
@@ -45,12 +45,12 @@
 #u886-93
 {
 	padding-top: 12px;
-	min-height: 522px;
-	background-color: transparent;
-	position: relative;
-	padding-bottom: 12px;
-	margin-top: 26px;
 	z-index: 14;
+	min-height: 522px;
+	margin-top: 26px;
+	background-color: transparent;
+	padding-bottom: 12px;
+	position: relative;
 }
 
 #u886-92
@@ -61,40 +61,40 @@
 
 #u886-6
 {
-	text-align: center;
-	font-family: quantico, sans-serif;
-	line-height: 19px;
-	font-weight: 400;
-	color: #FFFFFF;
 	font-size: 16px;
+	color: #FFFFFF;
+	font-family: quantico, sans-serif;
+	font-weight: 400;
+	line-height: 19px;
+	text-align: center;
 }
 
 #u886-9,#u886-10
 {
-	text-align: right;
-	font-family: quantico, sans-serif;
-	line-height: 19px;
-	font-weight: 400;
-	color: #FFFFFF;
 	font-size: 16px;
+	color: #FFFFFF;
+	font-family: quantico, sans-serif;
+	font-weight: 400;
+	line-height: 19px;
+	text-align: right;
 }
 
 #u886-45
 {
-	font-family: roboto, sans-serif;
+	font-size: 16px;
 	font-weight: 300;
 	color: #FF0000;
 	line-height: 19px;
-	font-size: 16px;
+	font-family: roboto, sans-serif;
 }
 
 #u886-54
 {
-	font-family: roboto, sans-serif;
+	font-size: 16px;
 	font-weight: 300;
 	color: #0E0E0E;
 	line-height: 19px;
-	font-size: 16px;
+	font-family: roboto, sans-serif;
 }
 
 #u886-43,#u886-52
@@ -120,11 +120,11 @@
 
 #u886-36,#u886-66,#u886-78,#u886-88
 {
-	font-family: quantico, sans-serif;
+	font-size: 16px;
 	font-weight: 400;
 	color: #0E0E0E;
 	line-height: 19px;
-	font-size: 16px;
+	font-family: quantico, sans-serif;
 }
 
 #u886-30,#u886-33,#u886-63,#u886-75,#u886-87
@@ -134,20 +134,20 @@
 
 #u886-3,#u886-11,#u886-12,#u886-15,#u886-21,#u886-23,#u886-24,#u886-27,#u886-38,#u886-39,#u886-42,#u886-47,#u886-48,#u886-51,#u886-56,#u886-57,#u886-60,#u886-68,#u886-69,#u886-72,#u886-80,#u886-81,#u886-84,#u886-90
 {
-	font-family: quantico, sans-serif;
+	font-size: 16px;
 	font-weight: 400;
 	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
+	font-family: quantico, sans-serif;
 }
 
 #u886-91
 {
-	font-family: quantico, sans-serif;
+	font-size: 15px;
 	font-weight: 400;
 	color: #FFFFFF;
 	line-height: 18px;
-	font-size: 15px;
+	font-family: quantico, sans-serif;
 }
 
 #u128-6,#u128-6-bw
