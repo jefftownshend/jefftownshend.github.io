@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461601876654">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461602107700">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="184131857" ref="index:tr330:me:links"/>
-    <file name="index.css" crc="4234474862" ref="index"/>
+    <file name="master_a-master.css" crc="3822619402" ref="index:tr330:me:links"/>
+    <file name="index.css" crc="43396331" ref="index"/>
     <file name="tr330.css" crc="274598429" ref="tr330"/>
-    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:index:me:links"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:me:links"/>
     <file name="nomq_tr330.css" crc="189110816" ref="tr330"/>
     <file name="me.css" crc="136135522" ref="me"/>
     <file name="nomq_me.css" crc="298438889" ref="me"/>
@@ -23,7 +23,7 @@
     <file name="blank.gif" crc="4208392903" ref="tr330:me:links"/>
     <file name="selfimage.jpg" crc="465546273" seo="true" ref="me"/>
   </folder>
-  <file name="index.html" crc="4025874174" seo="true" mt="1461600164130" redirect="true"/>
+  <file name="index.html" crc="4025874174" seo="true" mt="1461602096776" redirect="true"/>
   <file name="tr330.html" crc="458601430" seo="true" mt="1461600164130" redirect="true"/>
   <file name="me.html" crc="3769548807" seo="true" mt="1461601839386" redirect="true"/>
   <file name="links.html" crc="3913157956" seo="true" mt="1461601329005" redirect="true"/>

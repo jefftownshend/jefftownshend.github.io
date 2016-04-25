@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FC;
-	background-color: #64F56E;
+	color: #000002;
+	background-color: #962CEB;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 262px;
+	min-height: 493px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -91,10 +91,17 @@
 	min-height: 180px;
 }
 
-#u128-6,#u128-6-bw
+#u128-6
 {
 	z-index: 2;
 	min-height: 27px;
+}
+
+#u128-6-bw
+{
+	z-index: 2;
+	min-height: 27px;
+	margin-top: 231px;
 }
 
 .html
