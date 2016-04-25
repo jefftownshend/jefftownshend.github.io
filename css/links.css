@@ -1,7 +1,7 @@
 .version.links /* version checker */
 {
-	color: #000011;
-	background-color: #1596E8;
+	color: #0000E1;
+	background-color: #3C06DF;
 }
 
 .js body
@@ -42,7 +42,7 @@
 	min-height: 55px;
 }
 
-#u886-81
+#u886-93
 {
 	padding-top: 12px;
 	min-height: 522px;
@@ -53,7 +53,7 @@
 	z-index: 14;
 }
 
-#u886-80
+#u886-92
 {
 	margin-right: 30px;
 	margin-left: 30px;
@@ -69,7 +69,7 @@
 	font-size: 16px;
 }
 
-#u886-9,#u886-10,#u886-11
+#u886-9,#u886-10
 {
 	text-align: right;
 	font-family: quantico, sans-serif;
@@ -79,7 +79,7 @@
 	font-size: 16px;
 }
 
-#u886-33
+#u886-45
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -88,7 +88,7 @@
 	font-size: 16px;
 }
 
-#u886-42
+#u886-54
 {
 	font-family: roboto, sans-serif;
 	font-weight: 300;
@@ -97,28 +97,28 @@
 	font-size: 16px;
 }
 
-#u886-31,#u886-40
+#u886-43,#u886-52
 {
 	font-family: quantico, sans-serif;
 	font-weight: 400;
 }
 
-#u886,#u886-28,#u886-46
+#u886,#u886-40,#u886-58
 {
 	color: #F7931E;
 }
 
-#u886-4,#u886-58
+#u886-4,#u886-13,#u886-70
 {
 	color: #29ABE2;
 }
 
-#u886-7,#u886-13,#u886-37,#u886-70
+#u886-7,#u886-25,#u886-49,#u886-82
 {
 	color: #00FF00;
 }
 
-#u886-24,#u886-54,#u886-66,#u886-76
+#u886-36,#u886-66,#u886-78,#u886-88
 {
 	font-family: quantico, sans-serif;
 	font-weight: 400;
@@ -127,12 +127,12 @@
 	font-size: 16px;
 }
 
-#u886-18,#u886-21,#u886-51,#u886-63,#u886-75
+#u886-30,#u886-33,#u886-63,#u886-75,#u886-87
 {
 	color: #FFFFFF;
 }
 
-#u886-3,#u886-12,#u886-15,#u886-26,#u886-27,#u886-30,#u886-35,#u886-36,#u886-39,#u886-44,#u886-45,#u886-48,#u886-56,#u886-57,#u886-60,#u886-68,#u886-69,#u886-72,#u886-78
+#u886-3,#u886-11,#u886-12,#u886-15,#u886-21,#u886-23,#u886-24,#u886-27,#u886-38,#u886-39,#u886-42,#u886-47,#u886-48,#u886-51,#u886-56,#u886-57,#u886-60,#u886-68,#u886-69,#u886-72,#u886-80,#u886-81,#u886-84,#u886-90
 {
 	font-family: quantico, sans-serif;
 	font-weight: 400;
@@ -141,7 +141,7 @@
 	font-size: 16px;
 }
 
-#u886-79
+#u886-91
 {
 	font-family: quantico, sans-serif;
 	font-weight: 400;
@@ -183,7 +183,7 @@ body
 		max-width: 960px;
 	}
 
-	#u886-81
+	#u886-93
 	{
 		width: 543px;
 		margin-left: 50%;
@@ -209,11 +209,16 @@ body
 		max-width: 596px;
 	}
 
-	#u886-81
+	#u886-93
 	{
 		width: 91.11%;
 		margin-left: 4.45%;
 		left: 0px;
+	}
+
+	#u886-14
+	{
+		color: #00FF00;
 	}
 
 	body
