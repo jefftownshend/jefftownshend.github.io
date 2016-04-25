@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461561494349">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461561774381">
   <folder name="css">
     <file name="site_global.css" crc="4027778749"/>
-    <file name="master_a-master.css" crc="144498288" ref="index:tr330"/>
-    <file name="index.css" crc="412780460" ref="index"/>
-    <file name="tr330.css" crc="4278203778" ref="tr330"/>
+    <file name="master_a-master.css" crc="40362403" ref="index:tr330"/>
+    <file name="index.css" crc="115711785" ref="index"/>
+    <file name="tr330.css" crc="3758464515" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:index"/>
     <file name="nomq_tr330.css" crc="4023674763" ref="tr330"/>
   </folder>
@@ -18,6 +18,6 @@
     <file name="3303-u1251.png" crc="113327267" ref="tr330" seo="true"/>
     <file name="blank.gif" crc="4208392903" ref="tr330"/>
   </folder>
-  <file name="index.html" crc="3850214226" seo="true" mt="1461561011348" redirect="true"/>
-  <file name="tr330.html" crc="3882649092" seo="true" mt="1461561385606" redirect="true"/>
+  <file name="index.html" crc="4018044192" seo="true" mt="1461561754189" redirect="true"/>
+  <file name="tr330.html" crc="3777977925" seo="true" mt="1461561680395" redirect="true"/>
 </manifest>

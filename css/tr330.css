@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000FF;
-	background-color: #003582;
+	color: #0000E0;
+	background-color: #059E03;
 }
 
 .js body
@@ -170,7 +170,7 @@ body
 
 	body
 	{
-		min-width: 320px;
+		min-width: 200px;
 	}
 }
 

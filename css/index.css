@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #9A87AC;
+	color: #000006;
+	background-color: #E59F29;
 }
 
 #muse_css_mq
@@ -112,6 +112,6 @@
 body
 {
 	position: relative;
-	min-width: 320px;
+	min-width: 200px;
 }
 
