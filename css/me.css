@@ -1,7 +1,7 @@
 .version.me /* version checker */
 {
-	color: #0000E2;
-	background-color: #F88687;
+	color: #0000F0;
+	background-color: #A2526C;
 }
 
 .js body
@@ -144,7 +144,7 @@ body
 	#u701-21
 	{
 		width: 543px;
-		min-height: 522px;
+		min-height: 321px;
 		margin-left: 50%;
 		left: -271px;
 	}
