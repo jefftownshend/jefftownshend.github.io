@@ -10,6 +10,7 @@
 
 	#page
 	{
+		min-height: 731px;
 		max-width: 960px;
 	}
 
@@ -20,12 +21,16 @@
 		left: -157px;
 	}
 
-	#u701-21
+	#u701-17
 	{
 		width: 543px;
-		min-height: 321px;
+		min-height: 262px;
 		margin-left: 50%;
 		left: -271px;
 	}
 
+	#u128-6-bw
+	{
+		margin-top: 23px;
+	}
 

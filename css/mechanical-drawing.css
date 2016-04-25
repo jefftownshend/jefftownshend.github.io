@@ -1,7 +1,7 @@
-.version.a_course_in_mechanical_drawing /* version checker */
+.version.mechanical_drawing /* version checker */
 {
-	color: #0000F1;
-	background-color: #A6B461;
+	color: #000016;
+	background-color: #340637;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 999.7706013363031px;
+	min-height: 499.7706013363031px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -62,211 +62,248 @@
 	min-height: 55px;
 }
 
-#u1342-22
+#u4156-22
 {
-	z-index: 14;
+	z-index: 16;
 	width: 320px;
 	min-height: 122px;
 	background-color: transparent;
-	line-height: 18px;
 	color: #FFFFFF;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: quantico, sans-serif;
 	font-weight: 400;
-	margin-top: 13px;
+	margin-top: 10px;
 	position: relative;
 	margin-left: 50%;
 	left: -160px;
 }
 
-#u1342,#u1342-5,#u1342-8,#u1342-11,#u1342-14,#u1342-18
+#u4156,#u4156-5,#u4156-8,#u4156-11,#u4156-14,#u4156-18
 {
 	color: #B2B2B2;
 }
 
-#u3740
-{
-	z-index: 36;
-	background-color: transparent;
-	margin-top: 20px;
-	position: relative;
-	width: 100%;
-}
-
-#u3763
+#u4159
 {
 	z-index: 38;
 	background-color: transparent;
+	position: relative;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u4149
+{
+	z-index: 14;
+	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3773
+#u4166
 {
 	z-index: 40;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3792
+#u4179
 {
 	z-index: 42;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3812
-{
-	z-index: 46;
-	background-color: transparent;
-	margin-top: 19px;
-	position: relative;
-	width: 85%;
-	margin-left: 7.5%;
-}
-
-#u3802
+#u4205
 {
 	z-index: 44;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
-	width: 100%;
+	width: 85%;
+	margin-left: 7.51%;
+	left: -1px;
 }
 
-#u3822
+#u4212
 {
-	z-index: 48;
+	z-index: 46;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3832
+#u4219
+{
+	z-index: 48;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u4232
 {
 	z-index: 50;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3842
+#u4239
 {
 	z-index: 52;
-	background-color: transparent;
-	margin-top: 21px;
-	position: relative;
-	width: 100%;
-}
-
-#u3852
-{
-	z-index: 54;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3862
+#u4246
+{
+	z-index: 54;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u4253
 {
 	z-index: 56;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3872
+#u4260
 {
 	z-index: 58;
 	background-color: transparent;
-	margin-top: 20px;
+	margin-top: 21px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3882
+#u4267
 {
 	z-index: 60;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3902
+#u4274
 {
 	z-index: 62;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3912
+#u4281
 {
 	z-index: 64;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3922
+#u4288
 {
 	z-index: 66;
 	background-color: transparent;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 	width: 95.32%;
-	margin-left: 2.4%;
+	margin-left: 2.35%;
+	left: 1px;
 }
 
-#u3932
+#u4301
 {
 	z-index: 68;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3942
+#u4308
 {
 	z-index: 70;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3952
+#u4315
 {
 	z-index: 72;
 	background-color: transparent;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3962
+#u4322
 {
 	z-index: 74;
 	background-color: transparent;
 	margin-top: 20px;
 	position: relative;
 	width: 100%;
+	margin-left: 0%;
+	left: 0px;
 }
 
-#u3740_img,#u3763_img,#u3773_img,#u3792_img,#u3812_img,#u3802_img,#u3822_img,#u3832_img,#u3842_img,#u3852_img,#u3862_img,#u3872_img,#u3882_img,#u3902_img,#u3912_img,#u3922_img,#u3932_img,#u3942_img,#u3952_img,#u3962_img
+#u4159_img,#u4149_img,#u4166_img,#u4179_img,#u4205_img,#u4212_img,#u4219_img,#u4232_img,#u4239_img,#u4246_img,#u4253_img,#u4260_img,#u4267_img,#u4274_img,#u4281_img,#u4288_img,#u4301_img,#u4308_img,#u4315_img,#u4322_img
 {
 	width: 100%;
 }

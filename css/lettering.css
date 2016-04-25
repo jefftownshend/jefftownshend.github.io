@@ -1,7 +1,7 @@
 .version.lettering /* version checker */
 {
-	color: #000000;
-	background-color: #3629C6;
+	color: #00000B;
+	background-color: #4FEE5B;
 }
 
 .js body
@@ -16,75 +16,75 @@
 
 #page
 {
-	background-color: transparent;
-	z-index: 1;
-	margin-left: auto;
-	width: 100%;
-	margin-right: auto;
-	min-height: 280px;
 	border-width: 0px;
-	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	min-height: 280px;
+	margin-right: auto;
+	margin-left: auto;
 	background-image: none;
+	border-color: #000000;
+	z-index: 1;
 }
 
 #u133-6:hover,#u133-6:active
 {
-	padding-top: 0px;
-	min-height: 55px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
 	margin: 0px;
 }
 
 #u133-6,#u133-6-bw
 {
-	z-index: 8;
 	min-height: 55px;
+	z-index: 8;
 }
 
 #u1302-16
 {
-	padding-top: 12px;
-	z-index: 14;
-	min-height: 134px;
-	margin-top: 21px;
-	background-color: transparent;
 	padding-bottom: 12px;
+	margin-top: 21px;
+	min-height: 134px;
+	padding-top: 12px;
+	background-color: transparent;
 	position: relative;
+	z-index: 14;
 }
 
 #u1302-15
 {
-	font-weight: 400;
+	margin-right: 30px;
 	margin-left: 30px;
 	color: #FFFFFF;
-	margin-right: 30px;
+	font-weight: 400;
 }
 
 #u1302-7,#u1302-8
 {
 	font-size: 15px;
-	line-height: 18px;
 	font-family: quantico, sans-serif;
+	line-height: 18px;
 }
 
 #u1302-14
 {
 	font-size: 20px;
-	line-height: 24px;
 	font-family: vt323, sans-serif;
+	line-height: 24px;
 }
 
 #u128-6
 {
-	z-index: 2;
 	min-height: 27px;
+	z-index: 2;
 }
 
 #u128-6-bw
 {
 	z-index: 2;
-	min-height: 27px;
 	margin-top: 19px;
+	min-height: 27px;
 }
 
 .html

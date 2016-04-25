@@ -1,55 +1,57 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461623784196">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461628467836">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="3874473095" ref="index:tr330:design-links:a-course-in-mechanical-drawing:jeff:lettering"/>
+    <file name="master_a-master.css" crc="3822619402" ref="index:tr330:design-links:a-course-in-mechanical-drawing:jeff:lettering:mechanical-drawing"/>
     <file name="index.css" crc="3864114909" ref="index"/>
     <file name="tr330.css" crc="360392636" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff:lettering"/>
     <file name="nomq_tr330.css" crc="189110816" ref="tr330"/>
     <file name="design-links.css" crc="48667847" ref="design-links"/>
     <file name="nomq_design-links.css" crc="3920921282" ref="design-links"/>
-    <file name="a-course-in-mechanical-drawing.css" crc="293702416" ref="a-course-in-mechanical-drawing"/>
-    <file name="jeff.css" crc="3789248291" ref="jeff"/>
-    <file name="nomq_jeff.css" crc="298438889" ref="jeff"/>
-    <file name="lettering.css" crc="3549638" ref="lettering"/>
+    <file name="a-course-in-mechanical-drawing.css" crc="4054234209" ref="a-course-in-mechanical-drawing"/>
+    <file name="jeff.css" crc="4213854506" ref="jeff"/>
+    <file name="nomq_jeff.css" crc="3882963439" ref="jeff"/>
+    <file name="lettering.css" crc="189787739" ref="lettering"/>
     <file name="nomq_lettering.css" crc="372260408" ref="lettering"/>
+    <file name="mechanical-drawing.css" crc="372508215" ref="mechanical-drawing"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing"/>
-    <file name="museutils.js" crc="3790713428" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing"/>
-    <file name="whatinput.js" crc="84559013" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="tr330:index:jeff:design-links:lettering:a-course-in-mechanical-drawing"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="museutils.js" crc="3790713428" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="whatinput.js" crc="84559013" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="tr330:index:jeff:design-links:lettering:a-course-in-mechanical-drawing:mechanical-drawing"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="tr330:jeff:design-links:lettering"/>
   </folder>
   <folder name="images">
     <file name="3303-u1251.png" crc="113327267" ref="tr330" seo="true"/>
     <file name="blank.gif" crc="4208392903" ref="tr330:jeff:design-links"/>
     <file name="selfimage.jpg" crc="465546273" seo="true" ref="jeff"/>
-    <file name="12roman.jpg" crc="362892790" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="18italic.jpg" crc="150902904" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="cushingalic.jpg" crc="4040846812" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="boldfaceitalic.jpg" crc="356701163" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="twolinenonpareilgothcond.jpg" crc="4053457935" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="nonpareilightfaceceltic.jpg" crc="122300227" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="chelseaircular.jpg" crc="321215505" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="elandkay.jpg" crc="4121431858" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="quaintopen.jpg" crc="133918705" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="roman.jpg" crc="3911637359" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="oldstyleitalic.jpg" crc="4233218530" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="victoriaitalic.jpg" crc="4130064916" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="devinneitalic.jpg" crc="20788265" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="gothicitalic.jpg" crc="3822592883" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="picaprogram.jpg" crc="3834120164" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="telescopicgothic.jpg" crc="180243875" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="gallican.jpg" crc="4212867113" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="virileopen.jpg" crc="356475416" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="oldstyleroman.jpg" crc="48506869" seo="true" ref="a-course-in-mechanical-drawing"/>
-    <file name="yonkers.jpg" crc="461195520" seo="true" ref="a-course-in-mechanical-drawing"/>
+    <file name="12roman.jpg" crc="362892790" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="18italic.jpg" crc="150902904" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="cushingalic.jpg" crc="4040846812" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="boldfaceitalic.jpg" crc="356701163" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="twolinenonpareilgothcond.jpg" crc="4053457935" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="nonpareilightfaceceltic.jpg" crc="122300227" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="chelseaircular.jpg" crc="321215505" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="elandkay.jpg" crc="4121431858" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="quaintopen.jpg" crc="133918705" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="roman.jpg" crc="3911637359" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="oldstyleitalic.jpg" crc="4233218530" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="victoriaitalic.jpg" crc="4130064916" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="devinneitalic.jpg" crc="20788265" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="gothicitalic.jpg" crc="3822592883" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="picaprogram.jpg" crc="3834120164" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="telescopicgothic.jpg" crc="180243875" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="gallican.jpg" crc="4212867113" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="virileopen.jpg" crc="356475416" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="oldstyleroman.jpg" crc="48506869" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
+    <file name="yonkers.jpg" crc="461195520" seo="true" ref="a-course-in-mechanical-drawing:mechanical-drawing"/>
   </folder>
   <file name="index.html" crc="528825584" seo="true" mt="1461618898266" redirect="true"/>
   <file name="tr330.html" crc="4015489545" seo="true" mt="1461617799644" redirect="true"/>
-  <file name="jeff.html" crc="389638329" seo="true" mt="1461623772692" redirect="true"/>
+  <file name="jeff.html" crc="440618243" seo="true" mt="1461626493787" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
-  <file name="lettering.html" crc="221338679" seo="true" mt="1461619848166" redirect="true"/>
-  <file name="a-course-in-mechanical-drawing.html" crc="3848259444" seo="true" mt="1461619095473" redirect="true"/>
+  <file name="lettering.html" crc="3876586344" seo="true" mt="1461628413479" redirect="true"/>
+  <file name="a-course-in-mechanical-drawing.html" crc="534660913" seo="true" mt="1461626596357" redirect="true"/>
+  <file name="mechanical-drawing.html" crc="3911065943" seo="true" mt="1461628457316" redirect="true"/>
 </manifest>
