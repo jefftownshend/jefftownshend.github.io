@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000006;
-	background-color: #E59F29;
+	color: #0000F6;
+	background-color: #350DDF;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 262px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -26,14 +26,14 @@
 #u133-6
 {
 	z-index: 13;
-	min-height: 62px;
+	min-height: 55px;
 }
 
 #u133-6:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 62px;
+	min-height: 55px;
 	margin: 0px;
 }
 
@@ -41,7 +41,7 @@
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 62px;
+	min-height: 55px;
 	margin: 0px;
 }
 
@@ -58,13 +58,13 @@
 #u133-6-bw
 {
 	z-index: 13;
-	min-height: 62px;
+	min-height: 55px;
 }
 
 #u223-10
 {
 	z-index: 19;
-	min-height: 152px;
+	min-height: 126px;
 	background-color: #4C4C4C;
 	text-align: center;
 	font-family: vt323, sans-serif;
@@ -88,7 +88,7 @@
 #u223-10-bw
 {
 	z-index: 19;
-	min-height: 152px;
+	min-height: 126px;
 }
 
 #u128-11
@@ -101,7 +101,7 @@
 {
 	z-index: 2;
 	min-height: 77px;
-	margin-top: 209px;
+	margin-top: 4px;
 }
 
 .html
@@ -112,6 +112,6 @@
 body
 {
 	position: relative;
-	min-width: 200px;
+	min-width: 320px;
 }
 
