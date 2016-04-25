@@ -1,7 +1,7 @@
 .version.a_course_in_mechanical_drawing /* version checker */
 {
-	color: #000000;
-	background-color: #124100;
+	color: #000011;
+	background-color: #818B10;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 6083px;
+	min-height: 6035.770601336303px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
@@ -270,17 +271,10 @@
 	width: 100%;
 }
 
-#u128-6
+#u128-6,#u128-6-bw
 {
 	z-index: 2;
 	min-height: 27px;
-}
-
-#u128-6-bw
-{
-	z-index: 2;
-	min-height: 27px;
-	margin-top: 23px;
 }
 
 .html
