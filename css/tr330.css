@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
 	color: #000010;
-	background-color: #310C91;
+	background-color: #5E0A1D;
 }
 
 .js body
@@ -17,14 +17,14 @@
 #page
 {
 	background-color: transparent;
-	padding-bottom: 0px;
-	border-color: #000000;
 	margin-left: auto;
-	min-height: 499.5999999999998px;
-	background-image: none;
-	width: 100%;
 	border-width: 0px;
+	padding-bottom: 0px;
+	min-height: 499.5999999999998px;
+	width: 100%;
 	z-index: 1;
+	border-color: #000000;
+	background-image: none;
 	margin-right: auto;
 }
 
@@ -38,42 +38,42 @@
 
 #u133-6,#u133-6-bw
 {
+	z-index: 8;
 	min-height: 55px;
-	z-index: 9;
 }
 
 #u290
 {
 	background-color: transparent;
 	position: relative;
-	z-index: 43;
+	z-index: 42;
 }
 
 #u287-28
 {
-	background-color: transparent;
-	min-height: 391px;
-	padding-bottom: 12px;
-	position: relative;
-	z-index: 15;
 	padding-top: 12px;
+	min-height: 391px;
+	background-color: transparent;
+	position: relative;
+	padding-bottom: 12px;
+	z-index: 14;
 }
 
 #u287-27
 {
-	color: #FFFFFF;
-	margin-left: 30px;
 	font-family: quantico, sans-serif;
+	margin-left: 30px;
 	line-height: 18px;
-	font-size: 15px;
 	font-weight: 400;
+	color: #FFFFFF;
+	font-size: 15px;
 	margin-right: 30px;
 }
 
-#u128-7,#u128-7-bw
+#u128-6,#u128-6-bw
 {
-	min-height: 27px;
 	z-index: 2;
+	min-height: 27px;
 }
 
 .html

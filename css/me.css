@@ -1,7 +1,7 @@
 .version.me /* version checker */
 {
-	color: #000006;
-	background-color: #15B772;
+	color: #00001F;
+	background-color: #F8AC28;
 }
 
 .js body
@@ -17,14 +17,14 @@
 #page
 {
 	background-color: transparent;
-	padding-bottom: 0px;
-	border-color: #000000;
 	margin-left: auto;
-	min-height: 499.9999999999998px;
-	background-image: none;
-	width: 100%;
 	border-width: 0px;
+	padding-bottom: 0px;
+	min-height: 499.9999999999998px;
+	width: 100%;
 	z-index: 1;
+	border-color: #000000;
+	background-image: none;
 	margin-right: auto;
 }
 
@@ -38,62 +38,62 @@
 
 #u133-6,#u133-6-bw
 {
+	z-index: 8;
 	min-height: 55px;
-	z-index: 9;
 }
 
 #u737
 {
-	margin-top: 12px;
 	background-color: transparent;
 	position: relative;
-	z-index: 36;
+	margin-top: 12px;
+	z-index: 35;
 }
 
 #u701-21
 {
-	background-color: transparent;
-	margin-top: 13px;
-	padding-bottom: 12px;
-	position: relative;
-	z-index: 15;
 	padding-top: 12px;
+	background-color: transparent;
+	position: relative;
+	padding-bottom: 12px;
+	margin-top: 13px;
+	z-index: 14;
 }
 
 #u701-20
 {
-	margin-left: 30px;
 	font-weight: 400;
+	margin-left: 30px;
 	margin-right: 30px;
 }
 
 #u701-3
 {
-	line-height: 23px;
-	font-size: 19px;
 	text-align: center;
 	font-family: quantico, sans-serif;
+	line-height: 23px;
+	font-size: 19px;
 }
 
 #u701-15,#u701-17
 {
-	line-height: 29px;
-	font-size: 24px;
 	text-align: center;
 	font-family: vt323, sans-serif;
+	line-height: 29px;
+	font-size: 24px;
 }
 
 #u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-12,#u701-13,#u701-19
 {
-	font-size: 15px;
-	line-height: 18px;
 	font-family: quantico, sans-serif;
+	line-height: 18px;
+	font-size: 15px;
 }
 
-#u128-7,#u128-7-bw
+#u128-6,#u128-6-bw
 {
-	min-height: 27px;
 	z-index: 2;
+	min-height: 27px;
 }
 
 .html
