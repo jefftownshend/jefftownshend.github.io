@@ -10,14 +10,20 @@
 
 	#page
 	{
+		min-height: 285px;
 		max-width: 960px;
 	}
 
-	#u1302-19
+	#u1302-16
 	{
 		width: 543px;
+		min-height: 134px;
 		margin-left: 50%;
 		left: -271px;
 	}
 
+	#u128-6-bw
+	{
+		margin-top: 24px;
+	}
 

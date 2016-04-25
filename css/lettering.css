@@ -1,7 +1,7 @@
 .version.lettering /* version checker */
 {
-	color: #000000;
-	background-color: #CADA7A;
+	color: #0000F0;
+	background-color: #3EF19B;
 }
 
 .js body
@@ -21,7 +21,6 @@
 	margin-left: auto;
 	width: 100%;
 	margin-right: auto;
-	min-height: 500px;
 	border-width: 0px;
 	border-color: #000000;
 	background-image: none;
@@ -41,39 +40,42 @@
 	min-height: 55px;
 }
 
-#u1302-19
+#u1302-16
 {
 	padding-top: 12px;
 	z-index: 14;
-	min-height: 321px;
 	margin-top: 21px;
 	background-color: transparent;
 	padding-bottom: 12px;
 	position: relative;
 }
 
-#u1302-18
+#u1302-15
 {
-	font-size: 15px;
+	font-weight: 400;
 	margin-left: 30px;
 	color: #FFFFFF;
-	font-family: quantico, sans-serif;
-	font-weight: 400;
-	line-height: 18px;
 	margin-right: 30px;
 }
 
-#u128-6
+#u1302-7,#u1302-8
 {
-	z-index: 2;
-	min-height: 27px;
+	font-size: 15px;
+	line-height: 18px;
+	font-family: quantico, sans-serif;
 }
 
-#u128-6-bw
+#u1302-14
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-family: vt323, sans-serif;
+}
+
+#u128-6,#u128-6-bw
 {
 	z-index: 2;
 	min-height: 27px;
-	margin-top: 52px;
 }
 
 .html
@@ -100,16 +102,22 @@ body
 
 	#page
 	{
+		min-height: 285px;
 		max-width: 960px;
 	}
 
-	#u1302-19
+	#u1302-16
 	{
 		width: 543px;
+		min-height: 134px;
 		margin-left: 50%;
 		left: -271px;
 	}
 
+	#u128-6-bw
+	{
+		margin-top: 24px;
+	}
 }
 
 @media (max-width: 596px)
@@ -126,21 +134,21 @@ body
 
 	#page
 	{
+		min-height: 500px;
 		max-width: 596px;
 	}
 
-	#u1302-19
+	#u1302-16
 	{
+		min-height: 321px;
 		width: 91.11%;
 		margin-left: 4.45%;
 		left: 0px;
 	}
 
-	#u1302-14
+	#u128-6-bw
 	{
-		font-family: quantico, sans-serif;
-		font-weight: 400;
-		font-style: italic;
+		margin-top: 52px;
 	}
 
 	body
