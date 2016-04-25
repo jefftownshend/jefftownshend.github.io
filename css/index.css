@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #585CB1;
+	color: #000009;
+	background-color: #791E19;
 }
 
 #muse_css_mq
@@ -31,32 +31,7 @@
 	position: relative;
 }
 
-#ppu1236
-{
-	width: 0.01px;
-	margin-left: 53px;
-	margin-top: 62px;
-}
-
-#u1236
-{
-	z-index: 13;
-	height: 104px;
-	width: 116px;
-	vertical-align: top;
-	margin-bottom: -2px;
-	position: relative;
-	margin-right: -10000px;
-	left: -2px;
-	background: transparent url("../images/u1236.png") no-repeat 0px 0px;
-}
-
-#u1236:hover
-{
-	background: transparent url("../images/u1236-r.png") no-repeat 1px 0px;
-}
-
-#u1229-4
+#u1229-16
 {
 	z-index: 8;
 	width: 346px;
@@ -64,100 +39,20 @@
 	background-color: transparent;
 	line-height: 19px;
 	color: #141414;
+	text-align: center;
 	font-size: 16px;
 	font-family: roboto, sans-serif;
+	margin-left: 127px;
+	margin-top: 76px;
+	position: relative;
+}
+
+#u1229-3,#u1229-4,#u1229-6,#u1229-7
+{
 	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 129px;
 }
 
-#ppu6515
-{
-	width: 0.01px;
-	margin-left: 53px;
-	margin-top: 36px;
-}
-
-#u6515
-{
-	z-index: 23;
-	height: 103px;
-	width: 116px;
-	vertical-align: top;
-	margin-bottom: -2px;
-	position: relative;
-	margin-right: -10000px;
-	left: -2px;
-	background: transparent url("../images/u6515.png") no-repeat 0px 0px;
-}
-
-#u6515:hover
-{
-	background: transparent url("../images/u6515-r.png") no-repeat 1px 0px;
-}
-
-#u6522-4
-{
-	z-index: 25;
-	width: 352px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #141414;
-	font-size: 16px;
-	font-family: roboto, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 38px;
-	left: 129px;
-}
-
-#ppu4123
-{
-	width: 0.01px;
-	margin-left: 53px;
-	margin-top: 42px;
-}
-
-#u4123
-{
-	z-index: 20;
-	height: 86px;
-	width: 116px;
-	vertical-align: top;
-	margin-bottom: -2px;
-	position: relative;
-	margin-right: -10000px;
-	left: -2px;
-	background: transparent url("../images/u4123.png") no-repeat 0px 0px;
-}
-
-#u4123:hover
-{
-	background: transparent url("../images/u4123-r.png") no-repeat 1px 0px;
-}
-
-#u1314-4
-{
-	z-index: 15;
-	width: 346px;
-	min-height: 25px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #141414;
-	font-size: 16px;
-	font-family: roboto, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 30px;
-	left: 129px;
-}
-
-#u1229,#u6522,#u1314
+#u1229,#u1229-5,#u1229-10,#u1229-11,#u1229-14
 {
 	font-weight: 300;
 }
@@ -165,7 +60,7 @@
 #pu4143
 {
 	width: 0.01px;
-	margin-top: 60px;
+	margin-top: 278px;
 }
 
 #u4143
