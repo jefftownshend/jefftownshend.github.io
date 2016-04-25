@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461623643867">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461623784196">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
     <file name="master_a-master.css" crc="3874473095" ref="index:tr330:design-links:a-course-in-mechanical-drawing:jeff:lettering"/>
@@ -9,7 +9,7 @@
     <file name="design-links.css" crc="48667847" ref="design-links"/>
     <file name="nomq_design-links.css" crc="3920921282" ref="design-links"/>
     <file name="a-course-in-mechanical-drawing.css" crc="293702416" ref="a-course-in-mechanical-drawing"/>
-    <file name="jeff.css" crc="200292349" ref="jeff"/>
+    <file name="jeff.css" crc="3789248291" ref="jeff"/>
     <file name="nomq_jeff.css" crc="298438889" ref="jeff"/>
     <file name="lettering.css" crc="3549638" ref="lettering"/>
     <file name="nomq_lettering.css" crc="372260408" ref="lettering"/>
@@ -48,7 +48,7 @@
   </folder>
   <file name="index.html" crc="528825584" seo="true" mt="1461618898266" redirect="true"/>
   <file name="tr330.html" crc="4015489545" seo="true" mt="1461617799644" redirect="true"/>
-  <file name="jeff.html" crc="3942277392" seo="true" mt="1461623630376" redirect="true"/>
+  <file name="jeff.html" crc="389638329" seo="true" mt="1461623772692" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
   <file name="lettering.html" crc="221338679" seo="true" mt="1461619848166" redirect="true"/>
   <file name="a-course-in-mechanical-drawing.html" crc="3848259444" seo="true" mt="1461619095473" redirect="true"/>

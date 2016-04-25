@@ -1,7 +1,7 @@
 .version.jeff /* version checker */
 {
-	color: #00000B;
-	background-color: #F037FD;
+	color: #0000E1;
+	background-color: #DB5723;
 }
 
 .js body
@@ -18,12 +18,11 @@
 {
 	background-image: none;
 	border-color: #000000;
-	min-height: 499.9999999999998px;
+	min-height: 800px;
 	background-color: transparent;
 	z-index: 1;
 	width: 100%;
 	border-width: 0px;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -91,9 +90,16 @@
 	font-size: 15px;
 }
 
-#u128-6,#u128-6-bw
+#u128-6
 {
 	z-index: 2;
+	min-height: 27px;
+}
+
+#u128-6-bw
+{
+	z-index: 2;
+	margin-top: 21px;
 	min-height: 27px;
 }
 
