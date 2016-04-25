@@ -98,25 +98,25 @@ body
 
 a:link
 {
-	color: #FF0000;
+	color: #FFFF00;
 	text-decoration: inherit;
 }
 
 a:visited
 {
-	color: #FF0000;
+	color: #FFFF00;
 	text-decoration: inherit;
 }
 
 a:hover
 {
-	color: #FFFF00;
+	color: #FF0000;
 	text-decoration: inherit;
 }
 
 a:active
 {
-	color: #FF0000;
+	color: #FFFF00;
 	text-decoration: inherit;
 }
 
