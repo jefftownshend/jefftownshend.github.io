@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461619638006">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461619689382">
   <folder name="css">
     <file name="site_global.css" crc="3920498554"/>
     <file name="master_a-master.css" crc="3877494209" ref="index:tr330:design-links:a-course-in-mechanical-drawing:jeff:lettering"/>
@@ -11,8 +11,8 @@
     <file name="a-course-in-mechanical-drawing.css" crc="293702416" ref="a-course-in-mechanical-drawing"/>
     <file name="jeff.css" crc="3803475875" ref="jeff"/>
     <file name="nomq_jeff.css" crc="298438889" ref="jeff"/>
-    <file name="lettering.css" crc="4030656923" ref="lettering"/>
-    <file name="nomq_lettering.css" crc="211518430" ref="lettering"/>
+    <file name="lettering.css" crc="4245259154" ref="lettering"/>
+    <file name="nomq_lettering.css" crc="3924305800" ref="lettering"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links:lettering:a-course-in-mechanical-drawing"/>
@@ -50,6 +50,6 @@
   <file name="tr330.html" crc="4015489545" seo="true" mt="1461617799644" redirect="true"/>
   <file name="jeff.html" crc="251710522" seo="true" mt="1461617799648" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
-  <file name="lettering.html" crc="221338679" seo="true" mt="1461619627007" redirect="true"/>
+  <file name="lettering.html" crc="221338679" seo="true" mt="1461619678533" redirect="true"/>
   <file name="a-course-in-mechanical-drawing.html" crc="3848259444" seo="true" mt="1461619095473" redirect="true"/>
 </manifest>
