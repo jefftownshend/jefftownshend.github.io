@@ -1,7 +1,7 @@
 .version.lettering /* version checker */
 {
-	color: #0000FD;
-	background-color: #098392;
+	color: #000000;
+	background-color: #3629C6;
 }
 
 .js body
@@ -21,6 +21,7 @@
 	margin-left: auto;
 	width: 100%;
 	margin-right: auto;
+	min-height: 280px;
 	border-width: 0px;
 	border-color: #000000;
 	background-image: none;
@@ -73,10 +74,17 @@
 	font-family: vt323, sans-serif;
 }
 
-#u128-6,#u128-6-bw
+#u128-6
 {
 	z-index: 2;
 	min-height: 27px;
+}
+
+#u128-6-bw
+{
+	z-index: 2;
+	min-height: 27px;
+	margin-top: 19px;
 }
 
 .html
@@ -103,7 +111,6 @@ body
 
 	#page
 	{
-		min-height: 285px;
 		max-width: 960px;
 	}
 
@@ -114,10 +121,6 @@ body
 		left: -271px;
 	}
 
-	#u128-6-bw
-	{
-		margin-top: 24px;
-	}
 }
 
 @media (max-width: 596px)
@@ -134,7 +137,6 @@ body
 
 	#page
 	{
-		min-height: 500px;
 		max-width: 596px;
 	}
 
@@ -143,11 +145,6 @@ body
 		width: 91.11%;
 		margin-left: 4.45%;
 		left: 0px;
-	}
-
-	#u128-6-bw
-	{
-		margin-top: 239px;
 	}
 
 	body
