@@ -1,7 +1,7 @@
 .version.me /* version checker */
 {
-	color: #00001F;
-	background-color: #F8AC28;
+	color: #000008;
+	background-color: #1D4362;
 }
 
 .js body
@@ -64,6 +64,7 @@
 {
 	font-weight: 400;
 	margin-left: 30px;
+	color: #FFFFFF;
 	margin-right: 30px;
 }
 
@@ -138,15 +139,6 @@ body
 		left: -271px;
 	}
 
-	#u701-3,#u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-12,#u701-13,#u701-15,#u701-17
-	{
-		color: #FFFFFF;
-	}
-
-	#u701-19
-	{
-		color: #FFFF00;
-	}
 }
 
 @media (max-width: 596px)
@@ -184,11 +176,6 @@ body
 		width: 91.11%;
 		margin-left: 4.45%;
 		left: 0px;
-	}
-
-	#u701-20
-	{
-		color: #FFFFFF;
 	}
 
 	#u701-19
