@@ -1,7 +1,7 @@
 .version.me /* version checker */
 {
-	color: #000003;
-	background-color: #50637E;
+	color: #0000E2;
+	background-color: #F88687;
 }
 
 .js body
@@ -47,10 +47,10 @@
 	margin-top: 12px;
 	background-color: transparent;
 	position: relative;
-	z-index: 35;
+	z-index: 36;
 }
 
-#u701-20
+#u701-21
 {
 	background-color: transparent;
 	margin-top: 13px;
@@ -60,7 +60,7 @@
 	padding-top: 12px;
 }
 
-#u701-19
+#u701-20
 {
 	margin-left: 30px;
 	font-weight: 400;
@@ -84,7 +84,7 @@
 	font-family: quantico, sans-serif;
 }
 
-#u701-15,#u701-16
+#u701-15,#u701-17
 {
 	line-height: 29px;
 	font-size: 24px;
@@ -93,7 +93,7 @@
 	font-family: vt323, sans-serif;
 }
 
-#u701-18
+#u701-19
 {
 	color: #FFFF00;
 	font-size: 15px;
@@ -141,7 +141,7 @@ body
 		left: -157px;
 	}
 
-	#u701-20
+	#u701-21
 	{
 		width: 543px;
 		min-height: 522px;
@@ -180,7 +180,7 @@ body
 		width: 100%;
 	}
 
-	#u701-20
+	#u701-21
 	{
 		min-height: 322px;
 		width: 91.11%;

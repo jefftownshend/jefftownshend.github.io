@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461565438437">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461565650726">
   <folder name="css">
     <file name="site_global.css" crc="4027778749"/>
-    <file name="master_a-master.css" crc="123572036" ref="index:tr330:me:links"/>
+    <file name="master_a-master.css" crc="414255216" ref="index:tr330:me:links"/>
     <file name="index.css" crc="4122221797" ref="index"/>
     <file name="tr330.css" crc="271649937" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:index:me:links"/>
     <file name="nomq_tr330.css" crc="189110816" ref="tr330"/>
-    <file name="me.css" crc="55599998" ref="me"/>
-    <file name="nomq_me.css" crc="4263256812" ref="me"/>
+    <file name="me.css" crc="3807938183" ref="me"/>
+    <file name="nomq_me.css" crc="3791794589" ref="me"/>
     <file name="links.css" crc="237992318" ref="links"/>
     <file name="nomq_links.css" crc="461305514" ref="links"/>
   </folder>
@@ -25,6 +25,6 @@
   </folder>
   <file name="index.html" crc="3908725562" seo="true" mt="1461565425743" redirect="true"/>
   <file name="tr330.html" crc="265796553" seo="true" mt="1461564690851" redirect="true"/>
-  <file name="me.html" crc="465433289" seo="true" mt="1461564690851" redirect="true"/>
+  <file name="me.html" crc="4127122280" seo="true" mt="1461565610645" redirect="true"/>
   <file name="links.html" crc="67332461" seo="true" mt="1461565382461" redirect="true"/>
 </manifest>
