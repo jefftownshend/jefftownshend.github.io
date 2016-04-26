@@ -1,7 +1,7 @@
 .version.jeff /* version checker */
 {
-	color: #00001D;
-	background-color: #0081CC;
+	color: #000016;
+	background-color: #C58DB7;
 }
 
 .js body
@@ -16,12 +16,13 @@
 
 #page
 {
-	margin-left: auto;
-	width: 100%;
 	margin-right: auto;
-	background-color: transparent;
-	background-image: none;
 	border-width: 0px;
+	width: 100%;
+	background-color: transparent;
+	margin-left: auto;
+	padding-bottom: 0px;
+	background-image: none;
 	border-color: #000000;
 	z-index: 1;
 }
@@ -29,8 +30,8 @@
 #u133-6:hover,#u133-6:active
 {
 	padding-bottom: 0px;
-	padding-top: 0px;
 	min-height: 55px;
+	padding-top: 0px;
 	margin: 0px;
 }
 
@@ -42,39 +43,38 @@
 
 #u737
 {
-	background-color: transparent;
-	z-index: 31;
-	position: relative;
 	margin-top: 12px;
+	background-color: transparent;
+	position: relative;
+	z-index: 37;
 }
 
-#u701-17
+#u701-23
 {
-	padding-bottom: 12px;
-	background-color: transparent;
 	margin-top: 13px;
+	background-color: transparent;
+	z-index: 14;
 	padding-top: 12px;
 	position: relative;
-	z-index: 14;
+	padding-bottom: 12px;
 }
 
-#u701-16
+#u701-22
 {
-	margin-left: 30px;
-	color: #FFFFFF;
-	margin-right: 30px;
 	font-weight: 400;
-	font-family: quantico, sans-serif;
+	color: #FFFFFF;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 
 #u701-3
 {
+	text-align: center;
 	font-size: 19px;
 	line-height: 23px;
-	text-align: center;
 }
 
-#u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-12,#u701-13,#u701-15
+#u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-13,#u701-15,#u701-16,#u701-18,#u701-19,#u701-21
 {
 	font-size: 15px;
 	line-height: 18px;
@@ -110,7 +110,7 @@ body
 
 	#page
 	{
-		min-height: 731px;
+		min-height: 730.9999999999998px;
 		max-width: 960px;
 	}
 
@@ -121,17 +121,25 @@ body
 		left: -157px;
 	}
 
-	#u701-17
+	#u701-23
 	{
 		width: 543px;
-		min-height: 262px;
+		min-height: 491px;
 		margin-left: 50%;
 		left: -271px;
 	}
 
-	#u128-6-bw
+	#u701-12
 	{
-		margin-top: 10px;
+		font-size: 24px;
+		text-align: center;
+		line-height: 29px;
+		font-family: vt323, sans-serif;
+	}
+
+	#u701-3,#u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-13,#u701-15,#u701-16,#u701-18,#u701-19,#u701-21
+	{
+		font-family: quantico, sans-serif;
 	}
 }
 
@@ -149,7 +157,7 @@ body
 
 	#page
 	{
-		min-height: 730px;
+		min-height: 729.9999999999998px;
 		max-width: 596px;
 	}
 
@@ -165,7 +173,7 @@ body
 		width: 100%;
 	}
 
-	#u701-17
+	#u701-23
 	{
 		min-height: 263px;
 		width: 91.11%;
@@ -173,14 +181,20 @@ body
 		left: 0px;
 	}
 
-	#u701-15
+	#u701-22
 	{
-		text-align: left;
+		font-family: quantico, sans-serif;
 	}
 
-	#u128-6-bw
+	#u701-12
 	{
-		margin-top: 9px;
+		font-size: 15px;
+		line-height: 18px;
+	}
+
+	#u701-21
+	{
+		text-align: left;
 	}
 
 	body

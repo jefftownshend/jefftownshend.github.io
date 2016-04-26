@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461632220471">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461687262743">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="3791227827" ref="index:tr330:design-links:jeff"/>
+    <file name="master_a-master.css" crc="3932631579" ref="index:tr330:design-links:jeff"/>
     <file name="index.css" crc="3764758249" ref="index"/>
     <file name="tr330.css" crc="360392636" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff"/>
     <file name="nomq_tr330.css" crc="189110816" ref="tr330"/>
     <file name="design-links.css" crc="48667847" ref="design-links"/>
     <file name="nomq_design-links.css" crc="3920921282" ref="design-links"/>
-    <file name="jeff.css" crc="486572492" ref="jeff"/>
-    <file name="nomq_jeff.css" crc="3961147703" ref="jeff"/>
+    <file name="jeff.css" crc="382045623" ref="jeff"/>
+    <file name="nomq_jeff.css" crc="4250418543" ref="jeff"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links"/>
@@ -25,6 +25,6 @@
   </folder>
   <file name="index.html" crc="3906548592" seo="true" mt="1461632120546" redirect="true"/>
   <file name="tr330.html" crc="4015489545" seo="true" mt="1461617799644" redirect="true"/>
-  <file name="jeff.html" crc="474140632" seo="true" mt="1461632207680" redirect="true"/>
+  <file name="jeff.html" crc="111134339" seo="true" mt="1461687249757" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
 </manifest>

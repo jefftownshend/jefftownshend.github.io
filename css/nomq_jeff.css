@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 731px;
+		min-height: 730.9999999999998px;
 		max-width: 960px;
 	}
 
@@ -21,16 +21,24 @@
 		left: -157px;
 	}
 
-	#u701-17
+	#u701-23
 	{
 		width: 543px;
-		min-height: 262px;
+		min-height: 491px;
 		margin-left: 50%;
 		left: -271px;
 	}
 
-	#u128-6-bw
+	#u701-12
 	{
-		margin-top: 10px;
+		font-size: 24px;
+		text-align: center;
+		line-height: 29px;
+		font-family: vt323, sans-serif;
+	}
+
+	#u701-3,#u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-13,#u701-15,#u701-16,#u701-18,#u701-19,#u701-21
+	{
+		font-family: quantico, sans-serif;
 	}
 
