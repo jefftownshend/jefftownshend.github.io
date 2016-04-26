@@ -1,0 +1,25 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 99.79999999999995px;
+		max-width: 960px;
+	}
+
+	#u5121
+	{
+		width: 441px;
+		margin-top: 26px;
+		margin-left: 50%;
+		left: -220px;
+	}
+
+

@@ -1,48 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #D9EC61;
-}
-
-#muse_css_mq
-{
-	background-color: #FFFFFF;
-}
-
-#page
-{
-	z-index: 1;
-	min-height: 313px;
-	background-image: none;
-	border-width: 0px;
-	border-color: #000000;
-	background-color: transparent;
-	width: 100%;
-	max-width: 960px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#u133-6
-{
-	z-index: 8;
-	min-height: 55px;
-}
-
-#u133-6:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 55px;
-	margin: 0px;
-}
-
-#u133-6:active
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 55px;
-	margin: 0px;
+	color: #0000EB;
+	background-color: #240FBF;
 }
 
 .js body
@@ -55,7 +14,28 @@
 	visibility: visible;
 }
 
-#u133-6-bw
+#page
+{
+	background-image: none;
+	margin-right: auto;
+	background-color: transparent;
+	width: 100%;
+	margin-left: auto;
+	z-index: 1;
+	padding-bottom: 0px;
+	border-color: #000000;
+	border-width: 0px;
+}
+
+#u133-6:hover,#u133-6:active
+{
+	padding-top: 0px;
+	min-height: 55px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+
+#u133-6,#u133-6-bw
 {
 	z-index: 8;
 	min-height: 55px;
@@ -64,11 +44,11 @@
 #u223-22
 {
 	z-index: 14;
-	min-height: 180px;
-	background-color: transparent;
 	text-align: center;
-	font-family: vt323, sans-serif;
+	min-height: 180px;
 	font-weight: 400;
+	background-color: transparent;
+	font-family: vt323, sans-serif;
 }
 
 #u223
@@ -91,6 +71,13 @@
 	min-height: 180px;
 }
 
+#u5121
+{
+	z-index: 36;
+	background-color: transparent;
+	position: relative;
+}
+
 #u128-6
 {
 	z-index: 2;
@@ -101,7 +88,7 @@
 {
 	z-index: 2;
 	min-height: 27px;
-	margin-top: 35px;
+	margin-top: 19px;
 }
 
 .html
@@ -112,6 +99,70 @@
 body
 {
 	position: relative;
-	min-width: 320px;
+}
+
+@media (min-width: 491px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 99.79999999999995px;
+		max-width: 960px;
+	}
+
+	#u5121
+	{
+		width: 441px;
+		margin-top: 26px;
+		margin-left: 50%;
+		left: -220px;
+	}
+
+}
+
+@media (max-width: 490px)
+{
+	#muse_css_mq
+	{
+		background-color: #0001ea;
+	}
+
+	#bp_490.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 99.95000000000005px;
+		max-width: 490px;
+	}
+
+	#u5121
+	{
+		margin-top: 21px;
+		width: 90%;
+		margin-left: 5%;
+		left: 0px;
+	}
+
+	#u5121_img
+	{
+		width: 100%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
 }
 

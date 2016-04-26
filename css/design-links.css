@@ -1,7 +1,7 @@
 .version.design_links /* version checker */
 {
-	color: #00001B;
-	background-color: #9F8CE5;
+	color: #000005;
+	background-color: #E0FCAD;
 }
 
 .js body
@@ -16,23 +16,23 @@
 
 #page
 {
-	border-width: 0px;
-	background-color: transparent;
-	padding-bottom: 0px;
-	width: 100%;
 	background-image: none;
-	z-index: 1;
-	border-color: #000000;
-	margin-left: auto;
 	margin-right: auto;
+	background-color: transparent;
+	width: 100%;
 	min-height: 499.9999999999998px;
+	margin-left: auto;
+	z-index: 1;
+	padding-bottom: 0px;
+	border-color: #000000;
+	border-width: 0px;
 }
 
 #u133-6:hover,#u133-6:active
 {
-	padding-bottom: 0px;
 	padding-top: 0px;
 	min-height: 55px;
+	padding-bottom: 0px;
 	margin: 0px;
 }
 
@@ -44,19 +44,19 @@
 
 #u886-80
 {
-	background-color: transparent;
-	position: relative;
 	padding-top: 12px;
+	background-color: transparent;
+	min-height: 522px;
+	margin-top: 26px;
 	z-index: 14;
 	padding-bottom: 12px;
-	margin-top: 26px;
-	min-height: 522px;
+	position: relative;
 }
 
 #u886-79
 {
-	margin-right: 30px;
 	margin-left: 30px;
+	margin-right: 30px;
 	font-family: quantico, sans-serif;
 	font-weight: 400;
 }
@@ -64,16 +64,16 @@
 #u886-6
 {
 	font-size: 16px;
-	line-height: 19px;
 	text-align: center;
+	line-height: 19px;
 	color: #FFFFFF;
 }
 
 #u886-9,#u886-10
 {
 	font-size: 16px;
-	line-height: 19px;
 	text-align: right;
+	line-height: 19px;
 	color: #FFFFFF;
 }
 
@@ -95,8 +95,8 @@
 #u886-30,#u886-75
 {
 	font-size: 16px;
-	color: #0E0E0E;
 	line-height: 19px;
+	color: #0E0E0E;
 }
 
 #u886-27,#u886-74
@@ -107,21 +107,28 @@
 #u886-3,#u886-11,#u886-12,#u886-17,#u886-19,#u886-20,#u886-26,#u886-32,#u886-33,#u886-39,#u886-41,#u886-42,#u886-47,#u886-49,#u886-50,#u886-55,#u886-57,#u886-58,#u886-64,#u886-66,#u886-67,#u886-73,#u886-77
 {
 	font-size: 16px;
-	color: #FFFFFF;
 	line-height: 19px;
+	color: #FFFFFF;
 }
 
 #u886-78
 {
 	font-size: 15px;
-	color: #FFFFFF;
 	line-height: 18px;
+	color: #FFFFFF;
 }
 
-#u128-6,#u128-6-bw
+#u128-6
 {
 	z-index: 2;
 	min-height: 27px;
+}
+
+#u128-6-bw
+{
+	z-index: 2;
+	min-height: 27px;
+	margin-top: 19px;
 }
 
 .html
