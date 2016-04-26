@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #000008;
-	background-color: #A89A38;
+	color: #0000F4;
+	background-color: #1BC65E;
 }
 
 .js body
@@ -46,10 +46,10 @@
 {
 	background-color: transparent;
 	position: relative;
-	z-index: 45;
+	z-index: 48;
 }
 
-#u287-31
+#u287-34
 {
 	background-color: transparent;
 	z-index: 14;
@@ -59,7 +59,7 @@
 	padding-bottom: 12px;
 }
 
-#u287-30
+#u287-33
 {
 	font-size: 15px;
 	color: #FFFFFF;
@@ -111,7 +111,7 @@ body
 		left: -96px;
 	}
 
-	#u287-31
+	#u287-34
 	{
 		width: 543px;
 		margin-top: 4px;
@@ -151,7 +151,7 @@ body
 		width: 100%;
 	}
 
-	#u287-31
+	#u287-34
 	{
 		margin-top: 5px;
 		width: 92.04%;

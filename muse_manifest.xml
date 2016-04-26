@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461690344399">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461690512807">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
     <file name="master_a-master.css" crc="3932631579" ref="index:tr330:design-links:jeff"/>
     <file name="index.css" crc="3764758249" ref="index"/>
-    <file name="tr330.css" crc="145267256" ref="tr330"/>
+    <file name="tr330.css" crc="4095460958" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff"/>
-    <file name="nomq_tr330.css" crc="80385249" ref="tr330"/>
+    <file name="nomq_tr330.css" crc="4171288635" ref="tr330"/>
     <file name="design-links.css" crc="48667847" ref="design-links"/>
     <file name="nomq_design-links.css" crc="3920921282" ref="design-links"/>
     <file name="jeff.css" crc="382045623" ref="jeff"/>
@@ -24,7 +24,7 @@
     <file name="selfimage.jpg" crc="465546273" seo="true" ref="jeff"/>
   </folder>
   <file name="index.html" crc="3906548592" seo="true" mt="1461632120546" redirect="true"/>
-  <file name="tr330.html" crc="8801983" seo="true" mt="1461690330400" redirect="true"/>
+  <file name="tr330.html" crc="4156677983" seo="true" mt="1461690485684" redirect="true"/>
   <file name="jeff.html" crc="210965195" seo="true" mt="1461690236894" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
 </manifest>
