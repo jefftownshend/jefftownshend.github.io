@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #EC710A;
+	color: #0000E2;
+	background-color: #99741C;
 }
 
 .js body
@@ -16,22 +16,22 @@
 
 #page
 {
+	border-color: #000000;
+	z-index: 1;
+	width: 100%;
+	border-width: 0px;
+	padding-bottom: 0px;
+	background-color: transparent;
+	margin-left: auto;
 	background-image: none;
 	margin-right: auto;
-	background-color: transparent;
-	width: 100%;
-	margin-left: auto;
-	z-index: 1;
-	padding-bottom: 0px;
-	border-color: #000000;
-	border-width: 0px;
 }
 
 #u133-6:hover,#u133-6:active
 {
-	padding-top: 0px;
-	min-height: 55px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
 	margin: 0px;
 }
 
@@ -43,28 +43,28 @@
 
 #u223-22
 {
+	z-index: 14;
 	text-align: center;
 	padding-right: 15px;
 	min-height: 180px;
-	padding-left: 15px;
 	font-weight: 400;
-	background-color: transparent;
-	z-index: 14;
+	padding-left: 15px;
 	font-family: vt323, sans-serif;
+	background-color: transparent;
 }
 
 #u223
 {
+	color: #FFFFFF;
 	font-size: 23px;
 	line-height: 28px;
-	color: #FFFFFF;
 }
 
 #u223-5,#u223-6,#u223-8,#u223-9,#u223-14,#u223-15,#u223-20
 {
+	color: #FFFFFF;
 	font-size: 20px;
 	line-height: 24px;
-	color: #FFFFFF;
 }
 
 #u223-22-bw
