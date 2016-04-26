@@ -1,7 +1,7 @@
 .version.jeff /* version checker */
 {
-	color: #000000;
-	background-color: #39B8A9;
+	color: #00001D;
+	background-color: #0081CC;
 }
 
 .js body
@@ -16,12 +16,12 @@
 
 #page
 {
-	border-width: 0px;
-	background-color: transparent;
+	margin-left: auto;
 	width: 100%;
 	margin-right: auto;
-	margin-left: auto;
+	background-color: transparent;
 	background-image: none;
+	border-width: 0px;
 	border-color: #000000;
 	z-index: 1;
 }
@@ -29,8 +29,8 @@
 #u133-6:hover,#u133-6:active
 {
 	padding-bottom: 0px;
-	min-height: 55px;
 	padding-top: 0px;
+	min-height: 55px;
 	margin: 0px;
 }
 
@@ -42,36 +42,36 @@
 
 #u737
 {
-	margin-top: 12px;
 	background-color: transparent;
-	position: relative;
 	z-index: 31;
+	position: relative;
+	margin-top: 12px;
 }
 
 #u701-17
 {
 	padding-bottom: 12px;
+	background-color: transparent;
 	margin-top: 13px;
 	padding-top: 12px;
-	background-color: transparent;
 	position: relative;
 	z-index: 14;
 }
 
 #u701-16
 {
-	margin-right: 30px;
 	margin-left: 30px;
 	color: #FFFFFF;
-	font-family: quantico, sans-serif;
+	margin-right: 30px;
 	font-weight: 400;
+	font-family: quantico, sans-serif;
 }
 
 #u701-3
 {
 	font-size: 19px;
-	text-align: center;
 	line-height: 23px;
+	text-align: center;
 }
 
 #u701-4,#u701-6,#u701-7,#u701-9,#u701-10,#u701-12,#u701-13,#u701-15
