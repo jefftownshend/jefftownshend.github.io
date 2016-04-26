@@ -13,8 +13,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://soundandgraphic.com/images/blind.gif</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/images/corner.gif</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/images/moreholw.gif</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/images/moreplug.gif</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/images/tape.gif</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://soundandgraphic.com/index.html</loc>
-    <lastmod>2016-04-25</lastmod>
+    <lastmod>2016-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,6 +62,12 @@
   </url>
   <url>
     <loc>http://soundandgraphic.com/design-links.html</loc>
+    <lastmod>2016-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://soundandgraphic.com/8mmgifs.html</loc>
     <lastmod>2016-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
