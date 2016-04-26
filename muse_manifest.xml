@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461704909755">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461705603227">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="4109636932" ref="index:tr330:design-links:jeff:8mmgifs"/>
+    <file name="master_a-master.css" crc="3882832299" ref="index:tr330:design-links:jeff:8mmgifs"/>
     <file name="index.css" crc="3801707548" ref="index"/>
     <file name="tr330.css" crc="4087542165" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff:8mmgifs:index"/>
@@ -10,8 +10,8 @@
     <file name="nomq_design-links.css" crc="4213934612" ref="design-links"/>
     <file name="jeff.css" crc="4288363009" ref="jeff"/>
     <file name="nomq_jeff.css" crc="4250418543" ref="jeff"/>
-    <file name="8mmgifs.css" crc="272156695" ref="8mmgifs"/>
-    <file name="nomq_8mmgifs.css" crc="302409251" ref="8mmgifs"/>
+    <file name="8mmgifs.css" crc="3760652285" ref="8mmgifs"/>
+    <file name="nomq_8mmgifs.css" crc="318015922" ref="8mmgifs"/>
     <file name="nomq_index.css" crc="120858278" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -36,5 +36,5 @@
   <file name="tr330.html" crc="368695793" seo="true" mt="1461699227067" redirect="true"/>
   <file name="jeff.html" crc="3866562365" seo="true" mt="1461699271925" redirect="true"/>
   <file name="design-links.html" crc="425739502" seo="true" mt="1461699227067" redirect="true"/>
-  <file name="8mmgifs.html" crc="4119535719" seo="true" mt="1461699253259" redirect="true"/>
+  <file name="8mmgifs.html" crc="4174661002" seo="true" mt="1461705587178" redirect="true"/>
 </manifest>
