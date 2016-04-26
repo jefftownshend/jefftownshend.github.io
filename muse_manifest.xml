@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461689656324">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461690246191">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
     <file name="master_a-master.css" crc="3932631579" ref="index:tr330:design-links:jeff"/>
@@ -25,6 +25,6 @@
   </folder>
   <file name="index.html" crc="3906548592" seo="true" mt="1461632120546" redirect="true"/>
   <file name="tr330.html" crc="4015489545" seo="true" mt="1461617799644" redirect="true"/>
-  <file name="jeff.html" crc="4000450402" seo="true" mt="1461689628252" redirect="true"/>
+  <file name="jeff.html" crc="210965195" seo="true" mt="1461690236894" redirect="true"/>
   <file name="design-links.html" crc="4097593213" seo="true" mt="1461617824383" redirect="true"/>
 </manifest>
