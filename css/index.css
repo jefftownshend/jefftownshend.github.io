@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #273801;
+	color: #000010;
+	background-color: #D9EC61;
 }
 
 #muse_css_mq
@@ -61,7 +61,7 @@
 	min-height: 55px;
 }
 
-#u223-21
+#u223-22
 {
 	z-index: 14;
 	min-height: 180px;
@@ -78,14 +78,14 @@
 	color: #FFFFFF;
 }
 
-#u223-5,#u223-6,#u223-8,#u223-9,#u223-13,#u223-14,#u223-19
+#u223-5,#u223-6,#u223-8,#u223-9,#u223-14,#u223-15,#u223-20
 {
 	font-size: 20px;
 	line-height: 24px;
 	color: #FFFFFF;
 }
 
-#u223-21-bw
+#u223-22-bw
 {
 	z-index: 14;
 	min-height: 180px;
