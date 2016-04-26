@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461699446657">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1461699513240">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
     <file name="master_a-master.css" crc="4227853845" ref="index:tr330:design-links:jeff:8mmgifs"/>
-    <file name="index.css" crc="3945009087" ref="index"/>
+    <file name="index.css" crc="317485322" ref="index"/>
     <file name="tr330.css" crc="4087542165" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff:8mmgifs:index"/>
     <file name="nomq_tr330.css" crc="4171288635" ref="tr330"/>
@@ -32,7 +32,7 @@
     <file name="tape.gif" crc="3981491240" seo="true" ref="8mmgifs"/>
     <file name="defined.jpg" crc="142332300" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="379793718" seo="true" mt="1461699419619" redirect="true"/>
+  <file name="index.html" crc="379793718" seo="true" mt="1461699496750" redirect="true"/>
   <file name="tr330.html" crc="368695793" seo="true" mt="1461699227067" redirect="true"/>
   <file name="jeff.html" crc="3866562365" seo="true" mt="1461699271925" redirect="true"/>
   <file name="design-links.html" crc="425739502" seo="true" mt="1461699227067" redirect="true"/>

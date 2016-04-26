@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #240FBF;
+	color: #000012;
+	background-color: #EC710A;
 }
 
 .js body
@@ -43,11 +43,13 @@
 
 #u223-22
 {
-	z-index: 14;
 	text-align: center;
+	padding-right: 15px;
 	min-height: 180px;
+	padding-left: 15px;
 	font-weight: 400;
 	background-color: transparent;
+	z-index: 14;
 	font-family: vt323, sans-serif;
 }
 
