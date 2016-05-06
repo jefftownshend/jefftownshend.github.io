@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #000000;
-	background-color: #D7CDDE;
+	color: #000006;
+	background-color: #4BA158;
 }
 
 .js body
@@ -44,12 +44,12 @@
 
 #u290
 {
-	z-index: 48;
+	z-index: 45;
 	position: relative;
 	background-color: transparent;
 }
 
-#u287-34
+#u287-31
 {
 	z-index: 14;
 	min-height: 391px;
@@ -59,7 +59,7 @@
 	background-color: transparent;
 }
 
-#u287-33
+#u287-30
 {
 	margin-left: 30px;
 	font-family: quantico, sans-serif;
@@ -118,7 +118,7 @@ body
 		left: -96px;
 	}
 
-	#u287-34
+	#u287-31
 	{
 		width: 543px;
 		margin-top: 4px;
@@ -158,7 +158,7 @@ body
 		width: 100%;
 	}
 
-	#u287-34
+	#u287-31
 	{
 		margin-top: 5px;
 		width: 92.04%;
