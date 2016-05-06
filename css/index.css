@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #9A3267;
+	color: #0000EB;
+	background-color: #154C24;
 }
 
 .js body
@@ -16,22 +16,22 @@
 
 #page
 {
-	background-image: none;
+	min-height: 100px;
 	width: 100%;
+	border-color: #000000;
+	border-width: 0px;
+	margin-left: auto;
 	margin-right: auto;
 	z-index: 1;
-	border-width: 0px;
 	background-color: transparent;
-	min-height: 100px;
-	border-color: #000000;
-	margin-left: auto;
+	background-image: none;
 }
 
 #u133-6:hover,#u133-6:active
 {
+	min-height: 55px;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 55px;
 	margin: 0px;
 }
 
@@ -41,33 +41,33 @@
 	z-index: 8;
 }
 
-#u223-16
+#u223-22
 {
-	text-align: center;
+	min-height: 180px;
+	padding-right: 15px;
 	font-weight: 400;
 	font-family: vt323, sans-serif;
 	padding-left: 15px;
-	padding-right: 15px;
-	background-color: transparent;
-	min-height: 180px;
 	z-index: 14;
+	background-color: transparent;
+	text-align: center;
 }
 
 #u223
 {
+	line-height: 28px;
 	color: #FFFFFF;
 	font-size: 23px;
-	line-height: 28px;
 }
 
-#u223-5,#u223-6,#u223-8,#u223-9,#u223-14
+#u223-5,#u223-6,#u223-8,#u223-9,#u223-14,#u223-15,#u223-20
 {
+	line-height: 24px;
 	color: #FFFFFF;
 	font-size: 20px;
-	line-height: 24px;
 }
 
-#u223-16-bw
+#u223-22-bw
 {
 	min-height: 180px;
 	z-index: 14;
@@ -82,8 +82,8 @@
 #u128-6-bw
 {
 	min-height: 27px;
-	margin-top: 19px;
 	z-index: 2;
+	margin-top: 19px;
 }
 
 .html
