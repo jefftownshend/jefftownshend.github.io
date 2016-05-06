@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1462543347793">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1462560103797">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
     <file name="master_a-master.css" crc="3800869659" ref="index:tr330:design-links:jeff:8mmgifs:qc"/>
@@ -13,7 +13,7 @@
     <file name="8mmgifs.css" crc="3760652285" ref="8mmgifs"/>
     <file name="nomq_8mmgifs.css" crc="318015922" ref="8mmgifs"/>
     <file name="nomq_index.css" crc="80064020" ref="index"/>
-    <file name="qc.css" crc="463337763" ref="qc"/>
+    <file name="qc.css" crc="4183831664" ref="qc"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
@@ -32,7 +32,6 @@
     <file name="moreplug.gif" crc="4195651685" seo="true" ref="8mmgifs"/>
     <file name="tape.gif" crc="3981491240" seo="true" ref="8mmgifs"/>
     <file name="qcfin.jpg" crc="4008070475" seo="true" ref="qc"/>
-    <file name="rea.jpg" crc="4135078753" seo="true" ref="qc"/>
     <file name="reas1.jpg" crc="90131866" seo="true" ref="qc"/>
     <file name="quthm.jpg" crc="400057932" seo="true" ref="qc"/>
     <file name="pyongthm.jpg" crc="12584107" seo="true" ref="qc"/>
@@ -56,5 +55,5 @@
   <file name="jeff.html" crc="522901504" seo="true" mt="1461861755685" redirect="true"/>
   <file name="design-links.html" crc="425739502" seo="true" mt="1461699227067" redirect="true"/>
   <file name="8mmgifs.html" crc="4174661002" seo="true" mt="1461705587178" redirect="true"/>
-  <file name="qc.html" crc="309008408" seo="true" mt="1462543328914" redirect="true"/>
+  <file name="qc.html" crc="112325597" seo="true" mt="1462560050622" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.qc /* version checker */
 {
-	color: #00001B;
-	background-color: #9DF923;
+	color: #0000F9;
+	background-color: #603470;
 }
 
 #muse_css_mq
@@ -12,11 +12,12 @@
 #page
 {
 	z-index: 1;
-	min-height: 500px;
+	min-height: 499.90000000000146px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	width: 100%;
 	max-width: 1200px;
 	margin-left: auto;
@@ -79,7 +80,6 @@
 	background-color: transparent;
 	line-height: 18px;
 	font-size: 15px;
-	color: #FFFFFF;
 	font-family: quantico, sans-serif;
 	font-weight: 400;
 	padding: 12px 30px;
@@ -90,6 +90,11 @@
 	content: '•';
 }
 
+#u5800-2,#u5800-3,#u5800-5,#u5800-6,#u5800-8,#u5800-10,#u5800-12,#u5800-14,#u5800-16,#u5800-17,#u5800-19,#u5800-20,#u5800-22
+{
+	color: #FFFFFF;
+}
+
 #u5800-24-bw
 {
 	z-index: 14;
@@ -97,21 +102,11 @@
 	margin-top: 35px;
 }
 
-#u5947
-{
-	z-index: 40;
-	background-color: transparent;
-	margin-top: 18px;
-	position: relative;
-	width: 67.34%;
-	margin-left: 16.34%;
-	left: 0px;
-}
-
 #u5989
 {
-	z-index: 48;
+	z-index: 46;
 	background-color: transparent;
+	margin-top: 14px;
 	position: relative;
 	width: 67.34%;
 	margin-left: 16.34%;
@@ -119,26 +114,6 @@
 }
 
 #u5967
-{
-	z-index: 44;
-	background-color: transparent;
-	position: relative;
-	width: 67.34%;
-	margin-left: 16.34%;
-	left: 0px;
-}
-
-#u5979
-{
-	z-index: 46;
-	background-color: transparent;
-	position: relative;
-	width: 67.34%;
-	margin-left: 16.34%;
-	left: 0px;
-}
-
-#u5957
 {
 	z-index: 42;
 	background-color: transparent;
@@ -148,9 +123,29 @@
 	left: 0px;
 }
 
+#u5979
+{
+	z-index: 44;
+	background-color: transparent;
+	position: relative;
+	width: 67.34%;
+	margin-left: 16.34%;
+	left: 0px;
+}
+
+#u5957
+{
+	z-index: 40;
+	background-color: transparent;
+	position: relative;
+	width: 67.34%;
+	margin-left: 16.34%;
+	left: 0px;
+}
+
 #u5999
 {
-	z-index: 50;
+	z-index: 48;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -160,7 +155,7 @@
 
 #u6028
 {
-	z-index: 52;
+	z-index: 50;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -170,7 +165,7 @@
 
 #u6048
 {
-	z-index: 56;
+	z-index: 54;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -180,7 +175,7 @@
 
 #u6038
 {
-	z-index: 54;
+	z-index: 52;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -190,7 +185,7 @@
 
 #u6058
 {
-	z-index: 58;
+	z-index: 56;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -200,7 +195,7 @@
 
 #u6068
 {
-	z-index: 60;
+	z-index: 58;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -210,7 +205,7 @@
 
 #u6098
 {
-	z-index: 64;
+	z-index: 62;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -220,7 +215,7 @@
 
 #u6088
 {
-	z-index: 62;
+	z-index: 60;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -230,7 +225,7 @@
 
 #u6198
 {
-	z-index: 66;
+	z-index: 64;
 	background-color: transparent;
 	position: relative;
 	width: 70.42%;
@@ -240,7 +235,7 @@
 
 #u6228
 {
-	z-index: 70;
+	z-index: 68;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -250,7 +245,7 @@
 
 #u6208
 {
-	z-index: 68;
+	z-index: 66;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -260,7 +255,7 @@
 
 #u6248
 {
-	z-index: 74;
+	z-index: 72;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -270,7 +265,7 @@
 
 #u6238
 {
-	z-index: 72;
+	z-index: 70;
 	background-color: transparent;
 	position: relative;
 	width: 89.75%;
@@ -278,7 +273,7 @@
 	left: 0px;
 }
 
-#u5878_img,#u5947_img,#u5989_img,#u5967_img,#u5979_img,#u5957_img,#u5999_img,#u6028_img,#u6048_img,#u6038_img,#u6058_img,#u6068_img,#u6098_img,#u6088_img,#u6198_img,#u6228_img,#u6208_img,#u6248_img,#u6238_img
+#u5878_img,#u5989_img,#u5967_img,#u5979_img,#u5957_img,#u5999_img,#u6028_img,#u6048_img,#u6038_img,#u6058_img,#u6068_img,#u6098_img,#u6088_img,#u6198_img,#u6228_img,#u6208_img,#u6248_img,#u6238_img
 {
 	width: 100%;
 }
