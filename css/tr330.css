@@ -1,7 +1,7 @@
 .version.tr330 /* version checker */
 {
-	color: #0000F3;
-	background-color: #A2F195;
+	color: #000000;
+	background-color: #D7CDDE;
 }
 
 .js body
@@ -16,23 +16,23 @@
 
 #page
 {
-	background-image: none;
-	margin-right: auto;
-	background-color: transparent;
-	width: 100%;
-	min-height: 499.5999999999998px;
 	margin-left: auto;
 	z-index: 1;
-	padding-bottom: 0px;
-	border-color: #000000;
+	background-image: none;
 	border-width: 0px;
+	padding-bottom: 0px;
+	width: 100%;
+	border-color: #000000;
+	margin-right: auto;
+	min-height: 499.5999999999998px;
+	background-color: transparent;
 }
 
 #u133-6:hover,#u133-6:active
 {
-	padding-top: 0px;
 	min-height: 55px;
 	padding-bottom: 0px;
+	padding-top: 0px;
 	margin: 0px;
 }
 
@@ -45,29 +45,29 @@
 #u290
 {
 	z-index: 48;
-	background-color: transparent;
 	position: relative;
+	background-color: transparent;
 }
 
 #u287-34
 {
-	padding-top: 12px;
-	background-color: transparent;
-	min-height: 391px;
 	z-index: 14;
+	min-height: 391px;
 	padding-bottom: 12px;
 	position: relative;
+	padding-top: 12px;
+	background-color: transparent;
 }
 
 #u287-33
 {
-	font-size: 15px;
-	line-height: 18px;
-	font-weight: 400;
 	margin-left: 30px;
-	margin-right: 30px;
-	color: #FFFFFF;
 	font-family: quantico, sans-serif;
+	font-weight: 400;
+	margin-right: 30px;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-size: 15px;
 }
 
 #u128-6
@@ -79,8 +79,8 @@
 #u128-6-bw
 {
 	z-index: 2;
-	min-height: 27px;
 	margin-top: 19px;
+	min-height: 27px;
 }
 
 .html
