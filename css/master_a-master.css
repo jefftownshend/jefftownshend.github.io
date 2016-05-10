@@ -1,20 +1,20 @@
 #u133-6
 {
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #000000;
-	line-height: 48px;
-	text-align: center;
 	font-size: 40px;
+	line-height: 48px;
+	border-color: transparent;
+	border-width: 0px;
+	background-color: #000000;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: vt323, sans-serif;
 	font-weight: 400;
 }
 
 #u133-6:hover p,#u133-6:hover span,#u133-6:active p,#u133-6:active span
 {
-	color: #FFFF00;
 	visibility: inherit;
+	color: #FFFF00;
 }
 
 #u133-2
@@ -24,13 +24,14 @@
 
 #u128-6
 {
-	background-color: #000000;
-	line-height: 23px;
-	text-align: center;
 	font-size: 19px;
+	line-height: 23px;
+	background-color: #000000;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: vt323, sans-serif;
 	font-weight: 400;
 }
+
 
 

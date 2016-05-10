@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #154C24;
+	color: #000005;
+	background-color: #2D6AFE;
 }
 
 .js body
@@ -17,14 +17,14 @@
 #page
 {
 	min-height: 100px;
-	width: 100%;
+	margin-left: auto;
 	border-color: #000000;
 	border-width: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	z-index: 1;
 	background-color: transparent;
+	width: 100%;
 	background-image: none;
+	z-index: 1;
+	margin-right: auto;
 }
 
 #u133-6:hover,#u133-6:active
@@ -37,53 +37,53 @@
 
 #u133-6,#u133-6-bw
 {
-	min-height: 55px;
 	z-index: 8;
+	min-height: 55px;
 }
 
-#u223-22
+#u223-16
 {
 	min-height: 180px;
-	padding-right: 15px;
 	font-weight: 400;
-	font-family: vt323, sans-serif;
-	padding-left: 15px;
-	z-index: 14;
 	background-color: transparent;
+	padding-left: 15px;
 	text-align: center;
+	z-index: 14;
+	font-family: vt323, sans-serif;
+	padding-right: 15px;
 }
 
 #u223
 {
-	line-height: 28px;
-	color: #FFFFFF;
 	font-size: 23px;
-}
-
-#u223-5,#u223-6,#u223-8,#u223-9,#u223-14,#u223-15,#u223-20
-{
-	line-height: 24px;
 	color: #FFFFFF;
-	font-size: 20px;
+	line-height: 28px;
 }
 
-#u223-22-bw
+#u223-5,#u223-6,#u223-8,#u223-9,#u223-14
 {
-	min-height: 180px;
+	font-size: 20px;
+	color: #FFFFFF;
+	line-height: 24px;
+}
+
+#u223-16-bw
+{
 	z-index: 14;
+	min-height: 180px;
 }
 
 #u128-6
 {
-	min-height: 27px;
 	z-index: 2;
+	min-height: 27px;
 }
 
 #u128-6-bw
 {
 	min-height: 27px;
-	z-index: 2;
 	margin-top: 19px;
+	z-index: 2;
 }
 
 .html
