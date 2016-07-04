@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #2D6AFE;
+	color: #00001B;
+	background-color: #A7A563;
 }
 
 .js body
@@ -16,22 +16,22 @@
 
 #page
 {
-	min-height: 100px;
-	margin-left: auto;
-	border-color: #000000;
 	border-width: 0px;
-	background-color: transparent;
-	width: 100%;
+	border-color: #000000;
 	background-image: none;
-	z-index: 1;
 	margin-right: auto;
+	z-index: 1;
+	width: 100%;
+	background-color: transparent;
+	margin-left: auto;
+	min-height: 100px;
 }
 
 #u133-6:hover,#u133-6:active
 {
-	min-height: 55px;
-	padding-top: 0px;
 	padding-bottom: 0px;
+	padding-top: 0px;
+	min-height: 55px;
 	margin: 0px;
 }
 
@@ -41,33 +41,33 @@
 	min-height: 55px;
 }
 
-#u223-16
+#u223-22
 {
-	min-height: 180px;
-	font-weight: 400;
-	background-color: transparent;
-	padding-left: 15px;
 	text-align: center;
-	z-index: 14;
-	font-family: vt323, sans-serif;
+	padding-left: 15px;
 	padding-right: 15px;
+	font-weight: 400;
+	z-index: 14;
+	background-color: transparent;
+	font-family: vt323, sans-serif;
+	min-height: 180px;
 }
 
 #u223
 {
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
 	line-height: 28px;
 }
 
-#u223-5,#u223-6,#u223-8,#u223-9,#u223-14
+#u223-5,#u223-6,#u223-8,#u223-9,#u223-14,#u223-16,#u223-20
 {
-	font-size: 20px;
 	color: #FFFFFF;
+	font-size: 20px;
 	line-height: 24px;
 }
 
-#u223-16-bw
+#u223-22-bw
 {
 	z-index: 14;
 	min-height: 180px;
@@ -81,9 +81,9 @@
 
 #u128-6-bw
 {
-	min-height: 27px;
-	margin-top: 19px;
 	z-index: 2;
+	margin-top: 19px;
+	min-height: 27px;
 }
 
 .html
