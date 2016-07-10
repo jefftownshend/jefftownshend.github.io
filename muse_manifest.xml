@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1467674872050">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1468168464180">
   <folder name="css">
     <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="4013164488" ref="index:tr330:design-links:jeff:8mmgifs:qc"/>
-    <file name="index.css" crc="463971683" ref="index"/>
+    <file name="master_a-master.css" crc="376330395" ref="index:tr330:design-links:jeff:8mmgifs:qc"/>
+    <file name="index.css" crc="4071663009" ref="index"/>
     <file name="tr330.css" crc="105619800" ref="tr330"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff:8mmgifs:index"/>
     <file name="nomq_tr330.css" crc="80385249" ref="tr330"/>
@@ -50,7 +50,7 @@
     <file name="reas4.jpg" crc="3994182941" seo="true" ref="qc"/>
     <file name="semiq.jpg" crc="3798050638" seo="true" ref="qc"/>
   </folder>
-  <file name="index.html" crc="3953780227" seo="true" mt="1467674857836" redirect="true"/>
+  <file name="index.html" crc="3959281509" seo="true" mt="1468168451509" redirect="true"/>
   <file name="tr330.html" crc="4257511137" seo="true" mt="1462504219638" redirect="true"/>
   <file name="jeff.html" crc="522901504" seo="true" mt="1461861755685" redirect="true"/>
   <file name="design-links.html" crc="425739502" seo="true" mt="1461699227067" redirect="true"/>
