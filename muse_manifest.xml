@@ -1,36 +1,38 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1468168464180">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="soundandgraphic.com" resolutions="1x" timestamp="1477404481778">
   <folder name="css">
-    <file name="site_global.css" crc="4225304696"/>
-    <file name="master_a-master.css" crc="376330395" ref="index:tr330:design-links:jeff:8mmgifs:qc"/>
-    <file name="index.css" crc="4071663009" ref="index"/>
-    <file name="tr330.css" crc="105619800" ref="tr330"/>
-    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="tr330:design-links:jeff:8mmgifs:index"/>
-    <file name="nomq_tr330.css" crc="80385249" ref="tr330"/>
-    <file name="design-links.css" crc="98630829" ref="design-links"/>
-    <file name="nomq_design-links.css" crc="4213934612" ref="design-links"/>
-    <file name="jeff.css" crc="4222702862" ref="jeff"/>
-    <file name="nomq_jeff.css" crc="3938485430" ref="jeff"/>
-    <file name="8mmgifs.css" crc="3760652285" ref="8mmgifs"/>
-    <file name="nomq_8mmgifs.css" crc="318015922" ref="8mmgifs"/>
-    <file name="nomq_index.css" crc="80064020" ref="index"/>
-    <file name="qc.css" crc="4183831664" ref="qc"/>
+    <file name="site_global.css" crc="4158768717"/>
+    <file name="master_a-master.css" crc="204352837" ref="index:8mmgifs:jeff:design-links:qc:tr330"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:8mmgifs:jeff:design-links:qc:tr330"/>
+    <file name="index.css" crc="394232420" ref="index"/>
+    <file name="nomq_index.css" crc="4233803586" ref="index"/>
+    <file name="8mmgifs.css" crc="4170543766" ref="8mmgifs"/>
+    <file name="nomq_8mmgifs.css" crc="3870240876" ref="8mmgifs"/>
+    <file name="jeff.css" crc="3787035179" ref="jeff"/>
+    <file name="nomq_jeff.css" crc="3870892567" ref="jeff"/>
+    <file name="design-links.css" crc="3856019924" ref="design-links"/>
+    <file name="nomq_design-links.css" crc="3765628512" ref="design-links"/>
+    <file name="qc.css" crc="3866707767" ref="qc"/>
+    <file name="tr330.css" crc="3836373022" ref="tr330"/>
+    <file name="nomq_tr330.css" crc="125875195" ref="tr330"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
-    <file name="museutils.js" crc="3790713428" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
-    <file name="whatinput.js" crc="84559013" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="tr330:index:jeff:design-links:8mmgifs:qc"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="tr330:jeff:design-links:8mmgifs:index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
+    <file name="museutils.js" crc="3851988764" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
+    <file name="museconfig.js" crc="169177150" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:tr330:jeff:design-links:8mmgifs"/>
+    <file name="require.js" crc="4108833657" ref="index:tr330:jeff:design-links:8mmgifs:qc"/>
   </folder>
   <folder name="images">
-    <file name="3303-u1251.png" crc="113327267" ref="tr330" seo="true"/>
-    <file name="blank.gif" crc="4208392903" ref="tr330:jeff:8mmgifs:design-links"/>
+    <file name="3303-u1251.png" crc="113327267" seo="true" ref="tr330"/>
+    <file name="blank.gif" crc="4208392903" ref="tr330:jeff:design-links:8mmgifs"/>
     <file name="selfimage.jpg" crc="465546273" seo="true" ref="jeff"/>
+    <file name="moreholw.gif" crc="49059621" seo="true" ref="8mmgifs"/>
     <file name="blind.gif" crc="189855389" seo="true" ref="8mmgifs"/>
     <file name="corner.gif" crc="490251205" seo="true" ref="8mmgifs"/>
-    <file name="moreholw.gif" crc="49059621" seo="true" ref="8mmgifs"/>
-    <file name="moreplug.gif" crc="4195651685" seo="true" ref="8mmgifs"/>
     <file name="tape.gif" crc="3981491240" seo="true" ref="8mmgifs"/>
+    <file name="moreplug.gif" crc="4195651685" seo="true" ref="8mmgifs"/>
     <file name="qcfin.jpg" crc="4008070475" seo="true" ref="qc"/>
     <file name="reas1.jpg" crc="90131866" seo="true" ref="qc"/>
     <file name="quthm.jpg" crc="400057932" seo="true" ref="qc"/>
@@ -50,10 +52,10 @@
     <file name="reas4.jpg" crc="3994182941" seo="true" ref="qc"/>
     <file name="semiq.jpg" crc="3798050638" seo="true" ref="qc"/>
   </folder>
-  <file name="index.html" crc="3959281509" seo="true" mt="1468168451509" redirect="true"/>
-  <file name="tr330.html" crc="4257511137" seo="true" mt="1462504219638" redirect="true"/>
-  <file name="jeff.html" crc="522901504" seo="true" mt="1461861755685" redirect="true"/>
-  <file name="design-links.html" crc="425739502" seo="true" mt="1461699227067" redirect="true"/>
-  <file name="8mmgifs.html" crc="4174661002" seo="true" mt="1461705587178" redirect="true"/>
-  <file name="qc.html" crc="4089662042" seo="true" mt="1462561042472" redirect="true"/>
+  <file name="index.html" crc="148934199" seo="true" mt="1477404454696" redirect="true"/>
+  <file name="tr330.html" crc="4203342502" seo="true" mt="1462504219638" redirect="true"/>
+  <file name="jeff.html" crc="4059654518" seo="true" mt="1461861755685" redirect="true"/>
+  <file name="design-links.html" crc="534366374" seo="true" mt="1461699227067" redirect="true"/>
+  <file name="8mmgifs.html" crc="310290147" seo="true" mt="1461705587178" redirect="true"/>
+  <file name="qc.html" crc="4103667158" seo="true" mt="1462561042472" redirect="true"/>
 </manifest>
